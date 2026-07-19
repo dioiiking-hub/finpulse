@@ -1,7 +1,8 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { useLocation } from 'react-router'
 import { motion } from 'framer-motion'
 import TickerTape from '@/components/TickerTape'
+import { overlayQuotes, useMarketSnapshot } from '@/lib/marketSnapshot'
 import StatusBand from '@/pages/markets/StatusBand'
 import IndexCards from '@/pages/markets/IndexCards'
 import type { BoardTab } from '@/pages/markets/IndexCards'
@@ -22,14 +23,16 @@ const EASE = [0.22, 0.61, 0.36, 1] as [number, number, number, number]
  * S4 汇率大宗加密 / S5 财经日历 / S6 中美联动观察。
  */
 export default function Markets() {
-  const { groups, flashes } = useDemoQuotes<BoardQuote | AssetQuote>([
-    CN_CARDS,
-    US_CARDS,
-    GLOBAL_CARDS,
-    FX_ROWS,
-    CMDTY_ROWS,
-    CRYPTO_ROWS,
-  ])
+  // 真实行情快照：可用时按 id 叠加到本地演示组（price/changePct/spark 用快照值），失败回退演示数据
+  const { quotes: snapshot } = useMarketSnapshot()
+  const baseGroups = useMemo(
+    () =>
+      [CN_CARDS, US_CARDS, GLOBAL_CARDS, FX_ROWS, CMDTY_ROWS, CRYPTO_ROWS].map(
+        (g: (BoardQuote | AssetQuote)[]) => overlayQuotes(g, snapshot),
+      ),
+    [snapshot],
+  )
+  const { groups, flashes } = useDemoQuotes<BoardQuote | AssetQuote>(baseGroups)
   const boards = groups.slice(0, 3) as LiveQuote<BoardQuote>[][]
   const assets = groups.slice(3) as LiveQuote<AssetQuote>[][]
 

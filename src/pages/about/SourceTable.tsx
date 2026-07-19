@@ -19,17 +19,21 @@ interface SourceRow {
   tip: string
 }
 
-/** 信源清单（about.md S3）：重点覆盖中美，兼顾全球宏观 */
+/** 信源清单（about.md S3，fix-v2 与 src/lib/feeds.ts 实际源同步）：RSSHub 主链路 + 直连/代理降级链 + 行情快照 */
 const SOURCES: SourceRow[] = [
-  { name: '华尔街见闻', region: '中国', type: '快讯·深度', fetch: 'RSS·代理', freq: '~1 min', status: 'ok', statusLabel: '正常', tip: '最近一次拉取成功，解析正常' },
-  { name: '财联社', region: '中国', type: '快讯', fetch: 'RSS·代理', freq: '~1 min', status: 'ok', statusLabel: '正常', tip: '最近一次拉取成功，解析正常' },
-  { name: '新浪财经', region: '中国', type: '综合', fetch: 'RSS·代理', freq: '~3 min', status: 'ok', statusLabel: '正常', tip: '最近一次拉取成功，解析正常' },
-  { name: '东方财富', region: '中国', type: '行情·快讯', fetch: 'RSS·代理', freq: '~5 min', status: 'degraded', statusLabel: '降级', tip: '最近 1 次拉取超时，使用缓存' },
-  { name: 'CNBC', region: '美国', type: '综合', fetch: 'RSS·代理', freq: '~2 min', status: 'ok', statusLabel: '正常', tip: '最近一次拉取成功，解析正常' },
-  { name: 'MarketWatch', region: '美国', type: '快讯', fetch: 'RSS·代理', freq: '~2 min', status: 'ok', statusLabel: '正常', tip: '最近一次拉取成功，解析正常' },
-  { name: 'Reuters', region: '全球', type: '快讯', fetch: 'RSS·代理', freq: '~2 min', status: 'ok', statusLabel: '正常', tip: '最近一次拉取成功，解析正常' },
-  { name: 'Yahoo Finance', region: '美国', type: '行情', fetch: 'RSS·代理', freq: '~3 min', status: 'ok', statusLabel: '正常', tip: '最近一次拉取成功，解析正常' },
-  { name: '金十数据', region: '全球', type: '快讯', fetch: '备选接入', freq: '—', status: 'pending', statusLabel: '待接入', tip: '规划中：实现同一适配器接口即可接入' },
+  { name: '财联社电报', region: '中国', type: '快讯', fetch: 'RSSHub 直连', freq: '~5 min', status: 'ok', statusLabel: '正常', tip: 'RSSHub /cls/telegraph，双实例互备，5 分钟级中文快讯，最高优先级' },
+  { name: '华尔街见闻·快讯', region: '中国', type: '快讯', fetch: 'RSSHub 直连', freq: '~5 min', status: 'ok', statusLabel: '正常', tip: 'RSSHub /wallstreetcn/live，双实例互备' },
+  { name: '华尔街见闻·新闻', region: '中国', type: '深度', fetch: 'RSSHub 直连', freq: '~30 min', status: 'ok', statusLabel: '正常', tip: 'RSSHub /wallstreetcn/news，最新文章' },
+  { name: '见闻最热', region: '中国', type: '热榜', fetch: 'RSSHub 直连', freq: '~30 min', status: 'ok', statusLabel: '正常', tip: 'RSSHub /wallstreetcn/hot，最热文章榜' },
+  { name: '新浪滚动财经', region: '中国', type: '综合', fetch: 'RSSHub 直连', freq: '~5 min', status: 'ok', statusLabel: '正常', tip: 'RSSHub /sina/rollnews/2516，财经滚动' },
+  { name: '新浪美股', region: '美国', type: '美股', fetch: 'RSSHub 直连', freq: '~5 min', status: 'ok', statusLabel: '正常', tip: 'RSSHub /sina/rollnews/2518，美股滚动' },
+  { name: '金十数据', region: '全球', type: '快讯', fetch: 'RSSHub 直连', freq: '~10 min', status: 'ok', statusLabel: '正常', tip: 'RSSHub /jin10，已接入双实例互备主链路' },
+  { name: 'CNBC', region: '美国', type: '综合', fetch: 'RSSHub 直连', freq: '~30 min', status: 'ok', statusLabel: '正常', tip: 'RSSHub /cnbc/rss，英文源（Top News 全文）' },
+  { name: 'FT中文网', region: '中国', type: '深度', fetch: 'RSS·代理', freq: '降级链', status: 'degraded', statusLabel: '备份', tip: '直连 RSS + 公共代理降级链：RSSHub 主链路失败时自动启用' },
+  { name: 'Reuters', region: '全球', type: '快讯', fetch: 'RSS·代理', freq: '降级链', status: 'degraded', statusLabel: '备份', tip: '直连 RSS + 公共代理降级链：RSSHub 主链路失败时自动启用' },
+  { name: 'MarketWatch', region: '美国', type: '快讯', fetch: 'RSS·代理', freq: '降级链', status: 'degraded', statusLabel: '备份', tip: '直连 RSS + 公共代理降级链：RSSHub 主链路失败时自动启用' },
+  { name: 'Yahoo Finance', region: '美国', type: '行情·资讯', fetch: 'RSS·代理', freq: '降级链', status: 'degraded', statusLabel: '备份', tip: '直连 RSS + 公共代理降级链：RSSHub 主链路失败时自动启用' },
+  { name: '行情快照 iFinD / Yahoo Finance', region: '全球', type: '行情快照', fetch: '插件定时任务', freq: '30 min', status: 'ok', statusLabel: '正常', tip: '30 分钟快照 · 插件定时任务：生成 market-snapshot.json，前端按 id 叠加真实行情，失败回退演示数据' },
 ]
 
 /** 状态点：正常 = down 绿点 2s 微脉冲；降级 = gold 点；待接入 = text-3 空心点 */
@@ -183,7 +187,8 @@ export default function SourceTable() {
         transition={{ delay: 0.4, duration: 0.5 }}
         className="mt-4 text-[11px] leading-5 text-text-3"
       >
-        RSS 内容版权归原出版方所有，本站仅作团队内部选题参考。
+        主链路：RSSHub 公共实例（rsshub.rssforever.com / rsshub.ktachibana.party 双实例互备，8s 超时）；
+        失败后回退直连 RSS + 公共代理降级链，最终降级为内置演示数据。RSS 内容版权归原出版方所有，本站仅作团队内部选题参考。
       </motion.p>
     </div>
   )

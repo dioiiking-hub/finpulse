@@ -1,7 +1,9 @@
+import { useMemo } from 'react'
 import { useNavigate } from 'react-router'
 import { motion } from 'framer-motion'
 import { CN_BOARD, US_BOARD, fmtChange, fmtPrice } from '@/data/markets'
 import type { MarketQuote } from '@/data/markets'
+import { overlayQuotes, useMarketSnapshot } from '@/lib/marketSnapshot'
 import RegionTag from '@/components/RegionTag'
 import Sparkline from '@/components/Sparkline'
 import SectionHeader from '@/components/SectionHeader'
@@ -81,8 +83,11 @@ function Board({
   )
 }
 
-/** S4 · 中美瞭望 */
+/** S4 · 中美瞭望（行情快照可用时叠加真实值，否则回退演示数据） */
 export default function ChinaUS() {
+  const { quotes: snapshot } = useMarketSnapshot()
+  const cnBoard = useMemo(() => overlayQuotes(CN_BOARD, snapshot), [snapshot])
+  const usBoard = useMemo(() => overlayQuotes(US_BOARD, snapshot), [snapshot])
   return (
     <section className="noise-bg border-y border-line bg-bg-1 py-24">
       <div className="mx-auto max-w-[1440px] px-4 md:px-8">
@@ -103,14 +108,14 @@ export default function ChinaUS() {
           <Board
             region="中国"
             title="A股 · 港股"
-            quotes={CN_BOARD}
+            quotes={cnBoard}
             headline="沪指放量收涨 0.82%，两市成交额重返万亿，北向资金连续五日净流入"
             fromX={-40}
           />
           <Board
             region="美国"
             title="美股"
-            quotes={US_BOARD}
+            quotes={usBoard}
             headline="英伟达营收再超预期，纳指站上 25,000 点，「降息交易」全线升温"
             fromX={40}
           />

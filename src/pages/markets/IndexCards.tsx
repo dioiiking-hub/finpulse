@@ -4,6 +4,7 @@ import CountUp from '@/components/CountUp'
 import SegmentedTabs from '@/components/SegmentedTabs'
 import Sparkline from '@/components/Sparkline'
 import { beijingClock } from '@/lib/time'
+import { snapshotClock, snapshotSourcesLabel, useMarketSnapshot } from '@/lib/marketSnapshot'
 import { useNow } from '@/lib/useNow'
 import { cn } from '@/lib/utils'
 import { deriveOhlc } from './data'
@@ -17,6 +18,19 @@ export type BoardTab = '中国' | '美国' | '全球其他'
 
 function UpdatedStamp() {
   const now = useNow(1000)
+  const { quotes, asOf, sources } = useMarketSnapshot()
+  const snapClock = quotes ? snapshotClock(asOf) : ''
+  // 快照可用：快照 HH:MM · iFinD/Yahoo Finance；否则维持演示行情标注
+  if (snapClock) {
+    return (
+      <p
+        className="shrink-0 font-mono text-xs text-text-3"
+        title={`行情快照 ${asOf ?? ''} · 30 分钟重取 · 来源 ${snapshotSourcesLabel(sources)}`}
+      >
+        快照 <span className="tnum">{snapClock}</span> · {snapshotSourcesLabel(sources)}
+      </p>
+    )
+  }
   return (
     <p className="shrink-0 font-mono text-xs text-text-3">
       更新于 <span className="tnum">{beijingClock(new Date(now))}</span> · 演示行情

@@ -11,13 +11,13 @@ interface PipelineNode {
   desc: string
 }
 
-/** 数据链路五节点（about.md S2；关键词数与 src/lib/recommend.ts 实际词库一致） */
+/** 数据链路五节点（about.md S2，fix-v2 补充 RSSHub 与插件快照环节；关键词数与 src/lib/recommend.ts 实际词库一致） */
 const NODES: PipelineNode[] = [
-  { no: '01', icon: Rss, title: '全球信源 12+', desc: '中美主流财经媒体 RSS' },
-  { no: '02', icon: Globe, title: '代理拉取', desc: '公共 CORS 代理，8s 超时保护' },
+  { no: '01', icon: Rss, title: '全球信源 20+', desc: 'RSSHub 财经路由 + 中美主流 RSS' },
+  { no: '02', icon: Globe, title: '多链路拉取', desc: 'RSSHub 双实例互备 → 公共 CORS 代理，8s 超时' },
   { no: '03', icon: FileJson, title: '解析归一化', desc: '统一标题 / 时间 / 来源结构' },
   { no: '04', icon: ScanSearch, title: '关键词引擎', desc: '130+ 关键词分类与加权' },
-  { no: '05', icon: Monitor, title: '前端看板', desc: '热点流 · 热度榜 · 选题卡' },
+  { no: '05', icon: Monitor, title: '前端看板', desc: '热点流 · 热度榜 · 行情快照叠加' },
 ]
 
 /** 连接线上循环流动的 3px gold 光点（3s linear 无限，各线相位差 0.6s）——表达“数据在流动” */
@@ -113,7 +113,8 @@ export default function PipelineFlow() {
         <p className="text-[13px] leading-6 text-text-2">
           任一环节失败或超时 → 自动切换内置演示数据流（30+ 条中美热点样本持续模拟生成），右上角徽标变为{' '}
           <span className="font-mono text-[11px] uppercase tracking-[0.12em] text-us-blue">DEMO</span>
-          ，恢复后自动切回。
+          ，恢复后自动切回。行情快照由插件定时任务每 30 分钟生成（iFinD / Yahoo Finance），前端按 id
+          叠加真实盘面；快照缺失或超时（5s）时无缝回退演示行情。
         </p>
       </motion.div>
     </div>

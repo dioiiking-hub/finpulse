@@ -4,8 +4,11 @@ import { MOCK_NEWS, nextStreamItem } from '@/data/mockNews'
 import { applyCrossSourceBoost, classifyText, computeHeat } from '@/lib/recommend'
 
 /**
- * 可插拔数据适配层（design.md §4/§7）：
- * - RSS 源经公共 CORS 代理（rss2json → allorigins）拉取解析，单源 8s 超时；
+ * 可插拔数据适配层（design.md §4/§7，fix-v2 信源扩容）：
+ * - 高优先级：RSSHub 公共实例路由（财联社电报 / 华尔街见闻×3 / 新浪×2 / 金十 / CNBC），
+ *   双实例互备（rssforever → ktachibana）；输出即 RSS/XML，复用同一 XML 解析，
+ *   公共实例允许跨域，若被 CORS 拦截则再套 allorigins 代理包装；
+ * - 降级链：既有直连 RSS 源经公共 CORS 代理（rss2json → allorigins）拉取解析，单源 8s 超时；
  * - 全部失败 → 降级为内置演示数据流（60s 轮询时持续"生成"新热点）；
  * - useNewsFeed() 暴露 { items, status, lastUpdated, nextRefreshAt, lastNew, refresh }，
  *   单例 store：Navbar / Home / Topics 共享同一份状态与同一只 60s 轮询器。
@@ -35,6 +38,31 @@ export const RSS_SOURCES: RssSource[] = [
   { name: 'Yahoo Finance', url: 'https://finance.yahoo.com/news/rssindex', region: '美国' },
   { name: 'FT Markets', url: 'https://www.ft.com/markets?format=rss', region: '全球' },
   { name: 'BBC Business', url: 'https://feeds.bbci.co.uk/news/business/rss.xml', region: '全球' },
+]
+
+/** RSSHub 公共实例（双实例互备，info-v2.md 2025-07 实测下列路由均 200） */
+const RSSHUB_INSTANCES = ['https://rsshub.rssforever.com', 'https://rsshub.ktachibana.party'] as const
+
+interface RsshubSource {
+  name: string
+  /** RSSHub 路由（含分类参数） */
+  path: string
+  region: Region
+}
+
+/**
+ * RSSHub 高优先级源（顺序即优先级，财联社电报最高）。
+ * 每源链式尝试：实例A 直连 → 实例B 直连 → 实例A allorigins → 实例B allorigins，单跳 8s 超时。
+ */
+export const RSSHUB_SOURCES: RsshubSource[] = [
+  { name: '财联社电报', path: '/cls/telegraph', region: '中国' },
+  { name: '华尔街见闻快讯', path: '/wallstreetcn/live', region: '中国' },
+  { name: '华尔街见闻新闻', path: '/wallstreetcn/news', region: '中国' },
+  { name: '见闻最热', path: '/wallstreetcn/hot', region: '中国' },
+  { name: '新浪滚动财经', path: '/sina/rollnews/2516', region: '中国' },
+  { name: '新浪美股', path: '/sina/rollnews/2518', region: '美国' },
+  { name: '金十数据', path: '/jin10', region: '全球' },
+  { name: 'CNBC', path: '/cnbc/rss', region: '美国' },
 ]
 
 /* ---------------- fetch helpers ---------------- */
@@ -80,15 +108,11 @@ async function viaRss2json(src: RssSource): Promise<RawEntry[]> {
   })).filter((e) => e.title)
 }
 
-/** 路径二：allorigins raw + DOMParser 解析 XML */
-async function viaAllOrigins(src: RssSource): Promise<RawEntry[]> {
-  const res = await fetchWithTimeout(
-    `https://api.allorigins.win/raw?url=${encodeURIComponent(src.url)}`,
-  )
-  const text = await res.text()
+/** RSS/Atom XML → RawEntry（RSSHub 直连响应与 allorigins raw 共用） */
+function parseXmlEntries(text: string): RawEntry[] {
   const doc = new DOMParser().parseFromString(text, 'text/xml')
   const nodes = Array.from(doc.querySelectorAll('item, entry')).slice(0, 10)
-  if (!nodes.length) throw new Error('allorigins: no items')
+  if (!nodes.length) throw new Error('xml: no items')
   const pick = (el: Element, sels: string[]) => {
     for (const s of sels) {
       const found = el.querySelector(s)
@@ -109,6 +133,34 @@ async function viaAllOrigins(src: RssSource): Promise<RawEntry[]> {
   }).filter((e) => e.title)
 }
 
+/** 路径二：allorigins raw + DOMParser 解析 XML */
+async function viaAllOrigins(src: RssSource): Promise<RawEntry[]> {
+  const res = await fetchWithTimeout(
+    `https://api.allorigins.win/raw?url=${encodeURIComponent(src.url)}`,
+  )
+  return parseXmlEntries(await res.text())
+}
+
+/** 路径零（高优先级）：RSSHub 公共实例直连（公共实例允许跨域），被 CORS 拦截时回退 allorigins 包装 */
+async function viaRsshub(src: RsshubSource): Promise<RawEntry[]> {
+  const attempts = [
+    ...RSSHUB_INSTANCES.map((inst) => `${inst}${src.path}`),
+    ...RSSHUB_INSTANCES.map(
+      (inst) => `https://api.allorigins.win/raw?url=${encodeURIComponent(`${inst}${src.path}`)}`,
+    ),
+  ]
+  let lastErr: unknown = new Error('rsshub: no attempts')
+  for (const url of attempts) {
+    try {
+      const res = await fetchWithTimeout(url)
+      return parseXmlEntries(await res.text())
+    } catch (e) {
+      lastErr = e
+    }
+  }
+  throw lastErr instanceof Error ? lastErr : new Error('rsshub: failed')
+}
+
 function detectRegion(text: string, fallback: Region): Region {
   if (/中国|央行|人民币|A股|沪指|港股|恒生|证监会|国务院|发改委|北向|南向/.test(text)) return '中国'
   if (/美国|美联储|美元|纳斯达克|标普|华尔道夫|白宫|U\.S\.|Fed\b/i.test(text)) return '美国'
@@ -116,7 +168,7 @@ function detectRegion(text: string, fallback: Region): Region {
 }
 
 let liveSeq = 0
-function entryToNewsItem(src: RssSource, e: RawEntry): NewsItem {
+function entryToNewsItem(src: { name: string; region: Region }, e: RawEntry): NewsItem {
   const { category, hits } = classifyText(e.title, e.summary)
   const region = detectRegion(`${e.title} ${e.summary}`, src.region)
   const base: Omit<NewsItem, 'heat'> = {
@@ -133,28 +185,39 @@ function entryToNewsItem(src: RssSource, e: RawEntry): NewsItem {
   return { ...base, heat: computeHeat(base) }
 }
 
-/** 拉取全部 RSS 源；全部失败时抛错（由调用方降级） */
+/** 拉取 RSSHub 高优先级源 + 直连/代理降级链全部 RSS 源；全部失败时抛错（由调用方降级为演示数据流） */
 export async function fetchLiveNews(): Promise<NewsItem[]> {
-  const results = await Promise.allSettled(
-    RSS_SOURCES.map(async (src) => {
-      try {
-        return await viaRss2json(src)
-      } catch {
-        return await viaAllOrigins(src)
-      }
-    }),
-  )
+  // 两组并行拉取；合并时 RSSHub 结果在前，标题去重优先保留高优先级源
+  const [hubResults, directResults] = await Promise.all([
+    Promise.allSettled(RSSHUB_SOURCES.map((src) => viaRsshub(src))),
+    Promise.allSettled(
+      RSS_SOURCES.map(async (src) => {
+        try {
+          return await viaRss2json(src)
+        } catch {
+          return await viaAllOrigins(src)
+        }
+      }),
+    ),
+  ])
   const items: NewsItem[] = []
   const seen = new Set<string>()
-  results.forEach((r, i) => {
-    if (r.status !== 'fulfilled') return
-    for (const e of r.value) {
-      const key = e.title.slice(0, 24)
-      if (seen.has(key)) continue
-      seen.add(key)
-      items.push(entryToNewsItem(RSS_SOURCES[i], e))
-    }
-  })
+  const collect = (
+    results: PromiseSettledResult<RawEntry[]>[],
+    sources: readonly { name: string; region: Region }[],
+  ) => {
+    results.forEach((r, i) => {
+      if (r.status !== 'fulfilled') return
+      for (const e of r.value) {
+        const key = e.title.slice(0, 24)
+        if (seen.has(key)) continue
+        seen.add(key)
+        items.push(entryToNewsItem(sources[i], e))
+      }
+    })
+  }
+  collect(hubResults, RSSHUB_SOURCES)
+  collect(directResults, RSS_SOURCES)
   if (items.length < 3) throw new Error('all feeds failed')
   return applyCrossSourceBoost(items)
     .sort((a, b) => b.publishedAt - a.publishedAt)

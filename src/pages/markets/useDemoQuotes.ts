@@ -17,12 +17,19 @@ function toLive<T extends MarketQuote>(groups: T[][]): LiveQuote<T>[][] {
  * 演示行情随机游走 tick（markets.md：随轮询小幅随机游走，模拟实时）。
  * 每 intervalMs 对所有报价做一次 ±0.09% 内的小幅游走：
  * price/changePct/spark 同步更新，并给出 200ms 的红/绿底色闪烁方向表。
+ * initial 变化（如真实行情快照到达/刷新）时重置基准：游走以快照价为基准；
+ * 无快照时 initial 保持同一引用，行为与现状一致。
  */
 export function useDemoQuotes<T extends MarketQuote>(
   initial: T[][],
   intervalMs = 5000,
 ): { groups: LiveQuote<T>[][]; flashes: FlashMap } {
   const [state, setState] = useState(() => ({ groups: toLive(initial), flashes: {} as FlashMap }))
+
+  // 快照到达/更新 → 以新基准重建（prevClose 由快照价与涨跌幅反推）
+  useEffect(() => {
+    setState({ groups: toLive(initial), flashes: {} })
+  }, [initial])
 
   useEffect(() => {
     let flashTimer: ReturnType<typeof setTimeout> | null = null
