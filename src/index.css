@@ -4,72 +4,112 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 240 10% 3.9%;
-    --card: 0 0% 100%;
-    --card-foreground: 240 10% 3.9%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 240 10% 3.9%;
-    --primary: 240 5.9% 10%;
-    --primary-foreground: 0 0% 98%;
-    --secondary: 240 4.8% 95.9%;
-    --secondary-foreground: 240 5.9% 10%;
-    --muted: 240 4.8% 95.9%;
-    --muted-foreground: 240 3.8% 46.1%;
-    --accent: 240 4.8% 95.9%;
-    --accent-foreground: 240 5.9% 10%;
-    --destructive: 0 84.2% 60.2%;
+    /* shadcn vars mapped onto the FinPulse dark palette (single dark theme) */
+    --background: 214 33% 4%;
+    --foreground: 213 27% 94%;
+    --card: 215 32% 9%;
+    --card-foreground: 213 27% 94%;
+    --popover: 215 32% 9%;
+    --popover-foreground: 213 27% 94%;
+    --primary: 39 63% 58%;
+    --primary-foreground: 36 33% 5%;
+    --secondary: 216 30% 12%;
+    --secondary-foreground: 213 27% 94%;
+    --muted: 216 30% 12%;
+    --muted-foreground: 213 15% 67%;
+    --accent: 216 30% 12%;
+    --accent-foreground: 213 27% 94%;
+    --destructive: 359 75% 60%;
     --destructive-foreground: 0 0% 98%;
-    --border: 240 5.9% 90%;
-    --input: 240 5.9% 90%;
-    --ring: 240 5.9% 10%;
-    --radius: 0.625rem;
-    --sidebar-background: 0 0% 98%;
-    --sidebar-foreground: 240 5.3% 26.1%;
-    --sidebar-primary: 240 5.9% 10%;
-    --sidebar-primary-foreground: 0 0% 98%;
-    --sidebar-accent: 240 4.8% 95.9%;
-    --sidebar-accent-foreground: 240 5.9% 10%;
-    --sidebar-border: 220 13% 91%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    --border: 212 32% 16%;
+    --input: 212 32% 16%;
+    --ring: 39 63% 58%;
+    --radius: 0.75rem;
+    --sidebar-background: 214 33% 4%;
+    --sidebar-foreground: 213 27% 94%;
+    --sidebar-primary: 39 63% 58%;
+    --sidebar-primary-foreground: 36 33% 5%;
+    --sidebar-accent: 216 30% 12%;
+    --sidebar-accent-foreground: 213 27% 94%;
+    --sidebar-border: 212 32% 16%;
+    --sidebar-ring: 39 63% 58%;
   }
 
-  .dark {
-    --background: 240 10% 3.9%;
-    --foreground: 0 0% 98%;
-    --card: 240 10% 3.9%;
-    --card-foreground: 0 0% 98%;
-    --popover: 240 10% 3.9%;
-    --popover-foreground: 0 0% 98%;
-    --primary: 0 0% 98%;
-    --primary-foreground: 240 5.9% 10%;
-    --secondary: 240 3.7% 15.9%;
-    --secondary-foreground: 0 0% 98%;
-    --muted: 240 3.7% 15.9%;
-    --muted-foreground: 240 5% 64.9%;
-    --accent: 240 3.7% 15.9%;
-    --accent-foreground: 0 0% 98%;
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 240 3.7% 15.9%;
-    --input: 240 3.7% 15.9%;
-    --ring: 240 4.9% 83.9%;
-    --sidebar-background: 240 5.9% 10%;
-    --sidebar-foreground: 240 4.8% 95.9%;
-    --sidebar-primary: 224.3 76.3% 48%;
-    --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 240 3.7% 15.9%;
-    --sidebar-accent-foreground: 240 4.8% 95.9%;
-    --sidebar-border: 240 3.7% 15.9%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
-  }
-}
-
-@layer base {
   * {
     @apply border-border;
   }
+
+  html {
+    scroll-behavior: auto; /* Lenis owns smooth scrolling */
+  }
+
   body {
-    @apply bg-background text-foreground;
+    @apply bg-bg-0 text-text-1 font-sans antialiased;
+    font-feature-settings: "tnum" 0;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: rgba(216, 169, 78, 0.28);
+    color: #e9eef4;
+  }
+
+  :focus-visible {
+    outline: 2px solid #d8a94e;
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  /* thin scrollbar for inner scroll regions (热点流列) */
+  .scroll-thin {
+    scrollbar-width: thin;
+    scrollbar-color: #1b2531 transparent;
+  }
+  .scroll-thin::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  .scroll-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scroll-thin::-webkit-scrollbar-thumb {
+    background: #1b2531;
+    border-radius: 999px;
+  }
+  .scroll-thin::-webkit-scrollbar-thumb:hover {
+    background: rgba(216, 169, 78, 0.5);
+  }
+}
+
+@layer utilities {
+  .tnum {
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: "tnum";
+  }
+  .noise-bg {
+    background-image: url('/noise-grid.svg');
+    background-repeat: repeat;
+  }
+  .hero-map-mask {
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.35) 30%, black 60%, black 100%);
+    mask-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.35) 30%, black 60%, black 100%);
+  }
+  .gold-text-grad {
+    background: linear-gradient(100deg, #e9c06e 0%, #d8a94e 55%, #b98a36 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .skeleton-shimmer {
+    background: linear-gradient(90deg, #151d27 25%, #1b2531 50%, #151d27 75%);
+    background-size: 200% 100%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee,
+  .animate-pulse-dot,
+  .animate-flash-gold {
+    animation: none !important;
   }
 }
