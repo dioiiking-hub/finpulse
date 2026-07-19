@@ -1,7 +1,8 @@
 import { useMemo } from 'react'
-import { useNavigate } from 'react-router'
 import { motion } from 'framer-motion'
+import { ExternalLink } from 'lucide-react'
 import { CN_BOARD, US_BOARD, fmtChange, fmtPrice } from '@/data/markets'
+import { marketLink } from '@/data/marketLinks'
 import type { MarketQuote } from '@/data/markets'
 import { overlayQuotes, useMarketSnapshot } from '@/lib/marketSnapshot'
 import RegionTag from '@/components/RegionTag'
@@ -12,18 +13,19 @@ import type { Region } from '@/lib/types'
 
 const EASE = [0.22, 0.61, 0.36, 1] as [number, number, number, number]
 
-function IndexRow({ q, onClick, index }: { q: MarketQuote; onClick: () => void; index: number }) {
+function IndexRow({ q, index }: { q: MarketQuote; index: number }) {
   const up = q.changePct >= 0
   return (
-    <motion.button
-      type="button"
+    <motion.a
+      href={marketLink(q.id)}
+      target="_blank"
+      rel="noopener noreferrer"
       initial={{ opacity: 0, y: 14 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ delay: index * 0.07, duration: 0.4, ease: EASE }}
-      onClick={onClick}
-      className="flex w-full items-center gap-3 rounded-lg px-2 py-2.5 text-left transition-colors hover:bg-surface-2"
-      title="点击查看市场速览"
+      className="group flex w-full items-center gap-3 rounded-lg px-2 py-2.5 text-left transition-colors hover:bg-surface-2"
+      title="在数据源查看实时行情"
     >
       <span className="w-24 shrink-0 text-[13px] text-text-2">{q.name}</span>
       <span className="tnum w-24 shrink-0 font-mono text-sm font-medium text-text-1">{fmtPrice(q)}</span>
@@ -38,7 +40,12 @@ function IndexRow({ q, onClick, index }: { q: MarketQuote; onClick: () => void; 
       <span className="ml-auto hidden sm:block">
         <Sparkline data={q.spark} width={96} height={28} />
       </span>
-    </motion.button>
+      <ExternalLink
+        size={12}
+        aria-hidden
+        className="shrink-0 text-text-3 transition-colors duration-200 group-hover:text-gold"
+      />
+    </motion.a>
   )
 }
 
@@ -55,7 +62,6 @@ function Board({
   headline: string
   fromX: number
 }) {
-  const navigate = useNavigate()
   return (
     <motion.div
       initial={{ opacity: 0, x: fromX }}
@@ -70,7 +76,7 @@ function Board({
       </div>
       <div className="divide-y divide-line">
         {quotes.map((q, i) => (
-          <IndexRow key={q.id} q={q} index={i} onClick={() => navigate(`/markets#${q.id}`)} />
+          <IndexRow key={q.id} q={q} index={i} />
         ))}
       </div>
       <div className="mt-4 border-t border-line pt-4">

@@ -82,8 +82,9 @@ export default function TopicDrawer({
             onClick={onClose}
             className="absolute inset-0 bg-black"
           />
-          {/* 抽屉面板 */}
+          {/* 抽屉面板（data-lenis-prevent：Lenis 放行内部原生滚动，见 lenis 文档 prevent） */}
           <motion.aside
+            data-lenis-prevent="true"
             initial={{ x: '100%' }}
             animate={{ x: 0 }}
             exit={{ x: '100%' }}
@@ -109,8 +110,9 @@ export default function TopicDrawer({
               <h2 className="mt-3.5 text-xl font-bold leading-8 text-text-1">{topic.title}</h2>
             </div>
 
-            {/* 滚动内容 */}
+            {/* 滚动内容（h-full flex 列内 flex-1 + overflow-y-auto；Lenis prevent 后 wheel/touch 均走原生滚动） */}
             <motion.div
+              data-lenis-prevent="true"
               variants={containerV}
               initial="hidden"
               animate="show"

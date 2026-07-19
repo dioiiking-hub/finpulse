@@ -1,5 +1,7 @@
 import { AnimatePresence, motion } from 'framer-motion'
+import { ExternalLink } from 'lucide-react'
 import { fmtChange, fmtPrice } from '@/data/markets'
+import { marketLink } from '@/data/marketLinks'
 import CountUp from '@/components/CountUp'
 import SegmentedTabs from '@/components/SegmentedTabs'
 import Sparkline from '@/components/Sparkline'
@@ -53,16 +55,26 @@ function IndexCard({
   const chg = q.price - q.prevClose
   const ohlc = deriveOhlc(q, q.prevClose)
   return (
-    <motion.div
+    <motion.a
+      href={marketLink(q.id)}
+      target="_blank"
+      rel="noopener noreferrer"
+      title="在数据源查看实时行情"
       layout="position"
       initial={{ opacity: 0, y: 16 }}
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -10, transition: { duration: 0.15 } }}
       transition={{ delay: index * 0.05, duration: 0.4, ease: EASE }}
       id={q.id}
-      className="group relative scroll-mt-[120px] rounded-xl border border-line bg-surface-1 p-5 transition-[border-color,box-shadow,transform] duration-200 hover:-translate-y-0.5 hover:border-gold/40 hover:shadow-lift"
+      className="group relative block scroll-mt-[120px] rounded-xl border border-line bg-surface-1 p-5 transition-[border-color,box-shadow,transform] duration-200 hover:-translate-y-0.5 hover:border-gold/40 hover:shadow-lift"
     >
       {anchored && <FlashOverlay />}
+      {/* 数据源外链角标（点击卡片任意处新开数据源页） */}
+      <ExternalLink
+        size={12}
+        aria-hidden
+        className="absolute bottom-4 right-4 text-text-3 transition-colors duration-200 group-hover:text-gold"
+      />
       {/* 顶行：名称 + 交易所 · Sparkline */}
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
@@ -102,16 +114,16 @@ function IndexCard({
       </div>
       {/* 反向指标注释（VIX） */}
       {q.note && <p className="mt-2 text-[11px] leading-4 text-text-3">{q.note}</p>}
-      {/* 底行 OHLC：hover 从 0 高度展开 200ms */}
+      {/* 底行 OHLC：hover 从 0 高度展开 200ms（pr-6 避开右下外链角标） */}
       <div className="max-h-0 overflow-hidden border-t border-transparent transition-all duration-200 group-hover:mt-3 group-hover:max-h-12 group-hover:border-line group-hover:pt-2.5">
-        <p className="tnum whitespace-nowrap font-mono text-[11px] text-text-3 opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+        <p className="tnum whitespace-nowrap pr-6 font-mono text-[11px] text-text-3 opacity-0 transition-opacity duration-200 group-hover:opacity-100">
           今开 {fmtPrice({ price: ohlc.open, decimals: q.decimals })} · 最高{' '}
           {fmtPrice({ price: ohlc.high, decimals: q.decimals })} · 最低{' '}
           {fmtPrice({ price: ohlc.low, decimals: q.decimals })} · 昨收{' '}
           {fmtPrice({ price: ohlc.prevClose, decimals: q.decimals })}
         </p>
       </div>
-    </motion.div>
+    </motion.a>
   )
 }
 

@@ -1,7 +1,8 @@
 import { motion } from 'framer-motion'
-import { Bitcoin, Coins, Package } from 'lucide-react'
+import { Bitcoin, Coins, ExternalLink, Package } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import { fmtChange, fmtPrice } from '@/data/markets'
+import { marketLink } from '@/data/marketLinks'
 import Sparkline from '@/components/Sparkline'
 import { cn } from '@/lib/utils'
 import type { AssetQuote } from './data'
@@ -23,13 +24,17 @@ function AssetRow({
 }) {
   const up = q.changePct >= 0
   return (
-    <motion.div
+    <motion.a
+      href={marketLink(q.id)}
+      target="_blank"
+      rel="noopener noreferrer"
+      title="在数据源查看实时行情"
       initial={{ opacity: 0, y: 10 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ delay: index * 0.05, duration: 0.35, ease: EASE }}
       id={q.id}
-      className="relative scroll-mt-[120px] rounded-lg py-2.5"
+      className="group relative block scroll-mt-[120px] rounded-lg py-2.5"
     >
       {anchored && <FlashOverlay rounded="rounded-lg" />}
       <div className="flex items-center gap-3">
@@ -66,8 +71,13 @@ function AssetRow({
         <span className="hidden w-[60px] shrink-0 sm:block">
           <Sparkline data={q.spark} width={60} height={20} />
         </span>
+        <ExternalLink
+          size={12}
+          aria-hidden
+          className="shrink-0 text-text-3 opacity-0 transition-opacity duration-200 group-hover:opacity-100 group-hover:text-gold"
+        />
       </div>
-    </motion.div>
+    </motion.a>
   )
 }
 
