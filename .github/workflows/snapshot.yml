@@ -1,0 +1,39 @@
+name: market-snapshot
+
+on:
+  schedule:
+    # 每小时整点（UTC）。GitHub 定时任务可能延迟数分钟，属正常现象。
+    - cron: "0 * * * *"
+  workflow_dispatch:        # 允许在 Actions 页手动触发
+
+permissions:
+  contents: write           # 允许把快照提交回仓库
+
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install --quiet yfinance akshare
+
+      - name: Build snapshot
+        run: python3 scripts/make_snapshot_gh.py public/data/market-snapshot.json
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "finpulse-bot"
+          git config user.email "finpulse-bot@users.noreply.github.com"
+          git add public/data/market-snapshot.json
+          git diff --cached --quiet && echo "no change" || \
+            git commit -m "data: hourly market snapshot $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
