@@ -107,7 +107,7 @@ export default function Navbar() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             transition={{ duration: 0.2 }}
-            className="fixed inset-0 z-[60] flex flex-col bg-bg-0/95 backdrop-blur-xl md:hidden"
+            className="fixed inset-0 z-[60] flex flex-col bg-bg-0 md:hidden"
           >
             <div className="flex h-16 items-center justify-between border-b border-line px-4">
               <span className="flex items-center gap-2.5">
