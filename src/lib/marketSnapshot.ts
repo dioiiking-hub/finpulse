@@ -15,6 +15,22 @@ import { beijingClock } from '@/lib/time'
  */
 
 const SNAPSHOT_URL = '/data/market-snapshot.json'
+/**
+ * GitHub Actions 每小时刷新的远程快照。
+ * 部署前把下面的占位替换为你的仓库，格式：<用户名>/<仓库名>@<分支>
+ * 拉取顺序：raw.githubusercontent（缓存约 5 分钟）→ jsDelivr CDN（备用，缓存较久）→ 站点内置快照。
+ */
+export const REMOTE_SNAPSHOT_REPO = 'YOUR_GITHUB_USER/finpulse@main'
+const REMOTE_URLS: string[] = REMOTE_SNAPSHOT_REPO.includes('YOUR_GITHUB_USER')
+  ? []
+  : (() => {
+      const [repo, branch = 'main'] = REMOTE_SNAPSHOT_REPO.split('@')
+      const path = 'public/data/market-snapshot.json'
+      return [
+        `https://raw.githubusercontent.com/${repo}/${branch}/${path}`,
+        `https://cdn.jsdelivr.net/gh/${repo}@${branch}/${path}`,
+      ]
+    })()
 const FETCH_TIMEOUT_MS = 5_000
 export const SNAPSHOT_REFRESH_MS = 30 * 60_000
 
@@ -87,16 +103,35 @@ function emit() {
   listeners.forEach((l) => l())
 }
 
-async function fetchSnapshot(): Promise<void> {
-  if (inflight) return
-  inflight = true
+async function fetchJson(url: string): Promise<SnapshotJson> {
   const ctrl = new AbortController()
   const t = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS)
   try {
-    const res = await fetch(SNAPSHOT_URL, { signal: ctrl.signal, cache: 'no-store' })
+    const res = await fetch(url, { signal: ctrl.signal, cache: 'no-store' })
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     const data = (await res.json()) as SnapshotJson
     if (!data || typeof data !== 'object' || !data.quotes) throw new Error('bad snapshot')
+    return data
+  } finally {
+    clearTimeout(t)
+  }
+}
+
+async function fetchSnapshot(): Promise<void> {
+  if (inflight) return
+  inflight = true
+  try {
+    // 优先 GitHub Actions 远程快照（raw → jsDelivr），失败回退站点内置快照
+    let data: SnapshotJson | null = null
+    for (const url of REMOTE_URLS) {
+      try {
+        data = await fetchJson(`${url}?t=${Date.now()}`)
+        break
+      } catch {
+        data = null
+      }
+    }
+    if (!data) data = await fetchJson(SNAPSHOT_URL)
     state = {
       quotes: buildQuotes(data),
       asOf: typeof data.asOf === 'string' ? data.asOf : null,
@@ -108,7 +143,6 @@ async function fetchSnapshot(): Promise<void> {
   } catch {
     // 失败/超时：无历史快照时保持 null（组件回退演示数据）；有历史快照则保留旧值
   } finally {
-    clearTimeout(t)
     inflight = false
   }
 }
