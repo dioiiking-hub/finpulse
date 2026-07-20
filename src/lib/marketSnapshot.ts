@@ -20,7 +20,7 @@ const SNAPSHOT_URL = '/data/market-snapshot.json'
  * 部署前把下面的占位替换为你的仓库，格式：<用户名>/<仓库名>@<分支>
  * 拉取顺序：raw.githubusercontent（缓存约 5 分钟）→ jsDelivr CDN（备用，缓存较久）→ 站点内置快照。
  */
-export const REMOTE_SNAPSHOT_REPO = 'dioiiking-hub/finpulse@main'
+export const REMOTE_SNAPSHOT_REPO = 'YOUR_GITHUB_USER/finpulse@main'
 const REMOTE_URLS: string[] = REMOTE_SNAPSHOT_REPO.includes('YOUR_GITHUB_USER')
   ? []
   : (() => {
