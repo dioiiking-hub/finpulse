@@ -3,7 +3,7 @@ import { generateTopics, timeDecay } from '@/lib/recommend'
 
 /**
  * 选题推荐页数据模型（topics.md S3/S4）：
- * - 6 张策展演示卡（design 完整文案，映射到演示新闻流）；
+ * - 7 张策展演示卡（design 完整文案，映射到演示新闻流）；
  * - 其余选题由 lib/recommend 的 generateTopics 实时生成后在此富化
  *   （等级、四维评分、预估形式、建议大纲、备选标题、受众画像、最佳发布时间）。
  */
@@ -112,6 +112,7 @@ const ESTIMATE_BY_PLATFORM: Record<Platform, string> = {
   短视频快评: '60s 口播 + 数据图卡',
   微博快讯: '快讯 + 一图看懂',
   直播话题: '直播连线 30 分钟 · 提纲 5 条',
+  播客: '40分钟对谈 · 对谈提纲 5 条',
 }
 
 const AUDIENCE_BY_CATEGORY: Record<Category, string> = {
@@ -129,6 +130,7 @@ const BEST_TIME_BY_PLATFORM: Record<Platform, string> = {
   短视频快评: '今日 18:30 前发布 —— 卡位晚通勤与睡前双流量高峰',
   微博快讯: '2 小时内发布 —— 快讯生命周期短，优先抢占讨论窗口',
   直播话题: '今日 19:30 开播 —— 覆盖晚间在线高峰，预留预热半小时',
+  播客: '周四 20:00 上线 —— 卡位晚间收听高峰，预留周末二次传播窗口',
 }
 
 const REGION_MARKET: Record<Region, string> = {
@@ -242,7 +244,7 @@ export function enrichFromNewsItem(item: NewsItem, items: NewsItem[]): RichTopic
   }
 }
 
-/* ---------------- 6 张策展演示卡（topics.md 完整文案） ---------------- */
+/* ---------------- 7 张策展演示卡（topics.md 完整文案） ---------------- */
 
 interface CuratedDef {
   newsId?: string
@@ -425,11 +427,41 @@ const CURATED: CuratedDef[] = [
     audience: '核心受众：外贸/跨境从业者与企业主，关注汇率避险实操',
     minutesAgo: 96,
   },
+  {
+    newsId: 'mock-013',
+    grade: 'A',
+    title: '深聊丨出口管制升级之后，钱会往哪去？',
+    reason:
+      '监管地缘类稀缺选题，同质化解读少，差异化空间 **83 分**；热度 **77** 避开快讯红海、正处深度解读窗口；管制清单与实体清单议题信息密度高，适合 **40 分钟对谈**展开，嘉宾观点碰撞空间大。',
+    category: '监管地缘',
+    region: '美国',
+    platforms: ['播客', '公众号深度'],
+    estimate: '40分钟对谈 · 对谈提纲 5 条',
+    heat: 77,
+    dims: { 时效: 70, 热度: 77, 受众: 64, 差异化: 83 },
+    angle: '不逐条解读清单，聚焦资金流向推演：避险与进攻两类资金如何再定价。',
+    related: [
+      { title: '美商务部更新半导体出口管制清单，新增 12 家中国实体', keyword: '出口管制', fallbackHeat: 70, fallbackSource: 'Bloomberg' },
+      { title: '科创 50 指数五连阳，半导体设备板块掀涨停潮', keyword: '国产替代', fallbackHeat: 67, fallbackSource: '东方财富' },
+      { title: '欧盟通过对美 950 亿欧元商品反制关税清单', keyword: '关税', fallbackHeat: 62, fallbackSource: 'Reuters' },
+    ],
+    outline: [
+      '开场复盘：本轮出口管制清单到底升级了什么',
+      '对谈一：实体清单扩容对产业链的短期冲击',
+      '对谈二：国产替代的受益顺序与时间表',
+      '对谈三：避险与进攻两类资金的再配置路径',
+      '收尾展望：全球供应链重构的三个长期观察信号',
+    ],
+    altTitles: ['从出口管制聊起：普通投资者能学到什么', '出口管制的另一面：那些被忽略的长期变量', '实体清单再扩容，聪明钱正在往哪走？'],
+    bestTime: '周四 20:00 上线 —— 卡位晚间收听高峰，预留周末二次传播窗口',
+    audience: '核心受众：关注政策走向的专业投资者与半导体产业链从业者，播客通勤收听人群',
+    minutesAgo: 71,
+  },
 ]
 
 /* ---------------- 汇总构建 ---------------- */
 
-/** 构建页面完整选题列表：6 张策展卡 + 实时生成卡（去重后补足至 24 条） */
+/** 构建页面完整选题列表：7 张策展卡 + 实时生成卡（去重后补足至 24 条） */
 export function buildTopics(items: NewsItem[], targetCount = 24): RichTopic[] {
   const now = Date.now()
   const curated: RichTopic[] = CURATED.map((c, i) => {

@@ -9,7 +9,7 @@ const EASE = [0.22, 0.61, 0.36, 1] as [number, number, number, number]
 const NODES = [
   { icon: Search, title: '关键词命中', desc: '美联储 / CPI / 降息 / 非农 / 证监会 … 200+ 关键词库按分类加权' },
   { icon: Flame, title: '热度评分', desc: 'Score = 关键词权重 × 来源权重 × 时间衰减 × 跨源共振' },
-  { icon: LayoutTemplate, title: '模板匹配', desc: '12 套爆款模板按分类与平台自动套用' },
+  { icon: LayoutTemplate, title: '模板匹配', desc: '14 套爆款模板按分类与平台自动套用' },
   { icon: Sparkles, title: '理由生成', desc: '分类 × 热度 × 受众 × 差异化，生成人话理由' },
 ]
 
@@ -22,6 +22,8 @@ const TEMPLATES = [
   { label: '「三分钟读懂 XX」', example: '三分钟读懂 MLF 降息' },
   { label: '「XX 与 YY 的跷跷板」', example: '美元与黄金的跷跷板' },
   { label: '「数据告诉你 XX 的真相」', example: '数据告诉你万亿成交的真相' },
+  { label: '「深聊丨XX 之后，钱会往哪去？」', example: '深聊丨出口管制升级之后，钱会往哪去？' },
+  { label: '「从 XX 聊起：普通投资者能学到什么」', example: '从出口管制聊起：普通投资者能学到什么' },
 ]
 
 const FACTORS = [
@@ -127,7 +129,7 @@ export default function EngineSection() {
 
         {/* 模板 chips 墙 */}
         <div className="mt-14">
-          <p className="mb-4 text-[11px] tracking-[0.08em] text-text-3">爆款模板库 · 12 套节选（hover 查看示例）</p>
+          <p className="mb-4 text-[11px] tracking-[0.08em] text-text-3">爆款模板库 · 14 套节选（hover 查看示例）</p>
           <div className="flex flex-wrap gap-2">
             {TEMPLATES.map((t, i) => (
               <motion.span

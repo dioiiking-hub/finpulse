@@ -1,4 +1,4 @@
-import { Clapperboard, FileText, MessageCircle, Radio } from 'lucide-react'
+import { Clapperboard, FileText, MessageCircle, Podcast, Radio } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import type { Platform } from '@/lib/types'
@@ -8,6 +8,7 @@ const PLATFORM_ICONS: Record<Platform, LucideIcon> = {
   短视频快评: Clapperboard,
   微博快讯: MessageCircle,
   直播话题: Radio,
+  播客: Podcast,
 }
 
 /**

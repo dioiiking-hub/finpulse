@@ -1,6 +1,6 @@
 import type { RefObject } from 'react'
 import { motion } from 'framer-motion'
-import { Clapperboard, FileText, LayoutGrid, MessageCircle, Radio, Search } from 'lucide-react'
+import { Clapperboard, FileText, LayoutGrid, MessageCircle, Podcast, Radio, Search } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import type { Category, Platform } from '@/lib/types'
@@ -20,6 +20,7 @@ const PLATFORM_TABS: { value: PlatformFilter; label: string; icon: LucideIcon }[
   { value: '短视频快评', label: '短视频快评', icon: Clapperboard },
   { value: '微博快讯', label: '微博快讯', icon: MessageCircle },
   { value: '直播话题', label: '直播话题', icon: Radio },
+  { value: '播客', label: '播客', icon: Podcast },
 ]
 
 const SORTS: SortMode[] = ['综合推荐', '热度优先', '时效优先']
@@ -65,7 +66,7 @@ export default function FilterBar({
           <div
             role="tablist"
             aria-label="平台筛选"
-            className="inline-flex max-w-full items-center gap-0.5 overflow-x-auto rounded-full bg-surface-1 p-1 scroll-thin"
+            className="inline-flex max-w-full flex-wrap items-center gap-0.5 overflow-x-auto rounded-full bg-surface-1 p-1 scroll-thin"
           >
             {PLATFORM_TABS.map((t) => {
               const active = t.value === platform

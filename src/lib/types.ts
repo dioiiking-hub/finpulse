@@ -73,7 +73,7 @@ export interface FeedState {
   lastNew: NewsItem[]
 }
 
-export type Platform = '公众号深度' | '短视频快评' | '微博快讯' | '直播话题'
+export type Platform = '公众号深度' | '短视频快评' | '微博快讯' | '直播话题' | '播客'
 
 export interface TopicRecommendation {
   id: string

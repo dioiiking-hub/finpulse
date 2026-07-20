@@ -151,9 +151,9 @@ export default function TopicDrawer({
                 </div>
               </Block>
 
-              {/* 5. 建议大纲 */}
+              {/* 5. 建议大纲（播客主适配时显示「对谈提纲」） */}
               <Block className="mt-7">
-                <Label>建议大纲</Label>
+                <Label>{topic.platforms[0] === '播客' ? '对谈提纲' : '建议大纲'}</Label>
                 <ol className="flex flex-col gap-2.5">
                   {topic.outline.map((o, i) => (
                     <li key={o} className="flex items-start gap-2.5 text-[13px] leading-6 text-text-1">

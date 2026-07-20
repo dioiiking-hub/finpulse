@@ -27,6 +27,7 @@ const TEAM: TeamTopic[] = [
   { title: '程序化交易新规解读', owner: '李编辑', status: '策划中', platform: '直播话题', category: '监管地缘', claimedAt: '认领于 1 小时前' },
   { title: '万亿成交资金拆解', owner: '周分析', status: '撰稿中', platform: '公众号深度', category: 'A股港股', claimedAt: '认领于 3 小时前' },
   { title: '人民币 7.12 与出口企业', owner: '王主笔', status: '已排期', platform: '微博快讯', category: '宏观政策', claimedAt: '认领于 5 小时前' },
+  { title: '深聊丨出口管制升级之后，钱会往哪去？', owner: '陈运营', status: '已排期', platform: '播客', category: '监管地缘', claimedAt: '认领于 40 分钟前' },
 ]
 
 /** 已认领基数（页头统计用） */
