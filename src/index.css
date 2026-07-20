@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* shadcn vars mapped onto the FinPulse dark palette (single dark theme) */
+    --background: 214 33% 4%;
+    --foreground: 213 27% 94%;
+    --card: 215 32% 9%;
+    --card-foreground: 213 27% 94%;
+    --popover: 215 32% 9%;
+    --popover-foreground: 213 27% 94%;
+    --primary: 39 63% 58%;
+    --primary-foreground: 36 33% 5%;
+    --secondary: 216 30% 12%;
+    --secondary-foreground: 213 27% 94%;
+    --muted: 216 30% 12%;
+    --muted-foreground: 213 15% 67%;
+    --accent: 216 30% 12%;
+    --accent-foreground: 213 27% 94%;
+    --destructive: 359 75% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 212 32% 16%;
+    --input: 212 32% 16%;
+    --ring: 39 63% 58%;
+    --radius: 0.75rem;
+    --sidebar-background: 214 33% 4%;
+    --sidebar-foreground: 213 27% 94%;
+    --sidebar-primary: 39 63% 58%;
+    --sidebar-primary-foreground: 36 33% 5%;
+    --sidebar-accent: 216 30% 12%;
+    --sidebar-accent-foreground: 213 27% 94%;
+    --sidebar-border: 212 32% 16%;
+    --sidebar-ring: 39 63% 58%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: auto; /* Lenis owns smooth scrolling */
+  }
+
+  body {
+    @apply bg-bg-0 text-text-1 font-sans antialiased;
+    font-feature-settings: "tnum" 0;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: rgba(216, 169, 78, 0.28);
+    color: #e9eef4;
+  }
+
+  :focus-visible {
+    outline: 2px solid #d8a94e;
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  /* thin scrollbar for inner scroll regions (热点流列) */
+  .scroll-thin {
+    scrollbar-width: thin;
+    scrollbar-color: #1b2531 transparent;
+  }
+  .scroll-thin::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  .scroll-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scroll-thin::-webkit-scrollbar-thumb {
+    background: #1b2531;
+    border-radius: 999px;
+  }
+  .scroll-thin::-webkit-scrollbar-thumb:hover {
+    background: rgba(216, 169, 78, 0.5);
+  }
+}
+
+@layer utilities {
+  .tnum {
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: "tnum";
+  }
+  .noise-bg {
+    background-image: url('/noise-grid.svg');
+    background-repeat: repeat;
+  }
+  .hero-map-mask {
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.35) 30%, black 60%, black 100%);
+    mask-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.35) 30%, black 60%, black 100%);
+  }
+  .gold-text-grad {
+    background: linear-gradient(100deg, #e9c06e 0%, #d8a94e 55%, #b98a36 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .skeleton-shimmer {
+    background: linear-gradient(90deg, #151d27 25%, #1b2531 50%, #151d27 75%);
+    background-size: 200% 100%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee,
+  .animate-pulse-dot,
+  .animate-flash-gold {
+    animation: none !important;
+  }
+}
