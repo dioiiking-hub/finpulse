@@ -1,5 +1,5 @@
 {
- "asOf": "2026-07-21T16:23:06+08:00",
+ "asOf": "2026-07-21T19:05:57+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -90,8 +90,8 @@
    "source": "Yahoo Finance"
   },
   "hsi": {
-   "price": 25128.1406,
-   "changePct": -0.0593,
+   "price": 25132.2891,
+   "changePct": -0.0428,
    "spark": [
     24657.06,
     24565.9,
@@ -122,14 +122,14 @@
     25008.6,
     24562.24,
     25143.05,
-    25128.14
+    25132.29
    ],
    "asOf": "2026-07-21",
    "source": "Yahoo Finance"
   },
   "hstech": {
-   "price": 4.72,
-   "changePct": 1.5054,
+   "price": 4.722,
+   "changePct": 1.5484,
    "spark": [
     4.66,
     4.68,
@@ -281,8 +281,8 @@
    "source": "Yahoo Finance"
   },
   "vix": {
-   "price": 17.58,
-   "changePct": -5.7373,
+   "price": 17.6,
+   "changePct": -5.63,
    "spark": [
     18.92,
     19.87,
@@ -313,14 +313,14 @@
     16.73,
     18.77,
     18.65,
-    17.58
+    17.6
    ],
    "asOf": "2026-07-21",
    "source": "Yahoo Finance"
   },
   "gold": {
-   "price": 4071.5,
-   "changePct": 1.5261,
+   "price": 4068.8999,
+   "changePct": 1.4612,
    "spark": [
     4335.9,
     4260.0,
@@ -351,14 +351,14 @@
     3985.6,
     4012.7,
     4010.3,
-    4071.5
+    4068.9
    ],
    "asOf": "2026-07-21",
    "source": "Yahoo Finance"
   },
   "wti": {
-   "price": 81.62,
-   "changePct": -1.9344,
+   "price": 83.24,
+   "changePct": 0.012,
    "spark": [
     91.3,
     88.2,
@@ -389,13 +389,13 @@
     78.95,
     82.49,
     83.23,
-    81.62
+    83.24
    ],
    "asOf": "2026-07-21",
    "source": "Yahoo Finance"
   },
   "usdcnh": {
-   "price": 6.7664,
+   "price": 6.7659,
    "changePct": 0.0,
    "spark": [
     6.77
@@ -404,8 +404,8 @@
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 66246.1094,
-   "changePct": 1.5577,
+   "price": 66157.7188,
+   "changePct": 1.4222,
    "spark": [
     63952.11,
     62668.02,
@@ -436,7 +436,7 @@
     64796.6,
     64690.8,
     65230.03,
-    66246.11
+    66157.72
    ],
    "asOf": "2026-07-21",
    "source": "Yahoo Finance"
