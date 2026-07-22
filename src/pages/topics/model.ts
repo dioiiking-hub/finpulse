@@ -243,7 +243,7 @@ export function enrichFromNewsItem(item: NewsItem, items: NewsItem[]): RichTopic
     score: compositeScore(dims),
     dims,
     angle: '事件驱动的一线解读',
-    related: [{ title: item.title, heat: item.heat, source: item.source, publishedAt: item.publishedAt, newsId: item.id }],
+    related: [{ title: item.title, heat: item.heat, source: item.source, publishedAt: item.publishedAt, newsId: item.id, url: item.url && item.url.startsWith('http') ? item.url : null }],
     outline: outlineFor(item, kw),
     altTitles: altTitlesFor(item, kw),
     bestTime: BEST_TIME_BY_PLATFORM.公众号深度,
