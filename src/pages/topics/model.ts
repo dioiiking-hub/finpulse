@@ -40,6 +40,8 @@ export interface ResolvedRelated {
   source: string | null
   publishedAt: number | null
   newsId: string | null
+  /** 原始报道链接（http 开头才视为有效），无则回退站内定位 */
+  url: string | null
 }
 
 export interface RichTopic {
@@ -94,7 +96,14 @@ function resolveRelated(ref: RelatedRef, items: NewsItem[]): ResolvedRelated {
       (ref.keyword && `${i.title} ${i.summary}`.includes(ref.keyword)),
   )
   if (hit) {
-    return { title: ref.title, heat: hit.heat, source: hit.source, publishedAt: hit.publishedAt, newsId: hit.id }
+    return {
+      title: ref.title,
+      heat: hit.heat,
+      source: hit.source,
+      publishedAt: hit.publishedAt,
+      newsId: hit.id,
+      url: hit.url && hit.url.startsWith('http') ? hit.url : null,
+    }
   }
   return {
     title: ref.title,
@@ -102,6 +111,7 @@ function resolveRelated(ref: RelatedRef, items: NewsItem[]): ResolvedRelated {
     source: ref.fallbackSource ?? null,
     publishedAt: null,
     newsId: ref.newsId ?? null,
+    url: null,
   }
 }
 
