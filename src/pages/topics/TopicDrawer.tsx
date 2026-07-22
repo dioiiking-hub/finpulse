@@ -2,7 +2,7 @@ import { useEffect } from 'react'
 import type { ReactNode } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import type { Variants } from 'framer-motion'
-import { Check, Clock, Copy, Plus, X } from 'lucide-react'
+import { Check, Clock, Copy, ExternalLink, Plus, X } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { relativeTime } from '@/lib/time'
 import { useNow } from '@/lib/useNow'
@@ -203,29 +203,44 @@ export default function TopicDrawer({
                 <Block className="mt-7">
                   <Label>关联热点</Label>
                   <div className="flex flex-col gap-1">
-                    {topic.related.map((r) => (
-                      <button
-                        key={r.title}
-                        type="button"
-                        onClick={() => onLocate(r.newsId)}
-                        className="flex items-center gap-3 rounded-lg px-2 py-2 text-left transition-colors hover:bg-surface-2"
-                      >
-                        <span
-                          className="tnum w-7 shrink-0 font-mono text-sm font-bold"
-                          style={{ color: r.heat != null ? heatColor(r.heat) : '#5F7183' }}
-                        >
-                          {r.heat ?? '—'}
-                        </span>
-                        <span className="min-w-0 flex-1">
-                          <span className="block truncate text-[13px] leading-5 text-text-1">{r.title}</span>
-                          <span className="tnum mt-0.5 block font-mono text-[11px] text-text-3">
-                            {[r.source, r.publishedAt != null ? relativeTime(r.publishedAt, now) : null]
-                              .filter(Boolean)
-                              .join(' · ') || '跳转热点监控定位'}
+                    {topic.related.map((r) => {
+                      const inner = (
+                        <>
+                          <span
+                            className="tnum w-7 shrink-0 font-mono text-sm font-bold"
+                            style={{ color: r.heat != null ? heatColor(r.heat) : '#5F7183' }}
+                          >
+                            {r.heat ?? '—'}
                           </span>
-                        </span>
-                      </button>
-                    ))}
+                          <span className="min-w-0 flex-1">
+                            <span className="block truncate text-[13px] leading-5 text-text-1">{r.title}</span>
+                            <span className="tnum mt-0.5 block font-mono text-[11px] text-text-3">
+                              {[r.source, r.publishedAt != null ? relativeTime(r.publishedAt, now) : null]
+                                .filter(Boolean)
+                                .join(' · ') || '跳转热点监控定位'}
+                            </span>
+                          </span>
+                          {r.url && <ExternalLink size={12} className="shrink-0 text-text-3" />}
+                        </>
+                      )
+                      const cls = 'flex items-center gap-3 rounded-lg px-2 py-2 text-left transition-colors hover:bg-surface-2'
+                      return r.url ? (
+                        <a
+                          key={r.title}
+                          href={r.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          title="查看原始报道"
+                          className={cls}
+                        >
+                          {inner}
+                        </a>
+                      ) : (
+                        <button key={r.title} type="button" onClick={() => onLocate(r.newsId)} className={cls}>
+                          {inner}
+                        </button>
+                      )
+                    })}
                   </div>
                 </Block>
               )}

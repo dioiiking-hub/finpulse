@@ -88,18 +88,37 @@ export default function TopicCard({
       {/* 5. 关联热点 chips */}
       {t.related.length > 0 && (
         <div className="mt-3.5 flex flex-wrap gap-1.5">
-          {t.related.slice(0, 3).map((r) => (
-            <button
-              key={r.title}
-              type="button"
-              title={r.heat != null ? `热度 ${r.heat}${r.source ? ` · ${r.source}` : ''} · 点击定位热点` : '点击跳转热点监控'}
-              onClick={() => onLocate(r.newsId)}
-              className="inline-flex h-6 max-w-full items-center gap-1.5 rounded-full bg-surface-3 px-2.5 text-xs text-text-2 transition-colors duration-150 hover:text-gold"
-            >
-              <Flame size={11} className="shrink-0 text-gold" />
-              <span className="truncate">{r.title}</span>
-            </button>
-          ))}
+          {t.related.slice(0, 3).map((r) => {
+            const cls = 'inline-flex h-6 max-w-full items-center gap-1.5 rounded-full bg-surface-3 px-2.5 text-xs text-text-2 transition-colors duration-150 hover:text-gold'
+            const inner = (
+              <>
+                <Flame size={11} className="shrink-0 text-gold" />
+                <span className="truncate">{r.title}</span>
+              </>
+            )
+            return r.url ? (
+              <a
+                key={r.title}
+                href={r.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                title={`查看原始报道${r.source ? ` · ${r.source}` : ''}`}
+                className={cls}
+              >
+                {inner}
+              </a>
+            ) : (
+              <button
+                key={r.title}
+                type="button"
+                title={r.heat != null ? `热度 ${r.heat}${r.source ? ` · ${r.source}` : ''} · 点击定位热点` : '点击跳转热点监控'}
+                onClick={() => onLocate(r.newsId)}
+                className={cls}
+              >
+                {inner}
+              </button>
+            )
+          })}
         </div>
       )}
 
