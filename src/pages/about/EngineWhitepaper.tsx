@@ -1,4 +1,6 @@
 import { motion } from 'framer-motion'
+import { Clapperboard, FileText, MessageCircle, Podcast, Radio } from 'lucide-react'
+import type { LucideIcon } from 'lucide-react'
 import type { Category } from '@/lib/types'
 import { CATEGORY_COLORS } from '@/lib/types'
 
@@ -52,6 +54,15 @@ const HEAT_TICKS = [
   { v: 40, label: '温热', cls: 'text-gold' },
   { v: 60, label: '热门', cls: 'font-bold text-gold' },
   { v: 80, label: '爆发', cls: 'text-up' },
+]
+
+/** 平台适配 chips（与 recommend.ts PLATFORM_RULES 一致：规则打分取前三，首个为主适配） */
+const PLATFORM_FITS: { name: string; note: string; icon: LucideIcon }[] = [
+  { name: '公众号深度', note: '2000 字深度稿', icon: FileText },
+  { name: '短视频快评', note: '60s 口播', icon: Clapperboard },
+  { name: '微博快讯', note: '快讯 + 一图看懂', icon: MessageCircle },
+  { name: '直播话题', note: '30 分钟连线', icon: Radio },
+  { name: '播客', note: '40 分钟对谈', icon: Podcast },
 ]
 
 function FormulaToken({ token }: { token: string }) {
@@ -154,6 +165,36 @@ export default function EngineWhitepaper() {
                 ))}
               </div>
             </div>
+          ))}
+        </div>
+      </motion.div>
+
+      {/* 平台适配 chips */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, amount: 0.2 }}
+        transition={{ duration: 0.5, ease: EASE }}
+        className="mt-4 rounded-xl border border-line bg-surface-1 p-6"
+      >
+        <div className="flex items-baseline justify-between gap-4">
+          <h3 className="text-[15px] font-medium text-text-1">平台适配</h3>
+          <span className="font-mono text-[11px] text-text-3">5 大内容平台 · 规则打分取前三，首个为主适配</span>
+        </div>
+        <div className="mt-5 flex flex-wrap gap-2">
+          {PLATFORM_FITS.map((p, i) => (
+            <motion.span
+              key={p.name}
+              initial={{ opacity: 0, y: 6 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: i * 0.05, duration: 0.3, ease: EASE }}
+              className="inline-flex items-center gap-1.5 rounded-full bg-surface-2 px-3 py-1.5 text-xs text-text-2"
+            >
+              <p.icon size={12} strokeWidth={1.8} className="text-gold" />
+              {p.name}
+              <span className="text-text-3">· {p.note}</span>
+            </motion.span>
           ))}
         </div>
       </motion.div>

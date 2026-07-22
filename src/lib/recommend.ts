@@ -155,6 +155,13 @@ const TITLE_TEMPLATES: Record<Category, TemplateFn[]> = {
   ],
 }
 
+/** 播客对谈模板：主适配为播客时优先套用（40 分钟对谈节目） */
+const PODCAST_TEMPLATES: TemplateFn[] = [
+  (_item, k) => `深聊丨${k}之后，钱会往哪去？`,
+  (_item, k) => `从${k}聊起：普通投资者能学到什么`,
+  (_item, k) => `${k}的另一面：那些被忽略的长期变量`,
+]
+
 const ANGLES: Record<Category, string> = {
   宏观政策: '宏观传导链条（政策 → 利率 → 资产价格）',
   美股: '财报/估值与市场情绪',
@@ -170,6 +177,21 @@ const ANGLES: Record<Category, string> = {
 const PLATFORM_RULES: { platform: Platform; fit: (item: NewsItem) => number }[] = [
   { platform: '微博快讯', fit: (i) => (i.heat >= 80 ? 3 : i.heat >= 60 ? 2 : 1) },
   { platform: '短视频快评', fit: (i) => (i.category === 'A股港股' || i.category === '美股' || i.category === '大宗商品' ? 2 : 1) + (i.heat >= 70 ? 1 : 0) },
+  // 播客：宏观政策/监管地缘/A股港股高适配（主适配候选，置于公众号前赢得同分）；美股/科技AI次适配；
+  // heat≥80 快讯窗口优先、播客出局；heat<70 深度内容时效加成
+  {
+    platform: '播客',
+    fit: (i) => {
+      if (i.heat >= 80) return 0
+      const base =
+        i.category === '宏观政策' || i.category === '监管地缘' || i.category === 'A股港股'
+          ? 3
+          : i.category === '美股' || i.category === '科技AI'
+            ? 2
+            : 1
+      return base + (i.heat < 70 ? 1 : 0)
+    },
+  },
   { platform: '公众号深度', fit: (i) => (i.category === '宏观政策' || i.category === '监管地缘' || i.category === '科技AI' ? 3 : 1) },
   { platform: '直播话题', fit: (i) => (i.heat >= 85 ? 2 : 0) + (i.region === '中国' ? 1 : 0) },
 ]
@@ -195,6 +217,7 @@ export function buildReason(item: NewsItem, platforms: Platform[], crossSource: 
   if (crossSource > 1) parts.push(`${crossSource} 家信源共振报道，确定性高`)
   parts.push(`属「${item.category}」主线，贴合${REGION_LABEL[item.region]}受众`)
   parts.push(`建议首发 ${platforms[0] ?? '公众号深度'}${platforms[1] ? `，同步${platforms[1]}` : ''}`)
+  if (platforms.includes('播客')) parts.push(`适合 40 分钟对谈展开，嘉宾可从${ANGLES[item.category]}切入`)
   return parts.join('；') + '。'
 }
 
@@ -218,9 +241,10 @@ export function generateTopics(items: NewsItem[], limit = 12): TopicRecommendati
   }
   return sorted.map((item, idx) => {
     const kw = pickKeyword(item)
-    const templates = TITLE_TEMPLATES[item.category]
-    const title = templates[idx % templates.length](item, kw)
     const platforms = suggestPlatforms(item)
+    // 主适配为播客时优先套用对谈模板
+    const templates = platforms[0] === '播客' ? PODCAST_TEMPLATES : TITLE_TEMPLATES[item.category]
+    const title = templates[idx % templates.length](item, kw)
     const crossSource = Math.max(1, ...item.keywords.map((k) => kwSources.get(k)?.size ?? 1))
     const score = Math.min(100, Math.round(item.heat * 0.7 + Math.min(8, (crossSource - 1) * 3) + 15))
     return {

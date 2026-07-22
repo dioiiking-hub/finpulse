@@ -39,6 +39,7 @@ export default function Navbar() {
   const secondsLeft = Math.ceil(remain / 1000)
 
   return (
+    <>
     <header className="sticky top-0 z-50 h-16 border-b border-line bg-bg-0/80 backdrop-blur-md">
       <div className="mx-auto flex h-full max-w-[1440px] items-center justify-between gap-4 px-4 md:px-8">
         {/* 左：logo + 字标 */}
@@ -98,8 +99,9 @@ export default function Navbar() {
           </button>
         </div>
       </div>
+    </header>
 
-      {/* 移动端全屏抽屉 */}
+      {/* 移动端全屏抽屉（移出 header：header 的 backdrop-blur 会破坏 fixed 定位，导致抽屉背景只剩 64px 高） */}
       <AnimatePresence>
         {open && (
           <motion.div
@@ -107,7 +109,7 @@ export default function Navbar() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             transition={{ duration: 0.2 }}
-            className="fixed inset-0 z-[60] flex flex-col bg-bg-0/95 backdrop-blur-xl md:hidden"
+            className="fixed inset-0 z-[60] flex flex-col bg-bg-0 md:hidden"
           >
             <div className="flex h-16 items-center justify-between border-b border-line px-4">
               <span className="flex items-center gap-2.5">
@@ -150,6 +152,6 @@ export default function Navbar() {
           </motion.div>
         )}
       </AnimatePresence>
-    </header>
+    </>
   )
 }
