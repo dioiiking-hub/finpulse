@@ -1,0 +1,279 @@
+{
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-23T13:35:18.816Z",
+  "snapshots": [
+    "21:32",
+    "21:35"
+  ],
+  "topics": [
+    {
+      "id": "2026-07-23-01",
+      "title": "纳斯达克再创新高，美股这轮行情还能走多远？",
+      "reason": "热度 99（爆发）；19 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "直播话题"
+      ],
+      "grade": "S",
+      "score": 92,
+      "heat": 99,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "纳斯达克",
+      "newsTitle": "AI开支引发回报疑虑，谷歌、特斯拉盘前大跌，布油触及百元关口，美国长债承压",
+      "newsUrl": "https://wallstreetcn.com/articles/3777754",
+      "source": "华尔街见闻",
+      "publishedAt": 1784812412000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-02",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 97（爆发）；24 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "直播话题"
+      ],
+      "grade": "S",
+      "score": 91,
+      "heat": 97,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "布油触及百元关口！RBC警告：战争进入危险阶段，油价或破2008年146美元历史极值",
+      "newsUrl": "https://wallstreetcn.com/articles/3777797",
+      "source": "华尔街见闻",
+      "publishedAt": 1784812113000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-03",
+      "title": "别只盯数字：美联储之后，聪明钱在买什么？",
+      "reason": "热度 94（爆发）；10 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 89,
+      "heat": 94,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "红海航道风险彻底爆发，亚洲原油买家正与沙特阿美协商改道。油价暴涨加剧通胀担忧，9月美联储加息概率一天之内从68%跳涨到80%。点击查看...",
+      "newsUrl": "https://xnews.jin10.com/details/225604",
+      "source": "金十数据",
+      "publishedAt": 1784813000000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-04",
+      "title": "从财报看真相：标普的含金量到底有多高",
+      "reason": "热度 84（爆发）；2 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 82,
+      "heat": 84,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "标普",
+      "newsTitle": "美股三大股指低开，特斯拉跌9%",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1784813427000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-05",
+      "title": "通胀的另一面：那些被忽略的长期变量",
+      "reason": "热度 72（热门）；23 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 73,
+      "heat": 72,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "原油飙升加剧通胀担忧！美债收益率集体暴涨，10年期突破4.7%创18个月新高",
+      "newsUrl": "https://wallstreetcn.com/articles/3777802",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1784812175000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-06",
+      "title": "深聊丨inflation之后，钱会往哪去？",
+      "reason": "热度 67（热门）；10 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 65,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "Oil price surge drives global bond sell-off",
+      "newsUrl": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
+      "source": "FT Markets",
+      "publishedAt": 1784812975000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-07",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；3 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "欧洲央行行长拉加德：对二次效应风险表示担忧。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1784813383000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-08",
+      "title": "深聊丨加息之后，钱会往哪去？",
+      "reason": "热度 58（温热）；44 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "欧洲央行维持利率不变 等待更多数据以评估伊朗战争对通胀的影响",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-07-23/doc-iniivazc5298633.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1784810926000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-09",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 59（温热）；37 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 59,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "卖芯片的在赚钱，用芯片的在亏钱！摩根大通：接下来几周将是美股命运的关键",
+      "newsUrl": "https://wallstreetcn.com/articles/3777800",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1784811349000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-10",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 55（温热）；7 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 55,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Traders see September rate hike as European Central Bank mulls energy price spike",
+      "newsUrl": "https://www.cnbc.com/2026/07/23/interest-rate-hike-iran-european-central-bank.html",
+      "source": "CNBC",
+      "publishedAt": 1784813157000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-11",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；3 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "财联社7月23日电，谷歌股价开盘大跌6.4%，市值蒸发2650亿美元，总市值跌破4万亿美元。",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1784813523000,
+      "firstSeenAt": "2026-07-23T13:35:18.816Z",
+      "lastSeenAt": "2026-07-23T13:35:18.816Z"
+    },
+    {
+      "id": "2026-07-23-12",
+      "title": "从earnings聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；1 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 56,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "newsUrl": "https://www.cnbc.com/2026/07/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source": "CNBC",
+      "publishedAt": 1784813506000,
+      "firstSeenAt": "2026-07-23T13:32:37.434Z",
+      "lastSeenAt": "2026-07-23T13:32:37.434Z"
+    }
+  ]
+}

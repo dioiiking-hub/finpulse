@@ -1,0 +1,42 @@
+name: topics-archive
+
+on:
+  schedule:
+    # 每日 4 个时点（UTC 01:30/05:00/10:00/15:30 = 北京 09:30/13:00/18:00/23:30）。
+    # 同一天多次运行会在当日归档内按「分类+关键词」去重合并。
+    # GitHub 定时任务可能延迟数分钟，属正常现象。
+    - cron: "30 1,5,10,15 * * *"
+  workflow_dispatch:        # 允许在 Actions 页手动触发
+
+permissions:
+  contents: write           # 允许把归档提交回仓库
+
+concurrency:
+  group: topics-archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Build topics archive
+        run: npx tsx scripts/make_topics_archive.ts public/data/topics-archive
+
+      - name: Commit archive
+        run: |
+          git config user.name "finpulse-bot"
+          git config user.email "finpulse-bot@users.noreply.github.com"
+          git add public/data/topics-archive/
+          git diff --cached --quiet && echo "no change" || \
+            git commit -m "data: topics archive $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M') CST"
+          git push

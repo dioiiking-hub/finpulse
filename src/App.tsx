@@ -4,6 +4,7 @@ import Lenis from 'lenis'
 import Layout from '@/components/Layout'
 import Home from '@/pages/Home'
 import Topics from '@/pages/Topics'
+import ArchivePage from '@/pages/Archive'
 import Markets from '@/pages/Markets'
 import About from '@/pages/About'
 import { registerLenis } from '@/lib/scroll'
@@ -32,6 +33,7 @@ export default function App() {
       <Route element={<Layout />}>
         <Route index element={<Home />} />
         <Route path="topics" element={<Topics />} />
+        <Route path="archive" element={<ArchivePage />} />
         <Route path="markets" element={<Markets />} />
         <Route path="about" element={<About />} />
       </Route>

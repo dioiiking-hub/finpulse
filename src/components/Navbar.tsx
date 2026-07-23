@@ -13,6 +13,7 @@ import CountdownRing from '@/components/CountdownRing'
 export const NAV_LINKS = [
   { to: '/', label: '热点监控' },
   { to: '/topics', label: '选题推荐' },
+  { to: '/archive', label: '选题归档' },
   { to: '/markets', label: '市场速览' },
   { to: '/about', label: '数据源' },
 ] as const

@@ -19,10 +19,11 @@
 |---|---|---|
 | `/` | 热点监控大屏 | canvas 世界点阵 Hero、TickerTape 跑马灯、实时热点流、TOP10 热度榜、情绪仪、中美瞭望、工作流 |
 | `/topics` | 选题推荐 | 选题卡（S/A/B 级+标题+推荐理由+平台适配+关联热点）、520px 详情抽屉（对谈提纲/备选标题/最佳发布时间）、平台+分类+热度筛选、团队选题库 |
+| `/archive` | 选题归档 | 按天查看历史选题推荐（每日 4 时点自动归档）、近 7 天跨天同题材（分类+关键词）查重标注、CSV 下载（当日/近 7 天） |
 | `/markets` | 市场速览 | 开闭市状态带、中美指数卡（可点击跳数据源行情页）、中美对比 SVG 大图、汇率/大宗/加密、财经日历（★级选题预警）、联动观察 |
 | `/about` | 数据源与协作 | 数据链路图、信源清单表、推荐引擎白皮书（Score=K×S×T×C）、团队工作流、FAQ |
 
-## 3. 数据架构（三条数据流）
+## 3. 数据架构（四条数据流）
 
 ### 3.1 行情快照流（真实数据，GitHub Actions 驱动）
 ```
@@ -54,6 +55,23 @@
 - **平台维度 5 个**：公众号深度 / 短视频快评 / 微博快讯 / 直播话题 / **播客**
   - 播客规则：宏观政策/监管地缘/A股港股=高适配（主适配候选）；美股/科技AI=次适配；heat≥80 出局；heat<70 时效+1
   - 播客标题模板：「深聊丨{k}之后，钱会往哪去？」「从{k}聊起…」「{k}的另一面…」；形式「40分钟对谈 · 对谈提纲 5 条」；最佳发布「周四 20:00」
+
+### 3.4 选题归档流（GitHub Actions 每日 4 时点）
+```
+.github/workflows/topics-archive.yml（UTC 01:30/05:00/10:00/15:30 = 北京 09:30/13:00/18:00/23:30）
+  → scripts/make_topics_archive.ts（npx tsx 运行，Node 22）
+      服务端直连 RSS 源（无 CORS 限制，信源清单与 feeds.ts 保持同步）
+      复用 src/lib/recommend.ts 同一套引擎（分类/热度/共振/选题生成），口径与线上实时推荐一致
+      同一天多次运行：按「分类+关键词」去重合并，保留最高分版本与首/末次出现时间
+      快讯不足 3 条视为整体失败，退出码 1 不提交
+  → 提交 public/data/topics-archive/YYYY-MM-DD.json + index.json 回仓库（finpulse-bot）
+前端 src/lib/topicArchive.ts（useTopicArchive()，按天懒加载+缓存）
+  → 拉取顺序沿用行情快照三级链：raw.githubusercontent → cdn.jsdelivr → 站点内置 /data/topics-archive/
+```
+- 归档条目字段：title/reason/category/region/platforms/grade(S≥82,A≥68,B)/score/heat/angle/keyword/newsTitle/newsUrl/source/publishedAt/firstSeenAt/lastSeenAt；`snapshots` 记录当日已合并的快照时点
+- 前端查重：加载近 7 天归档，按「分类+关键词」跨天比对并在页面标注重复题材
+- 归档只能从 workflow 上线后开始积累，历史无法回填（RSS 只提供近期快讯）
+- scripts/*.ts 已纳入 tsconfig.node.json 的 include（tsc -b 会类型检查）
 
 ## 4. 关键实现细节（踩过的坑，务必遵守）
 
