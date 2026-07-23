@@ -80,7 +80,7 @@ async function fetchArchiveJson<T>(file: string): Promise<T> {
     }
   }
   try {
-    return await fetchJson<T>(`/data/topics-archive/${file}`)
+    return await fetchJson<T>(`data/topics-archive/${file}`)
   } catch {
     throw lastErr instanceof Error ? lastErr : new Error('archive fetch failed')
   }

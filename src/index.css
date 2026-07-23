@@ -87,7 +87,7 @@
     font-feature-settings: "tnum";
   }
   .noise-bg {
-    background-image: url('/noise-grid.svg');
+    background-image: url('./assets/noise-grid.svg');
     background-repeat: repeat;
   }
   .hero-map-mask {

@@ -11,7 +11,7 @@ export default function Footer() {
       <div className="mx-auto grid max-w-[1440px] gap-10 px-4 py-12 md:grid-cols-3 md:px-8">
         <div className="space-y-3.5">
           <Link to="/" className="flex items-center gap-2.5">
-            <img src="/logo.svg" alt="FinPulse" width={30} height={30} />
+            <img src="./logo.svg" alt="FinPulse" width={30} height={30} />
             <span className="font-display text-base font-bold text-text-1">FinPulse</span>
             <span className="text-xs text-text-2">财经脉搏</span>
           </Link>

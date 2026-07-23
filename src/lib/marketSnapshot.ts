@@ -14,7 +14,7 @@ import { beijingClock } from '@/lib/time'
  * - quotes 的 key 与 TICKER_ITEMS id 一致（外加 vix 等快照独有品种，用本地元信息补全）。
  */
 
-const SNAPSHOT_URL = '/data/market-snapshot.json'
+const SNAPSHOT_URL = 'data/market-snapshot.json'
 /**
  * GitHub Actions 每小时刷新的远程快照。
  * 部署前把下面的占位替换为你的仓库，格式：<用户名>/<仓库名>@<分支>

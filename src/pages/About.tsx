@@ -22,7 +22,7 @@ function PageHeader() {
     <section className="relative overflow-hidden bg-bg-0">
       {/* world-dots.svg 淡化背景：opacity 0.35，两侧淡出 mask */}
       <img
-        src="/world-dots.svg"
+        src="./world-dots.svg"
         alt=""
         aria-hidden
         className="pointer-events-none absolute inset-0 h-full w-full select-none object-cover opacity-[0.35]"

@@ -62,7 +62,7 @@ export default function Hero() {
         aria-hidden
       >
         <img
-          src="/world-dots.svg"
+          src="./world-dots.svg"
           alt=""
           className="absolute inset-0 h-full w-full object-fill opacity-90"
           draggable={false}

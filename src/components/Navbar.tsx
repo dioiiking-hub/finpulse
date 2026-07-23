@@ -45,7 +45,7 @@ export default function Navbar() {
       <div className="mx-auto flex h-full max-w-[1440px] items-center justify-between gap-4 px-4 md:px-8">
         {/* 左：logo + 字标 */}
         <Link to="/" className="flex shrink-0 items-center gap-2.5" aria-label="FinPulse 首页">
-          <img src="/logo.svg" alt="FinPulse" width={32} height={32} />
+          <img src="./logo.svg" alt="FinPulse" width={32} height={32} />
           <span className="flex items-baseline gap-2">
             <span className="font-display text-lg font-bold tracking-tight text-text-1">FinPulse</span>
             <span className="hidden h-3.5 w-px bg-line sm:block" />
@@ -114,7 +114,7 @@ export default function Navbar() {
           >
             <div className="flex h-16 items-center justify-between border-b border-line px-4">
               <span className="flex items-center gap-2.5">
-                <img src="/logo.svg" alt="" width={28} height={28} />
+                <img src="./logo.svg" alt="" width={28} height={28} />
                 <span className="font-display text-base font-bold text-text-1">FinPulse</span>
               </span>
               <button
