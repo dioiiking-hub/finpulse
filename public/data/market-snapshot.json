@@ -1,5 +1,5 @@
 {
- "asOf": "2026-07-23T15:31:10+08:00",
+ "asOf": "2026-07-23T18:18:57+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -90,8 +90,8 @@
    "source": "Yahoo Finance"
   },
   "hsi": {
-   "price": 25146.5098,
-   "changePct": 1.0198,
+   "price": 25210.8105,
+   "changePct": 1.2781,
    "spark": [
     24407.96,
     24249.29,
@@ -122,14 +122,14 @@
     25143.05,
     25132.29,
     24892.66,
-    25146.51
+    25210.81
    ],
    "asOf": "2026-07-23",
    "source": "Yahoo Finance"
   },
   "hstech": {
-   "price": 4.596,
-   "changePct": 0.3494,
+   "price": 4.61,
+   "changePct": 0.655,
    "spark": [
     4.63,
     4.56,
@@ -160,7 +160,7 @@
     4.65,
     4.72,
     4.58,
-    4.6
+    4.61
    ],
    "asOf": "2026-07-23",
    "source": "Yahoo Finance",
@@ -281,8 +281,8 @@
    "source": "Yahoo Finance"
   },
   "vix": {
-   "price": 17.61,
-   "changePct": 5.8293,
+   "price": 17.66,
+   "changePct": 6.1298,
    "spark": [
     22.22,
     19.44,
@@ -313,14 +313,14 @@
     18.65,
     17.05,
     16.64,
-    17.61
+    17.66
    ],
    "asOf": "2026-07-23",
    "source": "Yahoo Finance"
   },
   "gold": {
-   "price": 4111.6001,
-   "changePct": -0.8512,
+   "price": 4092.3,
+   "changePct": -1.3166,
    "spark": [
     4108.2,
     4090.3,
@@ -351,14 +351,14 @@
     4010.3,
     4071.1,
     4146.9,
-    4111.6
+    4092.3
    ],
    "asOf": "2026-07-23",
    "source": "Yahoo Finance"
   },
   "wti": {
-   "price": 89.53,
-   "changePct": 3.1095,
+   "price": 89.94,
+   "changePct": 3.5817,
    "spark": [
     90.03,
     87.71,
@@ -389,13 +389,13 @@
     83.23,
     84.91,
     86.83,
-    89.53
+    89.94
    ],
    "asOf": "2026-07-23",
    "source": "Yahoo Finance"
   },
   "usdcnh": {
-   "price": 6.7702,
+   "price": 6.7696,
    "changePct": 0.0,
    "spark": [
     6.77
@@ -404,8 +404,8 @@
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 65394.8086,
-   "changePct": -1.068,
+   "price": 65681.9297,
+   "changePct": -0.6337,
    "spark": [
     60995.13,
     59721.68,
@@ -436,7 +436,7 @@
     65230.03,
     66505.12,
     66100.8,
-    65394.81
+    65681.93
    ],
    "asOf": "2026-07-23",
    "source": "Yahoo Finance"
