@@ -1,0 +1,342 @@
+{
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-24T17:02:01.136Z",
+  "snapshots": [
+    "01:02"
+  ],
+  "topics": [
+    {
+      "id": "2026-07-25-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 68（热门）；12 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 68,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "市场消息：英特尔(INTC.O)将在AI封装技术领域与Lens Tech合作。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1784911813000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-02",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 67（热门）；8 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 65,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "欧洲央行首席经济学家连恩：9月将成为利率政策下一个关键节点",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1784912018000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-03",
+      "title": "加息的另一面：那些被忽略的长期变量",
+      "reason": "热度 64（热门）；12 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 63,
+      "heat": 64,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "欧洲央行多名官员淡化9月加息预期 强调基于数据评估货币政策走向",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixspx4788614.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1784911780000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-04",
+      "title": "深聊丨国债之后，钱会往哪去？",
+      "reason": "热度 58（温热）；5 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "贝莱德启动123亿美元债券发售，为Meta数据中心项目融资",
+      "newsUrl": "https://wallstreetcn.com/livenews/3139582",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1784912233000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-05",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 58（温热）；44 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 58,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "斡旋新动向！巴基斯坦据称探路重启美伊谈判，布油盘中跌超5%",
+      "newsUrl": "https://wallstreetcn.com/articles/3777899",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1784909887000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-06",
+      "title": "深聊丨芯片之后，钱会往哪去？",
+      "reason": "热度 55（温热）；14 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 55,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "芯片",
+      "newsTitle": "韩国总统李在明访美期间 三星与SK海力士将与美企签署重磅芯片协议",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixspu9246877.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1784911683000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-07",
+      "title": "深聊丨通胀之后，钱会往哪去？",
+      "reason": "热度 52（温热）；13 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "日本经济白皮书：经济复苏仍面临多重挑战",
+      "newsUrl": "https://wallstreetcn.com/livenews/3139576",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1784911715000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-08",
+      "title": "深聊丨rate之后，钱会往哪去？",
+      "reason": "热度 47（温热）；42 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
+      "newsUrl": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1784910000000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-09",
+      "title": "深聊丨earnings之后，钱会往哪去？",
+      "reason": "热度 50（温热）；7 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Verizon&#x2019;s stock rises after earnings &#x2014;&#xa0;and a surprise entry into a new AI business area",
+      "newsUrl": "https://www.marketwatch.com/story/verizons-stock-rises-as-earnings-show-the-company-is-no-longer-a-hunting-ground-f63476b6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1784912100000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-10",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；10 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "LME期铜收涨50美元，报13645美元/吨。 LME期铝收跌28美元，报3160美元/吨。 LME期锌收涨6美元，报3592美元/吨。 LME期铅收跌6美元，报1887美元/吨。 LME期镍收涨...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3139578",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1784911950000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-11",
+      "title": "深聊丨关税之后，钱会往哪去？",
+      "reason": "热度 47（温热）；16 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "关税",
+      "newsTitle": "美国总统特朗普：加拿大取消邀请美国参加美加大桥开通仪式，这没有问题，毕竟加拿大正在向美国支付高额关税。但此前关于该大桥的协议，是由上一届政府谈判不力达...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1784911555000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-12",
+      "title": "一张图看懂oil这波行情的驱动因子",
+      "reason": "热度 47（温热）；46 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Treasury yields retreat as oil prices fall amid hopes for new U.S.-Iran peace talks",
+      "newsUrl": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+      "source": "CNBC",
+      "publishedAt": 1784909788000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-13",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；30 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
+      "newsUrl": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html",
+      "source": "CNBC",
+      "publishedAt": 1784910724000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-14",
+      "title": "天然气异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 46（温热）；33 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "美国电力需求暴涨，电网扩建成本同步飙升",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixsqc1518065.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1784910551000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    },
+    {
+      "id": "2026-07-25-15",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 44（温热）；31 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 44,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "Antares Nuclear、Deployable Energy、Aalo Atomics和Valar Atomics的首席执行官将造访美国白宫椭圆形办公室，这四家美国核能初创企业的反应堆首次达到“临界”...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1784910688000,
+      "firstSeenAt": "2026-07-24T17:02:01.136Z",
+      "lastSeenAt": "2026-07-24T17:02:01.136Z"
+    }
+  ]
+}
