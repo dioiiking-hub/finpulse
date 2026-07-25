@@ -1,0 +1,273 @@
+{
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-25T16:25:12.074Z",
+  "snapshots": [
+    "00:25"
+  ],
+  "topics": [
+    {
+      "id": "2026-07-26-01",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 49（温热）；21 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 49,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Trillionaire No More. SpaceX Collapse Loses Elon Musk $600 Billion in One Month",
+      "newsUrl": "https://finance.yahoo.com/markets/stocks/articles/trillionaire-no-more-spacex-collapse-160354848.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1784995434000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-02",
+      "title": "深聊丨meta之后，钱会往哪去？",
+      "reason": "热度 51（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "S&P 500 flashes sell signals &#x2014; options traders are bracing for wild swings in Apple, Meta and Microsoft",
+      "newsUrl": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1784989260000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-03",
+      "title": "深聊丨监管之后，钱会往哪去？",
+      "reason": "热度 39（平静）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 39,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "监管",
+      "newsTitle": "金十数据整理：周六重要消息汇总",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1784991743000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-04",
+      "title": "通胀的另一面：那些被忽略的长期变量",
+      "reason": "热度 38（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 38,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "【电报解读】三星电子、SK集团与美企签下9500亿美元半导体大单！分析师看好半导体材料行业正同时获得“景气上行、先进工艺通胀、份额提升、国产替代”四重驱动，...",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1784989138000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-05",
+      "title": "机器人的另一面：那些被忽略的长期变量",
+      "reason": "热度 41（温热）；2 小时内事件，仍在发酵窗口；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 41,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "机器人",
+      "newsTitle": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
+      "newsUrl": "https://wallstreetcn.com/livenews/3139781",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1784990641000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-06",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 36（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 36,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
+      "newsUrl": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1784988480000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-07",
+      "title": "从关税聊起：普通投资者能学到什么",
+      "reason": "热度 39（平静）；2 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 39,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "关税",
+      "newsTitle": "特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniizvnx4160053.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1784990039000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-08",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 37（平静）；3 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "以色列国防军：正针对约旦河西岸南部苏西亚（Susya）地区传出的枪声报告采取行动。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1784996542000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-09",
+      "title": "tariff的另一面：那些被忽略的长期变量",
+      "reason": "热度 35（平静）；2 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "tariff",
+      "newsTitle": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+      "newsUrl": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+      "source": "CNBC",
+      "publishedAt": 1784989433000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-10",
+      "title": "黄金异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 34（平静）；2 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合国内盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "中国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 34,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "中信建投：看好电力设备产业投资前景",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1784990971000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-11",
+      "title": "一张图看懂oil这波行情的驱动因子",
+      "reason": "热度 32（平静）；3 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 37,
+      "heat": 32,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Blackstone, Brookfield and KKR sign $16 billion deal with Kuwait for oil pipeline network",
+      "newsUrl": "https://www.cnbc.com/2026/07/25/blackstone-brookfield-and-kkr-sign-16-billion-oil-deal-with-kuwait.html",
+      "source": "CNBC",
+      "publishedAt": 1784987285000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    },
+    {
+      "id": "2026-07-26-12",
+      "title": "央行的另一面：那些被忽略的长期变量",
+      "reason": "热度 31（平静）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 37,
+      "heat": 31,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "比利时遭债务警告，DBRS将其评级展望下调至负面",
+      "newsUrl": "https://wallstreetcn.com/livenews/3139772",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1784988303000,
+      "firstSeenAt": "2026-07-25T16:25:12.074Z",
+      "lastSeenAt": "2026-07-25T16:25:12.074Z"
+    }
+  ]
+}
