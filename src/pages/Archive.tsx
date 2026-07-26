@@ -154,10 +154,31 @@ function csvEscape(v: string | number): string {
 }
 
 function buildCsv(days: DayArchive[]): string {
-  const header = ['日期', '级别', '选题标题', '分类', '地区', '适配平台', '综合分', '热度', '关键词', '推荐理由', '关联热点', '原文链接', '信源', '首次出现(北京)', '最近出现(北京)']
+  const header = [
+    '日期',
+    '级别',
+    '选题标题',
+    '分类',
+    '地区',
+    '适配平台',
+    '综合分',
+    '热度',
+    '关键词',
+    '推荐理由',
+    '建议切入角度',
+    '备选标题',
+    '对谈提纲',
+    '关联热点',
+    '原文链接',
+    '信源',
+    '首次出现(北京)',
+    '最近出现(北京)',
+  ]
   const rows = days.flatMap((d) =>
-    d.topics.map((t) =>
-      [
+    d.topics.map((t) => {
+      // 复用推荐页富化：angle 来自归档 JSON，备选标题/对谈提纲由确定性函数根据 keyword 生成
+      const rich = enrichArchiveTopic(t)
+      return [
         d.date,
         t.grade,
         t.title,
@@ -168,6 +189,9 @@ function buildCsv(days: DayArchive[]): string {
         t.heat,
         t.keyword,
         t.reason,
+        rich.angle,
+        rich.altTitles.join(' / '),
+        rich.outline.join(' / '),
         t.newsTitle,
         t.newsUrl,
         t.source,
@@ -175,8 +199,8 @@ function buildCsv(days: DayArchive[]): string {
         bjShort(t.lastSeenAt),
       ]
         .map(csvEscape)
-        .join(','),
-    ),
+        .join(',')
+    }),
   )
   // BOM 保证 Excel 打开中文不乱码
   return '\uFEFF' + [header.join(','), ...rows].join('\n')
