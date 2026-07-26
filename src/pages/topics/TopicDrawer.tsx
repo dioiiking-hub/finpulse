@@ -44,6 +44,7 @@ export default function TopicDrawer({
   onToggleLibrary,
   onClose,
   onLocate,
+  readOnly,
 }: {
   topic: RichTopic | null
   inLibrary: boolean
