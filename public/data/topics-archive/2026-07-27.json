@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-26T16:28:01.639Z",
+  "snapshots": [
+    "00:28"
+  ],
+  "topics": [
+    {
+      "id": "2026-07-27-01",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；2 小时内事件，仍在发酵窗口；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 47,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "英伟达锁定SK海力士内存供应，作为5000亿美元AI交易的一部分",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-26/doc-inikcymu8633935.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785076762000,
+      "firstSeenAt": "2026-07-26T16:28:01.639Z",
+      "lastSeenAt": "2026-07-26T16:28:01.639Z"
+    },
+    {
+      "id": "2026-07-27-02",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；35 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 46,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "The U.S. Economy Is Stronger Than Expected. That Could Keep Interest Rates Higher for Longer",
+      "newsUrl": "https://finance.yahoo.com/economy/policy/articles/u-economy-stronger-expected-could-155248980.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1785081168000,
+      "firstSeenAt": "2026-07-26T16:28:01.639Z",
+      "lastSeenAt": "2026-07-26T16:28:01.639Z"
+    },
+    {
+      "id": "2026-07-27-03",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 49（温热）；10 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "据日经新闻与东京电视台的最新民调，日本首相高市早苗内阁的支持率较上月下降10个百分点，跌至58%；这是自她去年10月上任以来，支持率首次低于60%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785082687000,
+      "firstSeenAt": "2026-07-26T16:28:01.639Z",
+      "lastSeenAt": "2026-07-26T16:28:01.639Z"
+    },
+    {
+      "id": "2026-07-27-04",
+      "title": "深聊丨美股之后，钱会往哪去？",
+      "reason": "热度 44（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 44,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "下周资本市场大事提醒：A股港股迎重磅IPO；苹果、微软、海力士等科技巨头财报轮番登场；美国7月加息悬念将揭晓",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1785075263000,
+      "firstSeenAt": "2026-07-26T16:28:01.639Z",
+      "lastSeenAt": "2026-07-26T16:28:01.639Z"
+    },
+    {
+      "id": "2026-07-27-05",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 41（温热）；4 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 41,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
+      "newsUrl": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785069000000,
+      "firstSeenAt": "2026-07-26T16:28:01.639Z",
+      "lastSeenAt": "2026-07-26T16:28:01.639Z"
+    },
+    {
+      "id": "2026-07-27-06",
+      "title": "欧盟的另一面：那些被忽略的长期变量",
+      "reason": "热度 43（温热）；36 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "伊朗外交部长：在与欧盟高级代表卡拉斯和俄罗斯外长拉夫罗夫的通话中，我已明确表示，基辅那个不劳而获的家伙所做的一切绝不会不遭到回应。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785081107000,
+      "firstSeenAt": "2026-07-26T16:28:01.639Z",
+      "lastSeenAt": "2026-07-26T16:28:01.639Z"
+    },
+    {
+      "id": "2026-07-27-07",
+      "title": "tech的另一面：那些被忽略的长期变量",
+      "reason": "热度 37（平静）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 37,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "There&#x2019;s a technical &#x2018;triple threat&#x2019; for stocks, but also places investors can hide",
+      "newsUrl": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785070800000,
+      "firstSeenAt": "2026-07-26T16:28:01.639Z",
+      "lastSeenAt": "2026-07-26T16:28:01.639Z"
+    },
+    {
+      "id": "2026-07-27-08",
+      "title": "s&p的另一面：那些被忽略的长期变量",
+      "reason": "热度 35（平静）；2 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "The S&P 500&#x2019;s earnings growth has gone bonkers thanks to one company",
+      "newsUrl": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785074400000,
+      "firstSeenAt": "2026-07-26T16:28:01.639Z",
+      "lastSeenAt": "2026-07-26T16:28:01.639Z"
+    },
+    {
+      "id": "2026-07-27-09",
+      "title": "从nasdaq聊起：普通投资者能学到什么",
+      "reason": "热度 33（平静）；2 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 38,
+      "heat": 33,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "nasdaq",
+      "newsTitle": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement",
+      "newsUrl": "https://www.cnbc.com/2026/07/26/gen-x-investors-dotcom-bubble-retirement-portfolio.html",
+      "source": "CNBC",
+      "publishedAt": 1785077069000,
+      "firstSeenAt": "2026-07-26T16:28:01.639Z",
+      "lastSeenAt": "2026-07-26T16:28:01.639Z"
+    }
+  ]
+}
