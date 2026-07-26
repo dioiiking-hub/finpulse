@@ -86,16 +86,40 @@
 ## 5. 构建与部署
 
 ```bash
-npm run build        # tsc + vite build，产物 dist/（纯静态，可托管任意静态平台）
+npm run dev          # 本地开发（Vite，端口 3000）
+npm run build        # tsc -b + vite build，产物 dist/（纯静态）
+npm run preview      # 本地预览构建产物
 ```
-- 当前线上版本由 Kimi 平台的 website_version_manager 管理（版本卡片预览）；dist/ 也可直接部署到 Vercel/Cloudflare Pages/自有服务器
+
+### 线上部署：GitHub Pages（已脱离 Kimi）
+- 线上由 **GitHub Pages** 托管，仓库 `dioiiking-hub/finpulse`（Public，main 分支）
+- 部署 workflow：`.github/workflows/deploy-pages.yml`
+  - 触发：push 到 main（含行情/归档 bot 的自动提交也会重新发布）+ `workflow_dispatch`
+  - 流程：`npm ci` → `npm run build` → `cp dist/index.html dist/404.html`（BrowserRouter 直链/刷新回退）→ upload-pages-artifact → deploy-pages
+  - 环境：`github-pages`，Node 22
+- `vite.config.ts` 用 `base: './'` 相对路径，适配 Pages 子路径 `/finpulse/`
+- Pages 服务需在仓库 Settings → Pages → Source 设为 "GitHub Actions"（仅需配一次）
+- dist/ 也可另部署到 Vercel / Cloudflare Pages / 自有服务器，但当前线上以 Pages 为准
 - **不要**把 `node_modules`、`dist` 提交进仓库
+
+### 三个 GitHub Actions 一览
+| workflow | 触发 | 作用 |
+|---|---|---|
+| `snapshot.yml` | 每小时整点 cron | 拉行情 → 提交 `public/data/market-snapshot.json` |
+| `topics-archive.yml` | 每日 4 时点 cron | 跑选题引擎 → 提交 `public/data/topics-archive/*.json` |
+| `deploy-pages.yml` | push main | build → 部署 GitHub Pages |
+
+> 行情/归档 bot 的自动提交会触发 deploy-pages 重新发布，数据更新后站点自动刷新。
 
 ## 6. Git 协作注意（重要）
 
-- 项目最初构建于 Kimi 云端沙箱，沙箱间 **git 对象可能不同步**：跨环境传递改动时，除 commit 外务必额外导出补丁：
-  `git format-patch master --stdout > /mnt/agents/output/patches/<name>.patch`
-- workflow 文件（`.github/workflows/`）的推送需要带 `workflow` 权限的令牌；细粒度 PAT 无权推送，需经 GitHub 网页端 Add file 添加
+- 项目最初构建于 Kimi 云端沙箱，现已迁移到 **本地 + GitHub** 协作，不再依赖 Kimi 沙箱
+- 两个 remote：
+  - `github` → `https://github.com/dioiiking-hub/finpulse.git`（公开仓库，Pages + Actions 数据回写，主力）
+  - `origin` → `ssh://...@icode.baidu.com:8235/baidu/watchtower/finpulse`（百度内网 icode，司内版镜像）
+- 本地改完直接 `git push github main` 即可，push 会触发 deploy-pages 重新发布
+- workflow 文件（`.github/workflows/`）的推送需要带 `workflow` 权限的令牌；细粒度 PAT 无权推送，需经 GitHub 网页端 Add file 添加（此条仍有效）
+- 历史 Kimi 沙箱的 patch 导出方式（`git format-patch … > /mnt/agents/output/patches/*.patch`）已废弃，无需再用
 
 ## 7. 路线图（与用户对齐过的方向）
 

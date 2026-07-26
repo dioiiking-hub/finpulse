@@ -1,8 +1,10 @@
-Using Node.js 20, Tailwind CSS v3.4.19, and Vite v7.2.4
+Using Node.js 22 (CI) / 20+ (local), Tailwind CSS v3.4.19, and Vite v7.2.4
 
 Tailwind CSS has been set up with the shadcn theme
 
-Setup complete: /mnt/agents/output/app
+Project root: /Users/donglei/dodo-work/02_Scripts/FinPulse (local)
+GitHub repo: dioiiking-hub/finpulse
+Deploy: GitHub Pages via .github/workflows/deploy-pages.yml
 
 Components (40+):
   accordion, alert-dialog, alert, aspect-ratio, avatar, badge, breadcrumb,

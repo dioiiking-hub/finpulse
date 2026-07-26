@@ -1,5 +1,8 @@
+import { useEffect, useMemo } from 'react'
 import type { Category, NewsItem, Platform, Region, TopicRecommendation } from '@/lib/types'
 import { generateTopics, timeDecay } from '@/lib/recommend'
+import { useTopicArchive } from '@/lib/topicArchive'
+import type { ArchiveTopic } from '@/lib/topicArchive'
 
 /**
  * 选题推荐页数据模型（topics.md S3/S4）：
@@ -471,10 +474,10 @@ const CURATED: CuratedDef[] = [
 
 /* ---------------- 汇总构建 ---------------- */
 
-/** 构建页面完整选题列表：7 张策展卡 + 实时生成卡（去重后补足至 24 条） */
-export function buildTopics(items: NewsItem[], targetCount = 24): RichTopic[] {
+/** 7 张硬编码策展演示卡（仅在归档精选暂不可用时作为首屏兜底） */
+export function buildCuratedFallback(items: NewsItem[]): RichTopic[] {
   const now = Date.now()
-  const curated: RichTopic[] = CURATED.map((c, i) => {
+  return CURATED.map((c, i) => {
     const hit = c.newsId ? items.find((it) => it.id === c.newsId) : undefined
     const publishedAt = hit?.publishedAt ?? now - c.minutesAgo * 60_000
     return {
@@ -501,11 +504,104 @@ export function buildTopics(items: NewsItem[], targetCount = 24): RichTopic[] {
       goldenUntil: c.heat >= 80 ? publishedAt + 2 * 3_600_000 : null,
     }
   })
+}
 
-  const usedNews = new Set(curated.map((t) => t.newsId).filter(Boolean) as string[])
+/* ---------------- 归档精选（真实数据替代硬编码策展卡） ---------------- */
+
+const EDITOR_PICK_DAYS = 7
+
+/** ArchiveTopic → RichTopic：复用与实时选题一致的富化工具 */
+function dimsFromArchiveTopic(t: ArchiveTopic): ScoreDims {
+  const h = hashStr(t.id + t.title)
+  const freshness = Math.max(35, Math.min(99, 30 + 70 * timeDecay(t.publishedAt)))
+  return {
+    时效: Math.round(freshness),
+    热度: t.heat,
+    受众: 55 + (h % 36),
+    差异化: 50 + ((h >>> 8) % 41),
+  }
+}
+
+function enrichArchiveTopic(t: ArchiveTopic): RichTopic {
+  const kw = t.keyword
+  const publishedAt = Number.isFinite(t.publishedAt) ? t.publishedAt : Date.parse(t.firstSeenAt)
+  const dims = dimsFromArchiveTopic(t)
+  const primary = t.platforms[0] ?? '公众号深度'
+  return {
+    id: `pick-${t.id}`,
+    newsId: null,
+    grade: t.grade,
+    title: t.title,
+    reason: t.reason,
+    category: t.category,
+    region: t.region,
+    platforms: t.platforms.length ? t.platforms : ['公众号深度'],
+    estimate: ESTIMATE_BY_PLATFORM[primary],
+    heat: t.heat,
+    score: t.score,
+    dims,
+    angle: t.angle,
+    related: [
+      {
+        title: t.newsTitle,
+        heat: t.heat,
+        source: t.source,
+        publishedAt,
+        newsId: null,
+        url: t.newsUrl && t.newsUrl.startsWith('http') ? t.newsUrl : null,
+      },
+    ],
+    outline: outlineFor({ title: t.title, region: t.region }, kw),
+    altTitles: altTitlesFor({ title: t.title }, kw),
+    bestTime: BEST_TIME_BY_PLATFORM[primary],
+    audience: AUDIENCE_BY_CATEGORY[t.category],
+    source: t.source,
+    publishedAt,
+    goldenUntil: null,
+  }
+}
+
+/**
+ * 编辑精选：从最近 EDITOR_PICK_DAYS 天的归档中挑 S/A 级、按综合分降序去重，
+ * 作为推荐页首屏（替代原硬编码策展卡）。归档数据不可用时 failed=true，
+ * 由调用方回退到 buildCuratedFallback。
+ */
+export function useEditorPicks(pickCount = 7): { picks: RichTopic[]; failed: boolean } {
+  const { dates, failed, days, loadDay } = useTopicArchive()
+
+  useEffect(() => {
+    if (!dates?.length) return
+    dates.slice(0, EDITOR_PICK_DAYS).forEach((d) => void loadDay(d))
+  }, [dates, loadDay])
+
+  const picks = useMemo(() => {
+    if (!dates?.length) return []
+    const seen = new Set<string>()
+    const ranked: ArchiveTopic[] = []
+    for (const d of dates.slice(0, EDITOR_PICK_DAYS)) {
+      const day = days[d]
+      if (!day?.topics) continue
+      for (const t of day.topics) {
+        if (t.grade !== 'S' && t.grade !== 'A') continue
+        const key = `${t.category}::${t.keyword}`
+        if (seen.has(key)) continue
+        seen.add(key)
+        ranked.push(t)
+      }
+    }
+    ranked.sort((a, b) => b.score - a.score)
+    return ranked.slice(0, pickCount).map(enrichArchiveTopic)
+  }, [dates, days, pickCount])
+
+  return { picks, failed }
+}
+
+/** 构建页面完整选题列表：headCards（编辑精选或兜底策展卡）+ 实时生成卡（去重后补足至 24 条） */
+export function buildTopics(items: NewsItem[], headCards: RichTopic[], targetCount = 24): RichTopic[] {
+  const usedNews = new Set(headCards.map((t) => t.newsId).filter(Boolean) as string[])
   const generated = generateTopics(items, 36)
     .filter((rec) => !usedNews.has(rec.newsId))
     .map((rec) => enrichRecommendation(rec, items))
 
-  return [...curated, ...generated].slice(0, targetCount)
+  return [...headCards, ...generated].slice(0, targetCount)
 }

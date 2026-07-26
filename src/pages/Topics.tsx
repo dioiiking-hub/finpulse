@@ -7,7 +7,7 @@ import { CATEGORIES } from '@/lib/types'
 import { useNewsFeed } from '@/lib/feeds'
 import EmptyState from '@/components/EmptyState'
 import { toast } from '@/components/Toast'
-import { buildTopics, enrichFromNewsItem } from './topics/model'
+import { buildTopics, buildCuratedFallback, enrichFromNewsItem, useEditorPicks } from './topics/model'
 import type { RichTopic } from './topics/model'
 import TopicCard from './topics/TopicCard'
 import TopicDrawer from './topics/TopicDrawer'
@@ -39,7 +39,15 @@ export default function Topics() {
   const navigate = useNavigate()
   const [searchParams, setSearchParams] = useSearchParams()
 
-  const topics = useMemo(() => buildTopics(items), [items])
+  // 编辑精选：优先用归档真实数据（每日随归档刷新）；归档暂不可用时回退硬编码策展卡
+  const { picks, failed: picksFailed } = useEditorPicks()
+  const headCards = useMemo<RichTopic[]>(() => {
+    if (picks.length > 0) return picks
+    if (picksFailed) return buildCuratedFallback(items)
+    return []
+  }, [picks, picksFailed, items])
+
+  const topics = useMemo(() => buildTopics(items, headCards), [items, headCards])
 
   /* ---------------- 筛选状态 ---------------- */
   const [platform, setPlatform] = useState<PlatformFilter>('全部')
