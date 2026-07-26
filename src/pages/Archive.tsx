@@ -8,6 +8,8 @@ import CategoryTag from '@/components/CategoryTag'
 import PlatformBadge from '@/components/PlatformBadge'
 import EmptyState from '@/components/EmptyState'
 import { toast } from '@/components/Toast'
+import { enrichArchiveTopic } from '@/pages/topics/model'
+import TopicDrawer from '@/pages/topics/TopicDrawer'
 
 const EASE = [0.22, 0.61, 0.36, 1] as [number, number, number, number]
 /** 跨天查重 / 下载默认覆盖的天数 */
@@ -53,11 +55,14 @@ function TopicRow({
   topic,
   dupDates,
   index,
+  onOpen,
 }: {
   topic: ArchiveTopic
   /** 近 7 天内出现过同题材（分类+关键词）的其他日期 */
   dupDates: string[]
   index: number
+  /** 点击整卡打开详情抽屉（角度 / 备选标题 / 对谈提纲） */
+  onOpen?: (t: ArchiveTopic) => void
 }) {
   const [expand, setExpand] = useState(false)
   return (
@@ -65,7 +70,8 @@ function TopicRow({
       initial={{ opacity: 0, y: 12 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: Math.min(index, 8) * 0.04, duration: 0.35, ease: EASE }}
-      className="rounded-xl border border-line bg-surface-1 p-4 md:p-5"
+      onClick={() => onOpen?.(topic)}
+      className="cursor-pointer rounded-xl border border-line bg-surface-1 p-4 transition-[border-color,box-shadow] duration-200 hover:border-gold/40 hover:shadow-lift md:p-5"
     >
       <div className="flex items-start gap-3.5">
         <GradeBadge grade={topic.grade} />
@@ -94,7 +100,10 @@ function TopicRow({
           </div>
           <button
             type="button"
-            onClick={() => setExpand((v) => !v)}
+            onClick={(e) => {
+              e.stopPropagation()
+              setExpand((v) => !v)
+            }}
             className="mt-2 block w-full text-left"
           >
             <p
@@ -114,6 +123,7 @@ function TopicRow({
                   href={topic.newsUrl}
                   target="_blank"
                   rel="noreferrer"
+                  onClick={(e) => e.stopPropagation()}
                   className="text-text-2 underline decoration-line underline-offset-2 transition-colors hover:text-gold"
                 >
                   {topic.newsTitle}
@@ -125,6 +135,9 @@ function TopicRow({
             <span className="shrink-0">
               {topic.source} · 首现 {bjShort(topic.firstSeenAt)}
               {topic.lastSeenAt !== topic.firstSeenAt && ` · 末现 ${bjShort(topic.lastSeenAt)}`}
+            </span>
+            <span className="shrink-0 cursor-pointer text-gold/70 transition-colors hover:text-gold">
+              详情 ›
             </span>
           </div>
         </div>
@@ -189,6 +202,8 @@ function downloadCsv(days: DayArchive[], filename: string) {
 export default function ArchivePage() {
   const { dates, failed, days, loadDay } = useTopicArchive()
   const [selected, setSelected] = useState<string | null>(null)
+  /** 详情抽屉当前选中的归档选题（角度 / 备选标题 / 对谈提纲） */
+  const [openTopic, setOpenTopic] = useState<ArchiveTopic | null>(null)
   // 默认选中最新一天（派生值，避免在 effect 中 setState）
   const current = selected ?? dates?.[0] ?? null
 
@@ -366,6 +381,7 @@ export default function ArchivePage() {
                     key={t.id}
                     topic={t}
                     index={i}
+                    onOpen={setOpenTopic}
                     dupDates={(dupMap.get(`${t.category}::${t.keyword}`) ?? []).filter(
                       (d) => d !== current,
                     )}
@@ -380,6 +396,16 @@ export default function ArchivePage() {
           )}
         </div>
       </section>
+
+      {/* 选题详情抽屉：角度 / 备选标题 / 对谈提纲（复用推荐页抽屉，只读模式） */}
+      <TopicDrawer
+        topic={openTopic ? enrichArchiveTopic(openTopic) : null}
+        inLibrary={false}
+        onToggleLibrary={() => {}}
+        onClose={() => setOpenTopic(null)}
+        onLocate={() => {}}
+        readOnly
+      />
     </>
   )
 }

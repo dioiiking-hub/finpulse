@@ -50,6 +50,8 @@ export default function TopicDrawer({
   onToggleLibrary: (t: RichTopic) => void
   onClose: () => void
   onLocate: (newsId: string | null) => void
+  /** 只读模式（如归档页）：隐藏「加入选题库」操作，保留查看/复制 */
+  readOnly?: boolean
 }) {
   const now = useNow(30_000)
   const open = topic != null
@@ -151,6 +153,14 @@ export default function TopicDrawer({
                 </div>
               </Block>
 
+              {/* 4.5 建议切入角度 */}
+              <Block className="mt-7">
+                <Label>建议切入角度</Label>
+                <div className="rounded-lg border-l-2 border-gold bg-surface-2 p-3.5">
+                  <p className="text-[13px] leading-6 text-text-1/85">{topic.angle}</p>
+                </div>
+              </Block>
+
               {/* 5. 建议大纲（播客主适配时显示「对谈提纲」） */}
               <Block className="mt-7">
                 <Label>{topic.platforms[0] === '播客' ? '对谈提纲' : '建议大纲'}</Label>
@@ -249,6 +259,7 @@ export default function TopicDrawer({
 
             {/* 9. 底部固定操作条 */}
             <div className="flex shrink-0 items-center gap-3 border-t border-line bg-surface-1 p-4">
+              {!readOnly && (
               <motion.button
                 type="button"
                 whileTap={{ scale: 0.97 }}
@@ -263,6 +274,7 @@ export default function TopicDrawer({
                 {inLibrary ? <Check size={16} /> : <Plus size={16} />}
                 {inLibrary ? '已在选题库' : '加入选题库'}
               </motion.button>
+              )}
               <button
                 type="button"
                 onClick={() =>

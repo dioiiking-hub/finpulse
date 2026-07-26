@@ -522,7 +522,7 @@ function dimsFromArchiveTopic(t: ArchiveTopic): ScoreDims {
   }
 }
 
-function enrichArchiveTopic(t: ArchiveTopic): RichTopic {
+export function enrichArchiveTopic(t: ArchiveTopic): RichTopic {
   const kw = t.keyword
   const publishedAt = Number.isFinite(t.publishedAt) ? t.publishedAt : Date.parse(t.firstSeenAt)
   const dims = dimsFromArchiveTopic(t)
@@ -541,16 +541,10 @@ function enrichArchiveTopic(t: ArchiveTopic): RichTopic {
     score: t.score,
     dims,
     angle: t.angle,
-    related: [
-      {
-        title: t.newsTitle,
-        heat: t.heat,
-        source: t.source,
-        publishedAt,
-        newsId: null,
-        url: t.newsUrl && t.newsUrl.startsWith('http') ? t.newsUrl : null,
-      },
-    ],
+    related:
+      t.newsUrl && t.newsUrl.startsWith('http')
+        ? [{ title: t.newsTitle, heat: t.heat, source: t.source, publishedAt, newsId: null, url: t.newsUrl }]
+        : [],
     outline: outlineFor({ title: t.title, region: t.region }, kw),
     altTitles: altTitlesFor({ title: t.title }, kw),
     bestTime: BEST_TIME_BY_PLATFORM[primary],
