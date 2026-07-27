@@ -1,0 +1,280 @@
+{
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-27T17:15:59.844Z",
+  "snapshots": [
+    "01:15"
+  ],
+  "topics": [
+    {
+      "id": "2026-07-28-01",
+      "title": "深聊丨利率之后，钱会往哪去？",
+      "reason": "热度 75（热门）；14 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 76,
+      "heat": 75,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "美国财政部拍卖700亿美元五年期国债，得标利率4.408%（6月24日为4.20%、创2025年1月份以来新高），投标倍数2.28（前次为2.35）",
+      "newsUrl": "https://wallstreetcn.com/livenews/3140450",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1785171750000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-02",
+      "title": "美联储的另一面：那些被忽略的长期变量",
+      "reason": "热度 69（热门）；2 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 69,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "大摩：美联储决议前夕，投资者增持美元多头头寸",
+      "newsUrl": "https://wallstreetcn.com/livenews/3140455",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1785172475000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-03",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 66（热门）；45 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 69,
+      "heat": 66,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "He brought AI to Wall Street in 1994 &#x2014; but won&#x2019;t trust ChatGPT with his money",
+      "newsUrl": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785169860000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-04",
+      "title": "深聊丨美股之后，钱会往哪去？",
+      "reason": "热度 69（热门）；10 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 66,
+      "heat": 69,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "金十图示：2026年07月27日（周一）热门中概股行情一览（美股盘中）",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785172007000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-05",
+      "title": "从加息聊起：普通投资者能学到什么",
+      "reason": "热度 61（热门）；31 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 66,
+      "heat": 61,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "美银：成功干预日元需日本央行发出鹰派信号",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyx0580961.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785170698000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-06",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 71（热门）；3 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 65,
+      "heat": 71,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
+      "newsUrl": "https://www.cnbc.com/2026/07/27/trump-warsh-interest-rates.html",
+      "source": "CNBC",
+      "publishedAt": 1785172415000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-07",
+      "title": "深聊丨国债之后，钱会往哪去？",
+      "reason": "热度 64（热门）；11 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 63,
+      "heat": 64,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "美国五年期国债收益率在拍卖后跌幅略有收窄，现跌2.37个基点，报4.402%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785171894000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-08",
+      "title": "深聊丨财政之后，钱会往哪去？",
+      "reason": "热度 53（温热）；7 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "美国财政部：作为制裁项目现代化改革的一部分，已将84名个人和实体从制裁名单中移除。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785172143000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-09",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 53（温热）；49 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "欧洲股市基本持平 阿斯麦重挫抵消零售和媒体股涨幅",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2870290.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785169651000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-10",
+      "title": "天然气之后，哪些资产会被重新定价？",
+      "reason": "热度 52（温热）；5 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合国内盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "中国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 52,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "周一（7月27日）欧市尾盘，ICE英国天然气期货跌10.75%，报137.550便士/千卡。 TTF基准荷兰天然气期货跌9.52%，报57.005欧元/兆瓦时，亚太盘初跳空低开，随后持续...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3140454",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1785172288000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-11",
+      "title": "从sec聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；5 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 51,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Trump Account signups reach 7 million — Bessent says it's 'the most successful launch in government history'",
+      "newsUrl": "https://www.cnbc.com/2026/07/27/bessent-trump-account-signups-reach-7-million.html",
+      "source": "CNBC",
+      "publishedAt": 1785172278000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    },
+    {
+      "id": "2026-07-28-12",
+      "title": "油价之后，哪些资产会被重新定价？",
+      "reason": "热度 51（温热）；7 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 51,
+      "angle": "供需格局与价格弹性",
+      "keyword": "油价",
+      "newsTitle": "意大利总理梅洛尼：因国际局势推高燃油价格，已通过法令立即下调柴油价格。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785172130000,
+      "firstSeenAt": "2026-07-27T17:15:59.844Z",
+      "lastSeenAt": "2026-07-27T17:15:59.844Z"
+    }
+  ]
+}
