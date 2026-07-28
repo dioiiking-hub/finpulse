@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-28T16:56:33.407Z",
+  "snapshots": [
+    "00:56"
+  ],
+  "topics": [
+    {
+      "id": "2026-07-29-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 79（热门）；16 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步微博快讯。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 76,
+      "heat": 79,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "WTI原油期货日内大跌5.00%，现报77.81美元/桶。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785256851000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    },
+    {
+      "id": "2026-07-29-02",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 67（热门）；5 分钟内新鲜事件，时效性强；8 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 70,
+      "heat": 67,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Alphabet and Tesla took a hit from soaring AI spending. Will Microsoft, Meta and Amazon be next?",
+      "newsUrl": "https://www.marketwatch.com/story/alphabet-and-tesla-took-a-hit-from-soaring-ai-spending-will-microsoft-meta-and-amazon-be-next-80ecb30b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785257520000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    },
+    {
+      "id": "2026-07-29-03",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 75（热门）；16 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 68,
+      "heat": 75,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Forget oil. A surging El Ni&#xf1;o could kill Fed rate cuts &#x2014; and these stocks stand to win.",
+      "newsUrl": "https://www.marketwatch.com/story/forget-oil-a-surging-el-nino-could-kill-fed-rate-cuts-and-these-stocks-stand-to-win-41f8e67f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785256860000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    },
+    {
+      "id": "2026-07-29-04",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 66（热门）；11 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 66,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Dow rallies 600 points, boosted by strong earnings and a steep decline in oil: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1785257179000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    },
+    {
+      "id": "2026-07-29-05",
+      "title": "深聊丨芯片之后，钱会往哪去？",
+      "reason": "热度 67（热门）；9 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 67,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "芯片",
+      "newsTitle": "闪迪股价较高位腰斩，较历史最高点下跌五成",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksyf3004075.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785257259000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    },
+    {
+      "id": "2026-07-29-06",
+      "title": "通胀的另一面：那些被忽略的长期变量",
+      "reason": "热度 54（温热）；11 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "7月美国消费者信心指数小幅回落",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksyc6220734.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785257141000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    },
+    {
+      "id": "2026-07-29-07",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 54（温热）；25 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "SpaceX较IPO发行价跌20%后 太空相关股票纷纷下跌",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-07-28/doc-inikknsf6301123.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785256316000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    },
+    {
+      "id": "2026-07-29-08",
+      "title": "从英伟达聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；11 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "英伟达",
+      "newsTitle": "据AXIOS：英伟达CEO黄仁勋与美国商务部长卢特尼克会面。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785257173000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    },
+    {
+      "id": "2026-07-29-09",
+      "title": "深聊丨美股之后，钱会往哪去？",
+      "reason": "热度 52（温热）；6 分钟内新鲜事件，时效性强；属「美股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 52,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "美股医疗、金融板块盘中创下历史新高",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksyc6224184.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785257432000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    },
+    {
+      "id": "2026-07-29-10",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 51（温热）；3 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Roth IRA conversions as early as your 20s and 30s? It&#x2019;s not a crazy idea.",
+      "newsUrl": "https://www.marketwatch.com/story/roth-conversions-as-early-as-your-20s-and-30s-its-not-a-crazy-idea-1f028e24?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785257640000,
+      "firstSeenAt": "2026-07-28T16:56:33.407Z",
+      "lastSeenAt": "2026-07-28T16:56:33.407Z"
+    }
+  ]
+}
