@@ -1,0 +1,277 @@
+{
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-29T16:46:43.542Z",
+  "snapshots": [
+    "00:46"
+  ],
+  "topics": [
+    {
+      "id": "2026-07-30-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 69（热门）；9 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 69,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785343106000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-02",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 78（热门）；5 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 70,
+      "heat": 78,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储今天要是真加息 沃什就有望创造市场历史",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikpaeu9858875.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785343311000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-03",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 73（热门）；35 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 73,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Dow tumbles 900 points as losses accelerate ahead of Fed decision: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1785341510000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-04",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 67（热门）；9 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 68,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "三菱日联：日本央行料维持利率不变 美/日或测试165并加大干预风险",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikpaeu9858648.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785343100000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-05",
+      "title": "美股的另一面：那些被忽略的长期变量",
+      "reason": "热度 69（热门）；8 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 66,
+      "heat": 69,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股盘中）",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785343142000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-06",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；13 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "市场消息：知名对冲基金千禧年计划新一轮募资，目标规模创纪录达200亿美元。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785342856000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-07",
+      "title": "oil异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 53（温热）；11 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 53,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
+      "newsUrl": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785342960000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-08",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 51（温热）；15 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Caterpillar is downgraded on growing data center buildout backlash. The shares are falling",
+      "newsUrl": "https://www.cnbc.com/2026/07/29/caterpillar-is-downgraded-on-growing-data-center-buildout-backlash.html",
+      "source": "CNBC",
+      "publishedAt": 1785342733000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-09",
+      "title": "从收益率聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；58 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "收益率",
+      "newsTitle": "美国东北印第安纳银行宣布派息并任命新董事",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikpaeu9839485.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785340159000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-10",
+      "title": "深聊丨谷歌之后，钱会往哪去？",
+      "reason": "热度 50（温热）；10 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "谷歌",
+      "newsTitle": "美国自动驾驶技术公司Waymo：谷歌的Gemini车载助手现已进入测试阶段，供乘客使用。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785342999000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-11",
+      "title": "天然气之后，哪些资产会被重新定价？",
+      "reason": "热度 47（温热）；27 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 47,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "海洋液化天然气公司Energos证实在埃及的液化天然气运输船上发生火灾，公司称埃及当局已控制住油轮上的火势。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785342000000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    },
+    {
+      "id": "2026-07-30-12",
+      "title": "crypto的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；44 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "机构化进程与链上数据",
+      "keyword": "crypto",
+      "newsTitle": "A key cryptocurrency bill could flop because of Trump&#x2019;s crypto ventures and banks&#x2019; objections",
+      "newsUrl": "https://www.marketwatch.com/story/a-key-cryptocurrency-bill-could-flop-because-of-trumps-crypto-ventures-and-banks-objections-76b7445b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785340980000,
+      "firstSeenAt": "2026-07-29T16:46:43.542Z",
+      "lastSeenAt": "2026-07-29T16:46:43.542Z"
+    }
+  ]
+}
