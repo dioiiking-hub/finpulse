@@ -1,0 +1,252 @@
+{
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-30T16:57:48.598Z",
+  "snapshots": [
+    "00:57"
+  ],
+  "topics": [
+    {
+      "id": "2026-07-31-01",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；38 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Mortgage rates jump to their highest level in a year and show few signs of falling",
+      "newsUrl": "https://www.marketwatch.com/story/mortgage-rates-jump-to-their-highest-level-in-a-year-and-show-few-signs-of-falling-4d485df0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785428400000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-02",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 54（温热）；22 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 54,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "newsUrl": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+      "source": "CNBC",
+      "publishedAt": 1785429373000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-03",
+      "title": "深聊丨美股之后，钱会往哪去？",
+      "reason": "热度 60（热门）；25 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 60,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "金十图示：2026年07月30日（周四）热门中概股行情一览（美股盘中）",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785429197000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-04",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；13 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "A break below this critical stock-market threshold used to signal panic for investors. Not anymore.",
+      "newsUrl": "https://www.marketwatch.com/story/why-you-shouldnt-worry-about-the-stock-markets-break-below-its-50-day-moving-average-4dfab87a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785429900000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-05",
+      "title": "从欧盟聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；11 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "沙特：商讨组建海洋防御联盟 已有43个国家和欧盟代表团参与会议",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785429999000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-06",
+      "title": "从earnings聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；12 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 47,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Brookfield Infrastructure Partners L.P. Q2 2026 Earnings Call Summary",
+      "newsUrl": "https://finance.yahoo.com/markets/stocks/articles/brookfield-infrastructure-partners-l-p-164616189.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1785429976000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-07",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 50（温热）；5 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "联合国安理会首次非正式民意调查显示，哥斯达黎加的丽贝卡·格林斯潘目前在联合国秘书长竞选中领先。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785430400000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-08",
+      "title": "加息的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "德国7月CPI升至2.8%创三个月新高，欧洲央行9月加息预期陡增",
+      "newsUrl": "https://wallstreetcn.com/articles/3778347",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1785425411000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-09",
+      "title": "黄金之后，哪些资产会被重新定价？",
+      "reason": "热度 48（温热）；50 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "现货白银价格涨超2%",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1785427682000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-10",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 48（温热）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储7月按兵不动通胀预期升温，美消费信贷风险上行，国内定调加大逆周期调节力度---0730宏观脱水",
+      "newsUrl": "https://wallstreetcn.com/member/articles/3778335",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1785423718000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    },
+    {
+      "id": "2026-07-31-11",
+      "title": "天然气之后，哪些资产会被重新定价？",
+      "reason": "热度 45（温热）；25 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "卡塔尔外交部：卡塔尔强烈谴责针对埃及达米埃塔港两艘液化天然气运输船的袭击行为。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785429210000,
+      "firstSeenAt": "2026-07-30T16:57:48.598Z",
+      "lastSeenAt": "2026-07-30T16:57:48.598Z"
+    }
+  ]
+}
