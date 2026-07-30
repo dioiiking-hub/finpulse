@@ -1,5 +1,5 @@
 {
- "asOf": "2026-07-31T05:05:35+08:00",
+ "asOf": "2026-07-31T07:02:54+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -319,8 +319,8 @@
    "source": "Yahoo Finance"
   },
   "gold": {
-   "price": 4161.0,
-   "changePct": 3.1303,
+   "price": 4169.3999,
+   "changePct": 3.3385,
    "spark": [
     4358.9,
     4224.1,
@@ -351,14 +351,14 @@
     4074.5,
     4036.3,
     4034.7,
-    4161.0
+    4169.4
    ],
    "asOf": "2026-07-30",
    "source": "Yahoo Finance"
   },
   "wti": {
-   "price": 83.89,
-   "changePct": -0.6749,
+   "price": 83.96,
+   "changePct": -0.592,
    "spark": [
     76.79,
     76.6,
@@ -389,23 +389,23 @@
     82.61,
     79.26,
     84.46,
-    83.89
+    83.96
    ],
    "asOf": "2026-07-30",
    "source": "Yahoo Finance"
   },
   "usdcnh": {
-   "price": 6.745,
+   "price": 6.7452,
    "changePct": 0.0,
    "spark": [
     6.75
    ],
-   "asOf": "2026-07-30",
+   "asOf": "2026-07-31",
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 64717.7305,
-   "changePct": 1.2668,
+   "price": 64799.8789,
+   "changePct": 1.3953,
    "spark": [
     60003.76,
     61485.3,
@@ -436,7 +436,7 @@
     63724.9,
     63871.36,
     63908.17,
-    64717.73
+    64799.88
    ],
    "asOf": "2026-07-30",
    "source": "Yahoo Finance"
