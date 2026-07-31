@@ -1,0 +1,279 @@
+{
+  "date": "2026-08-01",
+  "generatedAt": "2026-07-31T17:01:01.032Z",
+  "snapshots": [
+    "01:01"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-01-01",
+      "title": "芯片刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 78（热门）；17 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 73,
+      "heat": 78,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "芯片",
+      "newsTitle": "据英国金融时报：恩智浦半导体(NXPI.O)正洽谈收购一家价值33亿美元的自动驾驶汽车摄像头芯片设计公司。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785516278000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-02",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 69（热门）；7 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 69,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储巴尔金：不确定自己是否会支持三位反对者的加息提议。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785516845000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-03",
+      "title": "从标普聊起：普通投资者能学到什么",
+      "reason": "热度 65（热门）；52 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 69,
+      "heat": 65,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "标普",
+      "newsTitle": "美股周五午盘小幅上扬，三大股指本周均有望录得涨幅",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4285110.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785514179000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-04",
+      "title": "从苹果聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；25 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 67,
+      "heat": 63,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "苹果",
+      "newsTitle": "苹果跌幅扩大至10%",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785515795000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-05",
+      "title": "美股的另一面：那些被忽略的长期变量",
+      "reason": "热度 63（热门）；23 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 63,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股盘中）",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785515928000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-06",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 61（热门）；16 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 61,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "欧洲股市收窄月度涨幅 诺和诺德与环球音乐重挫",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkz1083373.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785516345000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-07",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 58（温热）；7 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "市场大盘走势平稳，态势洞察对冲基金为何轰然崩盘",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9231815.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785516851000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-08",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；32 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
+      "newsUrl": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html",
+      "source": "CNBC",
+      "publishedAt": 1785515370000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-09",
+      "title": "深聊丨meta之后，钱会往哪去？",
+      "reason": "热度 55（温热）；23 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 55,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review",
+      "newsUrl": "https://www.investors.com/news/stock-market-rises-amid-apple-amazon-meta-microsoft-earnings-soaring-yields-weekly-review/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1785515910000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-10",
+      "title": "从纳斯达克聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；29 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "纳斯达克",
+      "newsTitle": "特朗普之子支持的反无人机技术企业计划美股上市",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9217482.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785515518000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-11",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 49（温热）；11 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785516615000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    },
+    {
+      "id": "2026-08-01-12",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；24 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Let&#x2019;s elect candidates who will make the wealthy pay taxes",
+      "newsUrl": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785515820000,
+      "firstSeenAt": "2026-07-31T17:01:01.032Z",
+      "lastSeenAt": "2026-07-31T17:01:01.032Z"
+    }
+  ]
+}
