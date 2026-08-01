@@ -1,0 +1,229 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-01T16:27:28.229Z",
+  "snapshots": [
+    "00:27"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-02-01",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；19 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 49,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "This 6.7%-Yielding Pipeline Stock Just Raised Its Payout Again -- Here's Why There's No Stopping It Now",
+      "newsUrl": "https://finance.yahoo.com/energy/articles/6-7-yielding-pipeline-stock-160900612.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1785600540000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    },
+    {
+      "id": "2026-08-02-02",
+      "title": "深聊丨实体清单之后，钱会往哪去？",
+      "reason": "热度 53（温热）；1 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "实体清单",
+      "newsTitle": "金十数据整理：周六重要消息汇总",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785596656000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    },
+    {
+      "id": "2026-08-02-03",
+      "title": "从sec聊起：普通投资者能学到什么",
+      "reason": "热度 49（温热）；13 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 49,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "&#x2018;I&#x2019;m in my peak earning years&#x2019;: I&#x2019;m working beyond 70. Will that help increase my Social Security?",
+      "newsUrl": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785600900000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    },
+    {
+      "id": "2026-08-02-04",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 46（温热）；28 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 46,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "&#x2018;We have always been civil&#x2019;: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "newsUrl": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785600000000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    },
+    {
+      "id": "2026-08-02-05",
+      "title": "深聊丨涨停之后，钱会往哪去？",
+      "reason": "热度 46（温热）；21 分钟内新鲜事件，时效性强；属「A股港股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
+      "category": "A股港股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "资金面 + 产业主线",
+      "keyword": "涨停",
+      "newsTitle": "韩股去杠杆：38天跌掉韩国一年GDP，122亿元资金被强平！学者怒批：盲目“美国化”",
+      "newsUrl": "https://finance.sina.com.cn/roll/2026-08-01/doc-inikurwe8950433.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1785600395000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    },
+    {
+      "id": "2026-08-02-06",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 39（平静）；56 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 39,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "特朗普社交帖文开启付费抢先服务，月费十万美元引法律争议",
+      "newsUrl": "https://finance.sina.com.cn/7x24/2026-08-01/doc-inikvtis8634086.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1785598324000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    },
+    {
+      "id": "2026-08-02-07",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 38（平静）；3 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 38,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "美财长称正在全球范围内追查伊朗资产",
+      "newsUrl": "https://wallstreetcn.com/livenews/3143618",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1785589607000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    },
+    {
+      "id": "2026-08-02-08",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 37（平静）；7 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "据半岛电视台：以色列称在黎巴嫩南部击毙了真主党成员，并表示一名以色列作战军官受伤。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785601277000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    },
+    {
+      "id": "2026-08-02-09",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 37（平静）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "US Treasury undertakes historic intervention in yen market",
+      "newsUrl": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
+      "source": "FT Markets",
+      "publishedAt": 1785597991000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    },
+    {
+      "id": "2026-08-02-10",
+      "title": "从存储聊起：普通投资者能学到什么",
+      "reason": "热度 31（平静）；1 小时内事件，仍在发酵窗口；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 37,
+      "heat": 31,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "存储",
+      "newsTitle": "美前官员：武器库存不足令美政府承压",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1785597246000,
+      "firstSeenAt": "2026-08-01T16:27:28.229Z",
+      "lastSeenAt": "2026-08-01T16:27:28.229Z"
+    }
+  ]
+}
