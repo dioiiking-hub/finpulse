@@ -1,0 +1,251 @@
+{
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-02T16:27:39.544Z",
+  "snapshots": [
+    "00:27"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-03-01",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 57（温热）；28 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 63,
+      "heat": 57,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Nvidia vs. Alphabet: What Revenue Trends Reveal About the AI Leaders",
+      "newsUrl": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-alphabet-revenue-trends-160012222.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1785686412000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-02",
+      "title": "深聊丨cpi之后，钱会往哪去？",
+      "reason": "热度 62（热门）；28 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 62,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "cpi",
+      "newsTitle": "今日重点关注的财经数据与事件：2026年8月3日 周一",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785686400000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-03",
+      "title": "深聊丨国债之后，钱会往哪去？",
+      "reason": "热度 57（温热）；55 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 57,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "市场消息：过去三个月，日本减持了960亿美元的美国国债，持仓降至1.14万亿美元，为2025年4月以来的最低水平。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785684786000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-04",
+      "title": "从s&p聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；28 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 52,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "America’s biggest companies report ‘rock solid’ profits as consumers face higher costs",
+      "newsUrl": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1",
+      "source": "FT Markets",
+      "publishedAt": 1785686406000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-05",
+      "title": "一张图看懂opec这波行情的驱动因子",
+      "reason": "热度 58（温热）；25 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 58,
+      "angle": "供需格局与价格弹性",
+      "keyword": "opec",
+      "newsTitle": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts",
+      "newsUrl": "https://www.cnbc.com/2026/08/02/opec-agrees-september-oil-hike-completing-rollback-of-voluntary-cuts.html",
+      "source": "CNBC",
+      "publishedAt": 1785686573000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-06",
+      "title": "earnings的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；52 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 46,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "newsUrl": "https://www.cnbc.com/2026/08/02/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC",
+      "publishedAt": 1785684961000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-07",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 44（温热）；23 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 44,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "索尼影业最新一部电影《蜘蛛侠》全球首映票房9.27亿美元。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3143706",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1785686688000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-08",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 37（平静）；3 小时内事件，仍在发酵窗口；4 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 37,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+      "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1785677572000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-09",
+      "title": "从etf聊起：普通投资者能学到什么",
+      "reason": "热度 42（温热）；25 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 42,
+      "angle": "机构化进程与链上数据",
+      "keyword": "etf",
+      "newsTitle": "Warren Buffett keeps pointing at the same ETF for a reason",
+      "newsUrl": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1785686580000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-10",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 44（温热）；34 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 44,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
+      "newsUrl": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
+      "source": "CNBC",
+      "publishedAt": 1785686045000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    },
+    {
+      "id": "2026-08-03-11",
+      "title": "从证监会聊起：普通投资者能学到什么",
+      "reason": "热度 36（平静）；1 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "证监会",
+      "newsTitle": "证监会对多家券商开出罚单 投行业务继续严监管",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1785682734000,
+      "firstSeenAt": "2026-08-02T16:27:39.544Z",
+      "lastSeenAt": "2026-08-02T16:27:39.544Z"
+    }
+  ]
+}
