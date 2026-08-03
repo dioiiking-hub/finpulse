@@ -1,0 +1,320 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-03T17:23:12.478Z",
+  "snapshots": [
+    "01:23"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-04-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 73（热门）；34 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 74,
+      "heat": 73,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Inside Wealth: More tech millionaires are using donor-advised funds for tax savings and giving",
+      "newsUrl": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
+      "source": "CNBC",
+      "publishedAt": 1785775743000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-02",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；19 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 65,
+      "heat": 63,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "SpaceX&#x2019;s stock is down nearly 50% from its high. Why it&#x2019;s still not a bargain.",
+      "newsUrl": "https://www.marketwatch.com/story/spacexs-stock-is-down-nearly-50-from-its-high-why-its-still-not-a-bargain-65b528ad?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1785776700000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-03",
+      "title": "meta的另一面：那些被忽略的长期变量",
+      "reason": "热度 63（热门）；46 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 65,
+      "heat": 63,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results",
+      "newsUrl": "https://finance.yahoo.com/technology/article/amazon-meta-and-microsoft-stocks-surge-as-ai-hyperscalers-post-strong-earnings-results-163729332.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1785775049000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-04",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；2 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美元指数DXY站上100，日内涨0.26%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785777698000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-05",
+      "title": "美联储的另一面：那些被忽略的长期变量",
+      "reason": "热度 57（温热）；7 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 57,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "财联社8月4日电，周一（8月3日），美联储隔夜逆回购协议（RRP）使用规模为21.27亿美元。",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1785777384000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-06",
+      "title": "earnings的另一面：那些被忽略的长期变量",
+      "reason": "热度 54（温热）；11 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 54,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Jobs report and earnings: What NYSE insider Jay Woods is watching this week",
+      "newsUrl": "https://www.cnbc.com/2026/08/03/jobs-report-and-earnings-what-nyse-insider-jay-woods-is-watching-this-week.html",
+      "source": "CNBC",
+      "publishedAt": 1785777182000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-07",
+      "title": "从美股聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；13 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "牛市行情扩散，背后核心诱因只有一个",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimamwc5730038.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785777034000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-08",
+      "title": "从标普聊起：普通投资者能学到什么",
+      "reason": "热度 54（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 54,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "标普",
+      "newsTitle": "美股涨幅扩大 纳指涨超2%",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1785773932000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-09",
+      "title": "芯片的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；47 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "芯片",
+      "newsTitle": "城堡证券预测：芯片领域将迎来5000亿美元大规模债务融资浪潮",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimamvx5968512.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785775009000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-10",
+      "title": "从亚马逊聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；29 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "亚马逊",
+      "newsTitle": "亚马逊云业务负责人：人工智能业务潜在规模非常巨大",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785776098000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-11",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 47（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 47,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "特朗普批评雪佛龙CEO未称颂政府的能源政策 并催促石油企业立即降价",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-08-04/doc-inimafpx4485876.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785773653000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-12",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 49（温热）；11 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "Jim Cramer wants to 'replenish' our position in this data center play",
+      "newsUrl": "https://www.cnbc.com/2026/08/03/jim-cramer-wants-to-replenish-our-position-in-this-data-center-play.html",
+      "source": "CNBC",
+      "publishedAt": 1785777151000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-13",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 47（温热）；26 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "FAA clears smallest Boeing 737 Max to fly after years of delays",
+      "newsUrl": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+      "source": "CNBC",
+      "publishedAt": 1785776276000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    },
+    {
+      "id": "2026-08-04-14",
+      "title": "油价之后，哪些资产会被重新定价？",
+      "reason": "热度 46（温热）；22 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "供需格局与价格弹性",
+      "keyword": "油价",
+      "newsTitle": "欧洲股市试探新高 消费品和零售板块涨幅居前",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-08-04/doc-inimamvx5978189.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785776467000,
+      "firstSeenAt": "2026-08-03T17:23:12.478Z",
+      "lastSeenAt": "2026-08-03T17:23:12.478Z"
+    }
+  ]
+}
