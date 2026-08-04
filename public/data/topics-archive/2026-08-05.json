@@ -1,0 +1,255 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-04T17:10:51.851Z",
+  "snapshots": [
+    "01:10"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-05-01",
+      "title": "s&p再创新高，美股这轮行情还能走多远？",
+      "reason": "热度 84（爆发）；31 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 77,
+      "heat": 84,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "Dow leaps 900 points fueled by earnings, hopes for Hormuz Strait deal; S&P 500 hits record: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1785861627000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-02",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 71（热门）；43 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 71,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
+      "newsUrl": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
+      "source": "CNBC",
+      "publishedAt": 1785860908000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-03",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 68（热门）；11 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 68,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Stocks making the biggest moves midday: Palantir, Amazon, SpaceX, Sandisk, Snap & more",
+      "newsUrl": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-midday-pltr-amzn-spcx-sndk-snap.html",
+      "source": "CNBC",
+      "publishedAt": 1785862789000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-04",
+      "title": "汇率的另一面：那些被忽略的长期变量",
+      "reason": "热度 58（温热）；4 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "汇率",
+      "newsTitle": "观点：日元当前定价或许有误 但汇率偏离公允价值可能持续多年",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequx5539575.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785863210000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-05",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 57（温热）；7 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 63,
+      "heat": 57,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "现货黄金向上触及4100美元/盎司，日内涨1.11%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785863050000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-06",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 67（热门）；43 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 67,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "布伦特原油跌破每桶80美元 美伊协议接近达成迹象浮现",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimeqvf1853282.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785860921000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-07",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；22 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 63,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美国国债上涨 油价下跌缓解美联储加息压力",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequv3929802.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785862172000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-08",
+      "title": "深聊丨纳斯达克之后，钱会往哪去？",
+      "reason": "热度 57（温热）；8 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 57,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "纳斯达克",
+      "newsTitle": "纳斯达克100指数涨幅超3%，刷新日高，标普涨1.7%，道指涨超千点、涨幅1.9%。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3144891",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1785863007000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-09",
+      "title": "铜异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 53（温热）；8 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "供需格局与价格弹性",
+      "keyword": "铜",
+      "newsTitle": "智利国家铜业公司：析发现一种新出现的地震现象，与此前已知风险不同。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1785862986000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-10",
+      "title": "从earnings聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；41 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Why This Niche Energy Stock Delivered A Major Price Surge Post Earnings",
+      "newsUrl": "https://www.investors.com/news/energy-stocks-why-amrc-is-delivering-a-major-price-surge-post-earnings/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1785861033000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    },
+    {
+      "id": "2026-08-05-11",
+      "title": "通胀的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；55 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "美股强力拉升刷新纪录 伊朗考虑在霍尔木兹海峡做出让步",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequx5522549.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1785860176000,
+      "firstSeenAt": "2026-08-04T17:10:51.851Z",
+      "lastSeenAt": "2026-08-04T17:10:51.851Z"
+    }
+  ]
+}
