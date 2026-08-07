@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-07T16:14:12.474Z",
+  "snapshots": [
+    "00:14"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-08-01",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 62（热门）；33 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 66,
+      "heat": 62,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Applied Materials is about to report earnings. How to trade the AI picks-and-shovels play ahead of results",
+      "newsUrl": "https://www.cnbc.com/2026/08/07/applied-materials-is-about-to-report-earnings-how-to-trade-it-ahead-of-results.html",
+      "source": "CNBC",
+      "publishedAt": 1786117314000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-02",
+      "title": "深聊丨非农之后，钱会往哪去？",
+      "reason": "热度 63（热门）；23 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 65,
+      "heat": 63,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "非农",
+      "newsTitle": "英国10年期国债收益率本周跌超13个基点",
+      "newsUrl": "https://wallstreetcn.com/livenews/3146829",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1786117914000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-03",
+      "title": "从通胀聊起：普通投资者能学到什么",
+      "reason": "热度 62（热门）；25 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 62,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "纽约联储调查显示美国消费者对就业前景和通胀预期更为乐观",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1786117755000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-04",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 58（温热）；32 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 58,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "花旗：美伊谈判反复无常，将第三季度布伦特原油均价预期调整为80美元，第四季度维持在70美元，2027年为65美元。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1786117327000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-05",
+      "title": "美联储的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储：美国7月通胀预期降低至3.63%，前值3.67%。消费者对就业变得更加乐观",
+      "newsUrl": "https://wallstreetcn.com/articles/3778968",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1786114878000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-06",
+      "title": "深聊丨s&p之后，钱会往哪去？",
+      "reason": "热度 53（温热）；8 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "S&P 500 rises as it wraps up banner week with traders seeing bright side of dismal jobs report: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1786118785000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-07",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；5 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "据塞尔维亚N1电视台：乌克兰总统泽连斯基抵达塞尔维亚，是他首次访问该国。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1786118962000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-08",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；22 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "U.S. economy unexpectedly lost 23,000 jobs in July",
+      "newsUrl": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+      "source": "CNBC",
+      "publishedAt": 1786117945000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-09",
+      "title": "制裁的另一面：那些被忽略的长期变量",
+      "reason": "热度 47（温热）；26 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "伊朗德黑兰市长扎卡尼：想通过霍尔木兹海峡，必须取消制裁并支付赔偿。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1786117685000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-10",
+      "title": "天然气之后，哪些资产会被重新定价？",
+      "reason": "热度 39（平静）；17 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合国内盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "中国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 39,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "欧洲天然气期货本周跌约7%",
+      "newsUrl": "https://wallstreetcn.com/livenews/3146831",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1786118228000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    },
+    {
+      "id": "2026-08-08-11",
+      "title": "从inflation聊起：普通投资者能学到什么",
+      "reason": "热度 42（温热）；39 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "This mom spent $2,000 on her kindergartner as viral &#x2018;back-to-school hauls&#x2019; on TikTok and YouTube spin out of control",
+      "newsUrl": "https://www.marketwatch.com/story/this-mom-spent-2-000-on-her-kindergartner-as-viral-back-to-school-hauls-on-tiktok-and-youtube-spin-out-of-control-0be2949d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1786116960000,
+      "firstSeenAt": "2026-08-07T16:14:12.474Z",
+      "lastSeenAt": "2026-08-07T16:14:12.474Z"
+    }
+  ]
+}
