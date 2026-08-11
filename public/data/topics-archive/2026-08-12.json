@@ -1,0 +1,252 @@
+{
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-11T16:15:23.762Z",
+  "snapshots": [
+    "00:15"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-12-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 65（热门）；13 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 67,
+      "heat": 65,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "EIA上调今明两年美油、布油价格预期",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1786464138000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-02",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 56（温热）；3 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "据相关声明：智利铜委员会Cochilco将2027年平均铜价预估维持在每磅5.10美元。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1786464752000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-03",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；35 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Nvidia Stock Rises As Chipmaker Rounds Up Funding For AI Buildout",
+      "newsUrl": "https://www.investors.com/news/technology/nvidia-stock-ai-buildout-financing/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1786462871000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-04",
+      "title": "oil异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 53（温热）；8 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
+      "newsUrl": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+      "source": "CNBC",
+      "publishedAt": 1786464479000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-05",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 54（温热）；3 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储古尔斯比：劳动力市场指标显示稳定，但表现不强。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1786464777000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-06",
+      "title": "cpi的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；6 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "cpi",
+      "newsTitle": "今日重点关注的财经数据与事件：2026年8月12日 周三",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1786464600000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-07",
+      "title": "深聊丨s&p之后，钱会往哪去？",
+      "reason": "热度 50（温热）；18 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "S&P 500 falls into the red as unraveling Iran situation overhangs market: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1786463845000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-08",
+      "title": "深聊丨国债之后，钱会往哪去？",
+      "reason": "热度 46（温热）；20 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "英债收益率普遍跌超2个基点",
+      "newsUrl": "https://wallstreetcn.com/livenews/3148162",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1786463732000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-09",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；44 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "I looked into buying a house in Singapore as an investment. Here&#x2019;s why I didn&#x2019;t &#x2014; despite the 2% mortgage rate.",
+      "newsUrl": "https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1786462320000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-10",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 41（温热）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 41,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
+      "newsUrl": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
+      "source": "CNBC",
+      "publishedAt": 1786460928000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    },
+    {
+      "id": "2026-08-12-11",
+      "title": "从fomc聊起：普通投资者能学到什么",
+      "reason": "热度 40（温热）；4 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 40,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fomc",
+      "newsTitle": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：指标表明，美国劳动力市场稳定、但情况并不良好。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3148169",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1786464706000,
+      "firstSeenAt": "2026-08-11T16:15:23.762Z",
+      "lastSeenAt": "2026-08-11T16:15:23.762Z"
+    }
+  ]
+}
