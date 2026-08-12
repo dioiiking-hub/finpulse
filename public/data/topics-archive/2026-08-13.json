@@ -1,0 +1,275 @@
+{
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-12T16:23:57.511Z",
+  "snapshots": [
+    "00:23"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-13-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 67（热门）；15 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 70,
+      "heat": 67,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "S&P 500 rises after tame inflation data; AI-related shares jump: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/08/11/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1786550979000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-02",
+      "title": "从利率聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；24 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 63,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "今日重点关注的财经数据与事件：2026年8月13日 周四",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1786550400000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-03",
+      "title": "从谷歌聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；10 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "谷歌",
+      "newsTitle": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1786551259000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-04",
+      "title": "苹果的另一面：那些被忽略的长期变量",
+      "reason": "热度 55（温热）；16 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 55,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "苹果",
+      "newsTitle": "谷歌发布Pixel 11，依托Gemini迎战苹果，打响AI手机竞赛",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-ininarrc3447258.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1786550909000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-05",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 53（温热）；1 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合国内盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "中国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "关键沙特石油出口港数周来首次发现油轮装载",
+      "newsUrl": "https://wallstreetcn.com/livenews/3148714",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1786551830000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-06",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；31 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Amazon shares appear stuck in a rut. Trader Mike Khouw is betting things will stay that way",
+      "newsUrl": "https://www.cnbc.com/2026/08/12/amazon-shares-appear-stuck-in-a-rut-trader-mike-khouw-is-betting-things-will-stay-that-way.html",
+      "source": "CNBC",
+      "publishedAt": 1786550004000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-07",
+      "title": "tech的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；22 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+      "newsUrl": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+      "source": "CNBC",
+      "publishedAt": 1786550560000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-08",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 50（温热）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "AI’s costly build-out complicates the Fed’s inflation fight",
+      "newsUrl": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
+      "source": "CNBC",
+      "publishedAt": 1786548192000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-09",
+      "title": "meta的另一面：那些被忽略的长期变量",
+      "reason": "热度 45（温热）；36 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "做空机构Viceroy Research表示其正在做空Blue Moon Metals，该公司股价目前下跌8%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1786549689000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-10",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "日食拉动欧洲酒店房价飙升，部分地区一晚超 1000 美元",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarri3851756.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1786548147000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-11",
+      "title": "earnings的另一面：那些被忽略的长期变量",
+      "reason": "热度 45（温热）；20 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Trimble Q2 Earnings Call Highlights",
+      "newsUrl": "https://finance.yahoo.com/markets/stocks/articles/trimble-q2-earnings-call-highlights-160432861.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1786550672000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    },
+    {
+      "id": "2026-08-13-12",
+      "title": "从nvidia聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；24 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "Nvidia, Intel, Google: Wall Street is partying like it&#x2019;s 1999",
+      "newsUrl": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1786550400000,
+      "firstSeenAt": "2026-08-12T16:23:57.511Z",
+      "lastSeenAt": "2026-08-12T16:23:57.511Z"
+    }
+  ]
+}
