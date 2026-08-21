@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-21T15:39:52+08:00",
+ "asOf": "2026-08-21T16:35:56+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -90,8 +90,8 @@
    "source": "Yahoo Finance"
   },
   "hsi": {
-   "price": 25966.5098,
-   "changePct": 1.0429,
+   "price": 26009.4609,
+   "changePct": 1.2101,
    "spark": [
     24213.72,
     24340.73,
@@ -122,14 +122,14 @@
     25471.15,
     25495.07,
     25698.49,
-    25966.51
+    26009.46
    ],
    "asOf": "2026-08-21",
    "source": "Yahoo Finance"
   },
   "hstech": {
-   "price": 4.664,
-   "changePct": 1.3913,
+   "price": 4.67,
+   "changePct": 1.5217,
    "spark": [
     4.63,
     4.59,
@@ -160,7 +160,7 @@
     4.7,
     4.65,
     4.6,
-    4.66
+    4.67
    ],
    "asOf": "2026-08-21",
    "source": "Yahoo Finance",
@@ -281,8 +281,8 @@
    "source": "Yahoo Finance"
   },
   "vix": {
-   "price": 15.81,
-   "changePct": -1.2492,
+   "price": 15.83,
+   "changePct": -1.1243,
    "spark": [
     17.16,
     16.5,
@@ -313,14 +313,14 @@
     15.84,
     14.89,
     16.01,
-    15.81
+    15.83
    ],
    "asOf": "2026-08-21",
    "source": "Yahoo Finance"
   },
   "gold": {
-   "price": 4618.7002,
-   "changePct": 2.2674,
+   "price": 4637.5,
+   "changePct": 2.6836,
    "spark": [
     3997.0,
     4061.1,
@@ -351,14 +351,14 @@
     4366.0,
     4489.4,
     4516.3,
-    4618.7
+    4637.5
    ],
    "asOf": "2026-08-21",
    "source": "Yahoo Finance"
   },
   "wti": {
-   "price": 86.39,
-   "changePct": -1.6395,
+   "price": 86.08,
+   "changePct": -1.9925,
    "spark": [
     78.14,
     79.34,
@@ -389,7 +389,7 @@
     84.94,
     85.83,
     87.83,
-    86.39
+    86.08
    ],
    "asOf": "2026-08-21",
    "source": "Yahoo Finance"
@@ -404,8 +404,8 @@
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 76488.4375,
-   "changePct": 4.7317,
+   "price": 77617.5,
+   "changePct": 6.2777,
    "spark": [
     65044.81,
     64098.5,
@@ -436,11 +436,13 @@
     64680.71,
     69266.19,
     73032.76,
-    76488.44
+    77617.5
    ],
    "asOf": "2026-08-21",
    "source": "Yahoo Finance"
   }
  },
- "errors": {}
+ "errors": {
+  "usdcnh": "fetch failed, kept previous"
+ }
 }
