@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-24T16:43:29+08:00",
+ "asOf": "2026-08-24T17:43:12+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -319,8 +319,8 @@
    "source": "Yahoo Finance"
   },
   "gold": {
-   "price": 4688.7998,
-   "changePct": 1.3992,
+   "price": 4691.6001,
+   "changePct": 1.4597,
    "spark": [
     4061.1,
     4044.0,
@@ -351,14 +351,14 @@
     4489.4,
     4516.3,
     4624.1,
-    4688.8
+    4691.6
    ],
    "asOf": "2026-08-24",
    "source": "Yahoo Finance"
   },
   "wti": {
-   "price": 85.5,
-   "changePct": -1.7919,
+   "price": 85.38,
+   "changePct": -1.9297,
    "spark": [
     79.34,
     79.6,
@@ -389,13 +389,13 @@
     85.83,
     87.83,
     87.06,
-    85.5
+    85.38
    ],
    "asOf": "2026-08-24",
    "source": "Yahoo Finance"
   },
   "usdcnh": {
-   "price": 6.7233,
+   "price": 6.723,
    "changePct": 0.0,
    "spark": [
     6.72
@@ -404,8 +404,8 @@
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 77078.2031,
-   "changePct": -0.8708,
+   "price": 77459.8672,
+   "changePct": -0.3799,
    "spark": [
     65340.3,
     63724.9,
@@ -436,13 +436,11 @@
     78335.19,
     77083.41,
     77755.27,
-    77078.2
+    77459.87
    ],
    "asOf": "2026-08-24",
    "source": "Yahoo Finance"
   }
  },
- "errors": {
-  "usdcnh": "fetch failed, kept previous"
- }
+ "errors": {}
 }
