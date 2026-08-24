@@ -1,0 +1,321 @@
+{
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-24T16:02:40.032Z",
+  "snapshots": [
+    "00:02"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-25-01",
+      "title": "利率落地，对 A 股/美股意味着什么？一文看懂传导链条",
+      "reason": "热度 82（爆发）；7 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 80,
+      "heat": 82,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "德国财长：债券收益率飙升应归咎于特朗普",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1787586943000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-02",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 68（热门）；12 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 68,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "newsUrl": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+      "source": "CNBC",
+      "publishedAt": 1787586650000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-03",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 79（热门）；3 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 70,
+      "heat": 79,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "今日重点关注的财经数据与事件：2026年8月25日 周二",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1787587200000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-04",
+      "title": "央行的另一面：那些被忽略的长期变量",
+      "reason": "热度 70（热门）；31 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 70,
+      "heat": 70,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "印度财政部：创纪录的外汇筹措行动彰显侨民信心",
+      "newsUrl": "https://wallstreetcn.com/livenews/3154078",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1787585505000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-05",
+      "title": "深聊丨汇率之后，钱会往哪去？",
+      "reason": "热度 69（热门）；1 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 69,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "汇率",
+      "newsTitle": "伊朗货币汇率创历史新低",
+      "newsUrl": "https://wallstreetcn.com/livenews/3154089",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1787587335000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-06",
+      "title": "从etf看加密资产的宏观定价逻辑",
+      "reason": "热度 67（热门）；16 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 微博快讯，同步播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 67,
+      "angle": "机构化进程与链上数据",
+      "keyword": "etf",
+      "newsTitle": "Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges",
+      "newsUrl": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-strongest-weekly-154700094.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1787586420000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-07",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 58（温热）；5 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "周三（8月6日）欧市尾盘，英国10年期国债收益率跌0.5个基点，报5.055%。 两年期英债收益率涨2.2个基点，报4.379%。 30年期英债收益率跌1.5个基点，50年期英债收...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3154088",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1787587054000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-08",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 59（温热）；32 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 59,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "WTI原油5分钟内下跌0.56美元/桶，报84.48美元/桶；布伦特原油5分钟内下跌0.53美元/桶，报90.3美元/桶。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3154077",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1787585464000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-09",
+      "title": "制裁的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；19 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 50,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "据福克斯新闻：美国财长贝森特将公布伊朗二级制裁细节。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1787586243000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-10",
+      "title": "nvidia的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 48,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "Stock Market Today: Dow Up As Trump Says This On Canada; Tech Hit With Micron, Nvidia Drops (Live Coverage)",
+      "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1787582616000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-11",
+      "title": "gold异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 55（温热）；14 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 55,
+      "angle": "供需格局与价格弹性",
+      "keyword": "gold",
+      "newsTitle": "Gold and Bitcoin Surge on Treasury Bond Market Fight. Scarce Asset Owners Are This Market’s Big Winners",
+      "newsUrl": "https://finance.yahoo.com/markets/commodities/articles/gold-bitcoin-surge-treasury-bond-154835198.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1787586515000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-12",
+      "title": "从比特币聊起：普通投资者能学到什么",
+      "reason": "热度 55（温热）；25 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 55,
+      "angle": "机构化进程与链上数据",
+      "keyword": "比特币",
+      "newsTitle": "比特币价格自5月以来首次触及8万美元",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1787585901000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-13",
+      "title": "从tariff聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；18 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "tariff",
+      "newsTitle": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+      "newsUrl": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "source": "CNBC",
+      "publishedAt": 1787586313000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    },
+    {
+      "id": "2026-08-25-14",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 49（温热）；11 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "美豆油日内大跌4.00%，现报66.71美分/磅。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1787586709000,
+      "firstSeenAt": "2026-08-24T16:02:40.032Z",
+      "lastSeenAt": "2026-08-24T16:02:40.032Z"
+    }
+  ]
+}
