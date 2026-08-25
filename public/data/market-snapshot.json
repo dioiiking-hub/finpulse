@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-25T15:40:59+08:00",
+ "asOf": "2026-08-25T16:37:55+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -90,8 +90,8 @@
    "source": "Yahoo Finance"
   },
   "hsi": {
-   "price": 25503.7695,
-   "changePct": -0.0531,
+   "price": 25511.0996,
+   "changePct": -0.0244,
    "spark": [
     24681.1,
     25008.6,
@@ -122,14 +122,14 @@
     25698.49,
     26009.46,
     25517.33,
-    25503.77
+    25511.1
    ],
    "asOf": "2026-08-25",
    "source": "Yahoo Finance"
   },
   "hstech": {
-   "price": 4.5,
-   "changePct": -3.6403,
+   "price": 4.498,
+   "changePct": -3.6831,
    "spark": [
     4.6,
     4.65,
@@ -281,8 +281,8 @@
    "source": "Yahoo Finance"
   },
   "vix": {
-   "price": 15.75,
-   "changePct": -0.6309,
+   "price": 15.79,
+   "changePct": -0.3786,
    "spark": [
     15.67,
     16.73,
@@ -313,14 +313,14 @@
     16.01,
     15.13,
     15.85,
-    15.75
+    15.79
    ],
    "asOf": "2026-08-25",
    "source": "Yahoo Finance"
   },
   "gold": {
-   "price": 4695.6001,
-   "changePct": 1.1808,
+   "price": 4691.8999,
+   "changePct": 1.1011,
    "spark": [
     4044.0,
     3985.6,
@@ -351,14 +351,14 @@
     4516.3,
     4624.1,
     4640.8,
-    4695.6
+    4691.9
    ],
    "asOf": "2026-08-25",
    "source": "Yahoo Finance"
   },
   "wti": {
-   "price": 84.49,
-   "changePct": -0.6117,
+   "price": 83.61,
+   "changePct": -1.6469,
    "spark": [
     79.6,
     78.95,
@@ -389,13 +389,13 @@
     87.83,
     87.06,
     85.01,
-    84.49
+    83.61
    ],
    "asOf": "2026-08-25",
    "source": "Yahoo Finance"
   },
   "usdcnh": {
-   "price": 6.7229,
+   "price": 6.7225,
    "changePct": 0.0,
    "spark": [
     6.72
@@ -404,8 +404,8 @@
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 80587.3281,
-   "changePct": 2.0552,
+   "price": 80108.6562,
+   "changePct": 1.449,
    "spark": [
     63724.9,
     63871.36,
@@ -436,7 +436,7 @@
     77083.41,
     77755.27,
     78964.48,
-    80587.33
+    80108.66
    ],
    "asOf": "2026-08-25",
    "source": "Yahoo Finance"
