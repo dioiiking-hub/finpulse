@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-26T15:42:20+08:00",
+ "asOf": "2026-08-26T16:38:53+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -90,8 +90,8 @@
    "source": "Yahoo Finance"
   },
   "hsi": {
-   "price": 25673.3809,
-   "changePct": 0.6361,
+   "price": 25652.9707,
+   "changePct": 0.5561,
    "spark": [
     25008.6,
     24562.24,
@@ -122,14 +122,14 @@
     26009.46,
     25517.33,
     25511.1,
-    25673.38
+    25652.97
    ],
    "asOf": "2026-08-26",
    "source": "Yahoo Finance"
   },
   "hstech": {
-   "price": 4.546,
-   "changePct": 1.1121,
+   "price": 4.532,
+   "changePct": 0.8007,
    "spark": [
     4.65,
     4.75,
@@ -160,7 +160,7 @@
     4.61,
     4.67,
     4.5,
-    4.55
+    4.53
    ],
    "asOf": "2026-08-26",
    "source": "Yahoo Finance",
@@ -281,8 +281,8 @@
    "source": "Yahoo Finance"
   },
   "vix": {
-   "price": 15.7,
-   "changePct": 1.6181,
+   "price": 15.71,
+   "changePct": 1.6828,
    "spark": [
     16.73,
     18.77,
@@ -313,14 +313,14 @@
     15.13,
     15.85,
     15.45,
-    15.7
+    15.71
    ],
    "asOf": "2026-08-26",
    "source": "Yahoo Finance"
   },
   "gold": {
-   "price": 4690.0,
-   "changePct": 1.119,
+   "price": 4684.0,
+   "changePct": 0.9896,
    "spark": [
     3985.6,
     4012.7,
@@ -351,14 +351,14 @@
     4624.1,
     4640.8,
     4638.1,
-    4690.0
+    4684.0
    ],
    "asOf": "2026-08-26",
    "source": "Yahoo Finance"
   },
   "wti": {
-   "price": 80.24,
-   "changePct": -2.5741,
+   "price": 80.32,
+   "changePct": -2.4769,
    "spark": [
     78.95,
     82.49,
@@ -389,13 +389,13 @@
     87.06,
     85.01,
     82.36,
-    80.24
+    80.32
    ],
    "asOf": "2026-08-26",
    "source": "Yahoo Finance"
   },
   "usdcnh": {
-   "price": 6.719,
+   "price": 6.7199,
    "changePct": 0.0,
    "spark": [
     6.72
@@ -404,8 +404,8 @@
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 78972.4297,
-   "changePct": 0.5186,
+   "price": 78904.6094,
+   "changePct": 0.4323,
    "spark": [
     63871.36,
     63908.17,
@@ -436,7 +436,7 @@
     77755.27,
     78964.48,
     78564.98,
-    78972.43
+    78904.61
    ],
    "asOf": "2026-08-26",
    "source": "Yahoo Finance"
