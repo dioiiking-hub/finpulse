@@ -1,8 +1,9 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-28T00:28:37.715Z",
+  "generatedAt": "2026-08-28T13:04:00.429Z",
   "snapshots": [
-    "08:28"
+    "08:28",
+    "21:04"
   ],
   "topics": [
     {
@@ -41,7 +42,7 @@
       ],
       "grade": "A",
       "score": 75,
-      "heat": 74,
+      "heat": 75,
       "angle": "技术突破 → 产业链受益顺序",
       "keyword": "ai",
       "newsTitle": "科技股调整并非单一美债驱动 AI远期定价成核心博弈主线",
@@ -49,7 +50,7 @@
       "source": "新浪美股",
       "publishedAt": 1787875914000,
       "firstSeenAt": "2026-08-28T00:28:37.715Z",
-      "lastSeenAt": "2026-08-28T00:28:37.715Z"
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
     },
     {
       "id": "2026-08-28-03",
@@ -76,6 +77,29 @@
     },
     {
       "id": "2026-08-28-04",
+      "title": "从财报看真相：s&p的含金量到底有多高",
+      "reason": "热度 71（热门）；3 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 短视频快评，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "微博快讯",
+        "播客"
+      ],
+      "grade": "A",
+      "score": 68,
+      "heat": 71,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "S&P 500 futures are little changed as investors count down to Warsh's Jackson Hole address: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1787922082000,
+      "firstSeenAt": "2026-08-28T00:28:37.715Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-05",
       "title": "深聊丨加息之后，钱会往哪去？",
       "reason": "热度 59（温热）；38 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -97,7 +121,7 @@
       "lastSeenAt": "2026-08-28T00:28:37.715Z"
     },
     {
-      "id": "2026-08-28-05",
+      "id": "2026-08-28-06",
       "title": "芯片的另一面：那些被忽略的长期变量",
       "reason": "热度 56（温热）；13 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
       "category": "科技AI",
@@ -119,7 +143,30 @@
       "lastSeenAt": "2026-08-28T00:28:37.715Z"
     },
     {
-      "id": "2026-08-28-06",
+      "id": "2026-08-28-07",
+      "title": "earnings的另一面：那些被忽略的长期变量",
+      "reason": "热度 64（热门）；3 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 64,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Micron&#x2019;s Chinese rival just reported its first earnings as a public company &#x2014; and sales are booming",
+      "newsUrl": "https://www.marketwatch.com/story/microns-chinese-rival-just-reported-its-first-earnings-as-a-public-company-and-sales-are-booming-182c6a42?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1787922060000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-08",
       "title": "原油之后，哪些资产会被重新定价？",
       "reason": "热度 63（热门）；8 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
       "category": "大宗商品",
@@ -142,7 +189,51 @@
       "lastSeenAt": "2026-08-28T00:28:37.715Z"
     },
     {
-      "id": "2026-08-28-07",
+      "id": "2026-08-28-09",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 54（温热）；20 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 54,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "The Tech Download: BlackBerry lost the phone war. Now it's betting on cars and robots",
+      "newsUrl": "https://www.cnbc.com/2026/08/28/blackberry-cars-robots-tech-download.html",
+      "source": "CNBC",
+      "publishedAt": 1787921066000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-10",
+      "title": "人民币的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；6 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "融创中国：上半年拥有人应占亏损约为人民币125.4亿元，同比减少2.1%",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1787921878000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-11",
       "title": "从国债聊起：普通投资者能学到什么",
       "reason": "热度 51（温热）；26 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -164,7 +255,7 @@
       "lastSeenAt": "2026-08-28T00:28:37.715Z"
     },
     {
-      "id": "2026-08-28-08",
+      "id": "2026-08-28-12",
       "title": "深聊丨创业板之后，钱会往哪去？",
       "reason": "热度 49（温热）；18 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「A股港股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
       "category": "A股港股",
@@ -186,29 +277,51 @@
       "lastSeenAt": "2026-08-28T00:28:37.715Z"
     },
     {
-      "id": "2026-08-28-09",
-      "title": "深聊丨s&p之后，钱会往哪去？",
-      "reason": "热度 51（温热）；18 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
-      "category": "美股",
-      "region": "全球",
+      "id": "2026-08-28-13",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 49（温热）；20 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
       "platforms": [
         "播客",
-        "短视频快评"
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "How a plan to fix a $326 billion hole on bank balance sheets could underpin a Warsh and Bessent Treasury twist",
+      "newsUrl": "https://www.marketwatch.com/story/how-bank-of-america-and-three-other-lenders-could-win-big-from-scott-bessents-and-kevin-warshs-bond-market-mechanations-4e56b581?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1787921040000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-14",
+      "title": "tech的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；1 小时内事件，仍在发酵窗口；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
       ],
       "grade": "B",
       "score": 51,
-      "heat": 51,
-      "angle": "财报/估值与市场情绪",
-      "keyword": "s&p",
-      "newsTitle": "澳大利亚S&P/ASX200指数8月28日（周五）开盘上涨19.80点，涨幅0.22%，报9058.00点。",
-      "newsUrl": "",
-      "source": "金十数据",
-      "publishedAt": 1787875865000,
-      "firstSeenAt": "2026-08-28T00:28:37.715Z",
-      "lastSeenAt": "2026-08-28T00:28:37.715Z"
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "This buy now pay later firm has a modest short-term growth outlook. Bank of America says shares could surge anyway",
+      "newsUrl": "https://www.cnbc.com/2026/08/28/affirm-issued-modest-guidance-bank-of-america-says-buy-it-anyway.html",
+      "source": "CNBC",
+      "publishedAt": 1787918544000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
     },
     {
-      "id": "2026-08-28-10",
+      "id": "2026-08-28-15",
       "title": "地缘的另一面：那些被忽略的长期变量",
       "reason": "热度 50（温热）；4 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
       "category": "监管地缘",
@@ -230,7 +343,7 @@
       "lastSeenAt": "2026-08-28T00:28:37.715Z"
     },
     {
-      "id": "2026-08-28-11",
+      "id": "2026-08-28-16",
       "title": "深聊丨宏观政策之后，钱会往哪去？",
       "reason": "热度 50（温热）；4 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -249,10 +362,10 @@
       "source": "金十数据",
       "publishedAt": 1787876670000,
       "firstSeenAt": "2026-08-28T00:28:37.715Z",
-      "lastSeenAt": "2026-08-28T00:28:37.715Z"
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
     },
     {
-      "id": "2026-08-28-12",
+      "id": "2026-08-28-17",
       "title": "从利率聊起：普通投资者能学到什么",
       "reason": "热度 50（温热）；22 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -274,7 +387,7 @@
       "lastSeenAt": "2026-08-28T00:28:37.715Z"
     },
     {
-      "id": "2026-08-28-13",
+      "id": "2026-08-28-18",
       "title": "深聊丨美元之后，钱会往哪去？",
       "reason": "热度 45（温热）；21 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -285,7 +398,7 @@
       ],
       "grade": "B",
       "score": 50,
-      "heat": 45,
+      "heat": 49,
       "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
       "keyword": "美元",
       "newsTitle": "三星生物制剂拟通过配股募资3万亿韩元",
@@ -293,10 +406,32 @@
       "source": "新浪滚动财经",
       "publishedAt": 1787875656000,
       "firstSeenAt": "2026-08-28T00:28:37.715Z",
-      "lastSeenAt": "2026-08-28T00:28:37.715Z"
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
     },
     {
-      "id": "2026-08-28-14",
+      "id": "2026-08-28-19",
+      "title": "深聊丨涨停之后，钱会往哪去？",
+      "reason": "热度 50（温热）；3 分钟内新鲜事件，时效性强；属「A股港股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
+      "category": "A股港股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "资金面 + 产业主线",
+      "keyword": "涨停",
+      "newsTitle": "低硫燃料油（LU）主力合约涨幅缩窄至1.5%，此前最高触及5472元/吨，一度逼近涨停。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1787922070000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-20",
       "title": "一张图看懂油价这波行情的驱动因子",
       "reason": "热度 48（温热）；21 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合国内盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
       "category": "大宗商品",
@@ -318,7 +453,29 @@
       "lastSeenAt": "2026-08-28T00:28:37.715Z"
     },
     {
-      "id": "2026-08-28-15",
+      "id": "2026-08-28-21",
+      "title": "非农的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；11 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "非农",
+      "newsTitle": "杰克逊霍尔前夕黄金4600拉锯，筹码均匀分布、多空反复换手；除沃什讲话外，非农修正指向的劳动力市场方向同样关键。",
+      "newsUrl": "https://xnews.jin10.com/details/228692",
+      "source": "金十数据",
+      "publishedAt": 1787921587000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-22",
       "title": "收益率的另一面：那些被忽略的长期变量",
       "reason": "热度 42（温热）；3 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -338,6 +495,93 @@
       "publishedAt": 1787876736000,
       "firstSeenAt": "2026-08-28T00:28:37.715Z",
       "lastSeenAt": "2026-08-28T00:28:37.715Z"
+    },
+    {
+      "id": "2026-08-28-23",
+      "title": "从a股聊起：普通投资者能学到什么",
+      "reason": "热度 46（温热）；42 分钟内新鲜事件，时效性强；属「A股港股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
+      "category": "A股港股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "资金面 + 产业主线",
+      "keyword": "a股",
+      "newsTitle": "大摩闭门会观点：短期港股流动性偏弱，仓位应更多向A股转回，九月中下旬港股可能再次走强，KOSPI指数到明年年中还有约30%上涨空间",
+      "newsUrl": "https://wallstreetcn.com/articles/3780579",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1787919742000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-24",
+      "title": "黄金之后，哪些资产会被重新定价？",
+      "reason": "热度 45（温热）；25 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合国内盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "中国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "山东黄金上半年营收同比下降5.6%，净利润同比增长26%，拟每10股派1元 | 财报见闻",
+      "newsUrl": "https://wallstreetcn.com/articles/3780582",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1787920756000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-25",
+      "title": "深聊丨crypto之后，钱会往哪去？",
+      "reason": "热度 45（温热）；37 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "机构化进程与链上数据",
+      "keyword": "crypto",
+      "newsTitle": "BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds",
+      "newsUrl": "https://www.cnbc.com/2026/08/27/bitgo-to-acquire-nydigs-institutional-trading-business-as-crypto-trading-rebounds.html",
+      "source": "CNBC",
+      "publishedAt": 1787920043000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
+    },
+    {
+      "id": "2026-08-28-26",
+      "title": "从算力聊起：普通投资者能学到什么",
+      "reason": "热度 39（平静）；19 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 39,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "算力",
+      "newsTitle": "莲花控股：8月算力服务器采购合同金额合计8.96亿元",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1787921132000,
+      "firstSeenAt": "2026-08-28T13:04:00.429Z",
+      "lastSeenAt": "2026-08-28T13:04:00.429Z"
     }
   ]
 }
