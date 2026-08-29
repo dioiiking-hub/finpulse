@@ -1,0 +1,163 @@
+{
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-29T18:43:45.199Z",
+  "snapshots": [
+    "02:43"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-30-01",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；23 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 48,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Mastercard CEO: AI Shopping Agents, Machine-to-Machine Payments, and the New Infrastructure of Commerce",
+      "newsUrl": "https://finance.yahoo.com/technology/ai/articles/mastercard-ceo-ai-shopping-agents-182036358.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1788027636000,
+      "firstSeenAt": "2026-08-29T18:43:45.199Z",
+      "lastSeenAt": "2026-08-29T18:43:45.199Z"
+    },
+    {
+      "id": "2026-08-30-02",
+      "title": "深聊丨微软之后，钱会往哪去？",
+      "reason": "热度 54（温热）；24 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 54,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "微软",
+      "newsTitle": "巴克莱：AI模型公司每赚100美元 约35至40美元流向三大云巨头",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1788027587000,
+      "firstSeenAt": "2026-08-29T18:43:45.199Z",
+      "lastSeenAt": "2026-08-29T18:43:45.199Z"
+    },
+    {
+      "id": "2026-08-30-03",
+      "title": "通胀的另一面：那些被忽略的长期变量",
+      "reason": "热度 34（平静）；5 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 34,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "美伊冲突半年造成多重影响，IMF预计#2026年全球通胀率将升至4.7%",
+      "newsUrl": "https://wallstreetcn.com/livenews/3157304",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1788011204000,
+      "firstSeenAt": "2026-08-29T18:43:45.199Z",
+      "lastSeenAt": "2026-08-29T18:43:45.199Z"
+    },
+    {
+      "id": "2026-08-30-04",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 37（平静）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "伊朗革命卫队官员：美国发动战争并非因为伊朗铀浓缩",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788024501000,
+      "firstSeenAt": "2026-08-29T18:43:45.199Z",
+      "lastSeenAt": "2026-08-29T18:43:45.199Z"
+    },
+    {
+      "id": "2026-08-30-05",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 29（平静）；4 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 29,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "72% of homebuyers have paused their search waiting for lower mortgage rates — and 41% already regret it",
+      "newsUrl": "https://finance.yahoo.com/real-estate/articles/72-homebuyers-paused-search-waiting-150000785.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1788015600000,
+      "firstSeenAt": "2026-08-29T18:43:45.199Z",
+      "lastSeenAt": "2026-08-29T18:43:45.199Z"
+    },
+    {
+      "id": "2026-08-30-06",
+      "title": "深聊丨央行之后，钱会往哪去？",
+      "reason": "热度 36（平静）；6 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "日本外汇干预规模创历史新高",
+      "newsUrl": "https://wallstreetcn.com/livenews/3157297",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1788006143000,
+      "firstSeenAt": "2026-08-29T18:43:45.199Z",
+      "lastSeenAt": "2026-08-29T18:43:45.199Z"
+    },
+    {
+      "id": "2026-08-30-07",
+      "title": "oil异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 27（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 37,
+      "heat": 27,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "newsUrl": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "publishedAt": 1788020156000,
+      "firstSeenAt": "2026-08-29T18:43:45.199Z",
+      "lastSeenAt": "2026-08-29T18:43:45.199Z"
+    }
+  ]
+}
