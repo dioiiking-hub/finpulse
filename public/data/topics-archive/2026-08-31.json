@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-30T18:40:54.440Z",
+  "snapshots": [
+    "02:40"
+  ],
+  "topics": [
+    {
+      "id": "2026-08-31-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 51（温热）；35 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 51,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
+      "newsUrl": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
+      "source": "CNBC",
+      "publishedAt": 1788113201000,
+      "firstSeenAt": "2026-08-30T18:40:54.440Z",
+      "lastSeenAt": "2026-08-30T18:40:54.440Z"
+    },
+    {
+      "id": "2026-08-31-02",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；49 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "德国总理默茨：德国不可能通过补贴来抵消每桶100美元的油价。但我们可以做的，例如，与我们的欧洲伙伴一道，尽一切努力帮助结束伊朗战争，并确保霍尔木兹海峡重...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788112323000,
+      "firstSeenAt": "2026-08-30T18:40:54.440Z",
+      "lastSeenAt": "2026-08-30T18:40:54.440Z"
+    },
+    {
+      "id": "2026-08-31-03",
+      "title": "深聊丨关税之后，钱会往哪去？",
+      "reason": "热度 47（温热）；14 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "关税",
+      "newsTitle": "美国总统特朗普：所有与美国有业务往来的加拿大公司，立即迁往美国。其中许多公司多年前就因为美国领导层的愚蠢政策而迁出加拿大。等你们搬回来，关税全免！",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788114415000,
+      "firstSeenAt": "2026-08-30T18:40:54.440Z",
+      "lastSeenAt": "2026-08-30T18:40:54.440Z"
+    },
+    {
+      "id": "2026-08-31-04",
+      "title": "etf的另一面：那些被忽略的长期变量",
+      "reason": "热度 42（温热）；26 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "机构化进程与链上数据",
+      "keyword": "etf",
+      "newsTitle": "3 Simple ETFs Worth Buying and Holding for Decades",
+      "newsUrl": "https://finance.yahoo.com/markets/stocks/articles/3-simple-etfs-worth-buying-181500129.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1788113700000,
+      "firstSeenAt": "2026-08-30T18:40:54.440Z",
+      "lastSeenAt": "2026-08-30T18:40:54.440Z"
+    },
+    {
+      "id": "2026-08-31-05",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 34（平静）；19 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 34,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "特朗普声称不需要加拿大任何产品 早应该遏制加拿大占便宜行为",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788114113000,
+      "firstSeenAt": "2026-08-30T18:40:54.440Z",
+      "lastSeenAt": "2026-08-30T18:40:54.440Z"
+    },
+    {
+      "id": "2026-08-31-06",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 34（平静）；5 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 34,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "“新美联储通讯社”：沃什目前已经陷入两难的局面，是否加息几乎完全押注在通胀数据上",
+      "newsUrl": "https://wallstreetcn.com/livenews/3157395",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1788097793000,
+      "firstSeenAt": "2026-08-30T18:40:54.440Z",
+      "lastSeenAt": "2026-08-30T18:40:54.440Z"
+    },
+    {
+      "id": "2026-08-31-07",
+      "title": "从meta聊起：普通投资者能学到什么",
+      "reason": "热度 28（平静）；3 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 35,
+      "heat": 28,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "He beat Big Tobacco. Will the same playbook work against Meta and social media?",
+      "newsUrl": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
+      "source": "CNBC",
+      "publishedAt": 1788104890000,
+      "firstSeenAt": "2026-08-30T18:40:54.440Z",
+      "lastSeenAt": "2026-08-30T18:40:54.440Z"
+    }
+  ]
+}
