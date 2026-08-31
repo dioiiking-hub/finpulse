@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-08-31T17:40:14.422Z",
+  "snapshots": [
+    "01:40"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-01-01",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 76（热门）；24 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 76,
+      "heat": 76,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储在固定利率逆回购操作中总计接纳了4个对手方的67.26亿美元。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788196562000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-02",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 67（热门）；16 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 68,
+      "heat": 67,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "市场消息：投资机构Dragoneer计划利用所持OpenAI和SpaceX等资产，为一只旨在继续长期持有现有资产的新基金募集20亿美元。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788197053000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-03",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；3 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "市场消息：Nscale为德克萨斯州沃德县和麦迪逊县的AI部署项目完成了约30亿美元的融资。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788197852000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-04",
+      "title": "深聊丨crypto之后，钱会往哪去？",
+      "reason": "热度 55（温热）；40 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 55,
+      "angle": "机构化进程与链上数据",
+      "keyword": "crypto",
+      "newsTitle": "Crypto technicals are improving. Katie Stockton is keeping an eye on these levels",
+      "newsUrl": "https://www.cnbc.com/2026/08/31/crypto-technicals-are-improving-katie-stockton-is-keeping-an-eye-on-these-levels.html",
+      "source": "CNBC",
+      "publishedAt": 1788195601000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-05",
+      "title": "oil之后，哪些资产会被重新定价？",
+      "reason": "热度 50（温热）；37 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Trump to meet with U.S. refiners as White House pushes to lower gas prices",
+      "newsUrl": "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html",
+      "source": "CNBC",
+      "publishedAt": 1788195783000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-06",
+      "title": "从国债聊起：普通投资者能学到什么",
+      "reason": "热度 49（温热）；47 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "贝森特回应前导师Druckenmiller的批评 称美债市场在全球最具韧性",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-09-01/doc-iniqfuyn4920753.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1788195203000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-07",
+      "title": "fed的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；38 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Bessent now says debt-reduction plan could be months away. It will face hurdles when it arrives.",
+      "newsUrl": "https://www.marketwatch.com/story/bessent-now-says-debt-reduction-plan-could-be-months-away-it-will-face-hurdles-when-it-arrives-d87b6f7a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788195720000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-08",
+      "title": "深聊丨eth之后，钱会往哪去？",
+      "reason": "热度 52（温热）；4 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 52,
+      "angle": "机构化进程与链上数据",
+      "keyword": "eth",
+      "newsTitle": "Kalshi permanently bans former GOP Rep. George Santos over illegal trading",
+      "newsUrl": "https://www.cnbc.com/2026/08/31/kalshi-perman.html",
+      "source": "CNBC",
+      "publishedAt": 1788197780000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-09",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 52（温热）；32 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合国内盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "中国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 52,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "欧洲股市在清淡交投中下跌 中东紧张局势推高原油价格",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-09-01/doc-iniqfuym8675680.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1788196098000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-10",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；47 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 46,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "This near-7% rule looks better for retirees than the 4% rule",
+      "newsUrl": "https://www.marketwatch.com/story/this-near-7-rule-looks-better-for-retirees-than-the-4-rule-43b03d2d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788195180000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-11",
+      "title": "从tech聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；24 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "Cramer: Why Tim Cook deserves more credit for his accomplishments as Apple CEO",
+      "newsUrl": "https://www.cnbc.com/2026/08/31/cramer-why-tim-cook-deserves-more-credit-for-his-accomplishments-as-apple-ceo.html",
+      "source": "CNBC",
+      "publishedAt": 1788196576000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-12",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 47（温热）；53 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Stock Market Today: Dow Slides, Oil Stock Tests Entry As Trump Says This; PG&E Plunges (Live Coverage)",
+      "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1788194826000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-13",
+      "title": "深聊丨earnings之后，钱会往哪去？",
+      "reason": "热度 46（温热）；22 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Broadcom reports earnings this week. Mike Khouw says this trade could be a winner",
+      "newsUrl": "https://www.cnbc.com/2026/08/31/broadcom-reports-earnings-this-week-mike-khouw-says-this-trade-could-be-a-winner.html",
+      "source": "CNBC",
+      "publishedAt": 1788196695000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    },
+    {
+      "id": "2026-09-01-14",
+      "title": "一张图看懂黄金这波行情的驱动因子",
+      "reason": "热度 46（温热）；30 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "新兴市场股票有望录得2004年以来最佳8月表现",
+      "newsUrl": "https://wallstreetcn.com/livenews/3158003",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1788196256000,
+      "firstSeenAt": "2026-08-31T17:40:14.422Z",
+      "lastSeenAt": "2026-08-31T17:40:14.422Z"
+    }
+  ]
+}
