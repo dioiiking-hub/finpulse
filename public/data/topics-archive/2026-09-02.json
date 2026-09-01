@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-01T18:40:51.429Z",
+  "snapshots": [
+    "02:40"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-02-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 93（爆发）；12 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "直播话题"
+      ],
+      "grade": "S",
+      "score": 88,
+      "heat": 93,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "美、布两油短线拉升，WTI原油突破89美元/桶，日内涨4.22%。布伦特原油向上触及94美元/桶，日内涨4.07%。消息面上，伊朗已向敌方阵地发射了导弹和无人机。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788287341000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-02",
+      "title": "深聊丨央行之后，钱会往哪去？",
+      "reason": "热度 63（热门）；20 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 63,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "贝森特会见日央行行长释放强烈信号：美方支持日元走强，强调避免汇率过度波动",
+      "newsUrl": "https://wallstreetcn.com/articles/3780850",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1788286839000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-03",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 56（温热）；11 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 56,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "人工智能投资与全球经济增长能否同步扩散？应广泛配置全球股票+有针对性且多元化配置AI资产",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788287427000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-04",
+      "title": "黄金之后，哪些资产会被重新定价？",
+      "reason": "热度 64（热门）；11 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 64,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "上海黄金交易所黄金T+D 9月1日（周二）晚盘收盘下跌2.14%报938.5元/克； 上海黄金交易所白银T+D 9月1日（周二）晚盘收盘下跌3.24%报15711.0元/千克。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788287430000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-05",
+      "title": "深聊丨法案之后，钱会往哪去？",
+      "reason": "热度 53（温热）；16 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "法案",
+      "newsTitle": "美国国会通过临时拨款法案避免政府停摆",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788287101000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-06",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 56（温热）；10 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国原油期货结算价为每桶90.22美元，上涨4.46美元，涨幅5.20%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788287478000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-07",
+      "title": "天然气之后，哪些资产会被重新定价？",
+      "reason": "热度 50（温热）；9 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "据伊朗媒体Fars News：阿萨卢耶传出爆炸声，该地是波斯湾沿岸重要天然气枢纽。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788287524000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-08",
+      "title": "深聊丨meta之后，钱会往哪去？",
+      "reason": "热度 49（温热）；15 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 49,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Meta Platforms CEO扎克伯格：各国不应限制开放权重AI模型。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788287192000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-09",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；20 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Manufacturers are getting frustrated: &#x2018;The economy is annoying&#x2019;",
+      "newsUrl": "https://www.marketwatch.com/story/manufacturers-are-getting-frustrated-the-economy-is-annoying-a8edf602?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788286860000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-10",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 49（温热）；27 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
+      "newsUrl": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+      "source": "CNBC",
+      "publishedAt": 1788286441000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-11",
+      "title": "深聊丨国债之后，钱会往哪去？",
+      "reason": "热度 49（温热）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "英债收益率升至数十年高位 致使政府财政缓冲空间减半",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq3319955.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1788282404000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-12",
+      "title": "inflation的另一面：那些被忽略的长期变量",
+      "reason": "热度 43（温热）；17 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 43,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "US launches further strikes on Iran as conflict flares up",
+      "newsUrl": "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1",
+      "source": "FT Markets",
+      "publishedAt": 1788287020000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-13",
+      "title": "深聊丨eth之后，钱会往哪去？",
+      "reason": "热度 45（温热）；24 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "机构化进程与链上数据",
+      "keyword": "eth",
+      "newsTitle": "Prediction market traders think job creation rebounded in August",
+      "newsUrl": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
+      "source": "CNBC",
+      "publishedAt": 1788286604000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    },
+    {
+      "id": "2026-09-02-14",
+      "title": "oil异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 45（温热）；1 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Global oil prices surge above $94 a barrel after the U.S. strikes Iranian targets",
+      "newsUrl": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788282720000,
+      "firstSeenAt": "2026-09-01T18:40:51.429Z",
+      "lastSeenAt": "2026-09-01T18:40:51.429Z"
+    }
+  ]
+}
