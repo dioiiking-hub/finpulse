@@ -1,0 +1,186 @@
+{
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-05T17:25:46.748Z",
+  "snapshots": [
+    "01:25"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-06-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 62（热门）；25 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 66,
+      "heat": 62,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "There&#x2019;s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+      "newsUrl": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788627660000,
+      "firstSeenAt": "2026-09-05T17:25:46.748Z",
+      "lastSeenAt": "2026-09-05T17:25:46.748Z"
+    },
+    {
+      "id": "2026-09-06-02",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；26 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "&#x2018;I currently give him $1,000 a month&#x2019;: My grandson has severe mental illness. How do I protect him after I&#x2019;m gone?",
+      "newsUrl": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788627600000,
+      "firstSeenAt": "2026-09-05T17:25:46.748Z",
+      "lastSeenAt": "2026-09-05T17:25:46.748Z"
+    },
+    {
+      "id": "2026-09-06-03",
+      "title": "从inflation聊起：普通投资者能学到什么",
+      "reason": "热度 41（温热）；40 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 41,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+      "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1788626790000,
+      "firstSeenAt": "2026-09-05T17:25:46.748Z",
+      "lastSeenAt": "2026-09-05T17:25:46.748Z"
+    },
+    {
+      "id": "2026-09-06-04",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 37（平静）；4 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "据半岛电视台：安全消息人士称，以色列军队将撤回到黎巴嫩南部的黄线后方，并在距离以色列边境3到4公里的地方重新部署。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788628933000,
+      "firstSeenAt": "2026-09-05T17:25:46.748Z",
+      "lastSeenAt": "2026-09-05T17:25:46.748Z"
+    },
+    {
+      "id": "2026-09-06-05",
+      "title": "oil异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 32（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 32,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
+      "newsUrl": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+      "source": "CNBC",
+      "publishedAt": 1788620403000,
+      "firstSeenAt": "2026-09-05T17:25:46.748Z",
+      "lastSeenAt": "2026-09-05T17:25:46.748Z"
+    },
+    {
+      "id": "2026-09-06-06",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 31（平静）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 31,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Here&#x2019;s how much Americans rely on Social Security &#x2014; at all income levels",
+      "newsUrl": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788618780000,
+      "firstSeenAt": "2026-09-05T17:25:46.748Z",
+      "lastSeenAt": "2026-09-05T17:25:46.748Z"
+    },
+    {
+      "id": "2026-09-06-07",
+      "title": "s&p的另一面：那些被忽略的长期变量",
+      "reason": "热度 34（平静）；1 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 34,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "How to invest in a booming stock market that&#x2019;s way cheaper than the S&P 500",
+      "newsUrl": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788624720000,
+      "firstSeenAt": "2026-09-05T17:25:46.748Z",
+      "lastSeenAt": "2026-09-05T17:25:46.748Z"
+    },
+    {
+      "id": "2026-09-06-08",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 34（平静）；5 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 34,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "下周美国CPI会触发9月加息吗？美银、花旗给出两个相反剧本",
+      "newsUrl": "https://wallstreetcn.com/articles/3781157",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1788611979000,
+      "firstSeenAt": "2026-09-05T17:25:46.748Z",
+      "lastSeenAt": "2026-09-05T17:25:46.748Z"
+    }
+  ]
+}
