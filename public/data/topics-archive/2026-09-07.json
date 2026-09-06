@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-06T17:37:46.239Z",
+  "snapshots": [
+    "01:37"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-07-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 42（温热）；1 小时内事件，仍在发酵窗口；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 42,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Global dining leader closing 261 restaurants, steakhouse chain",
+      "newsUrl": "https://finance.yahoo.com/small-business/articles/global-dining-leader-closing-261-163500654.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1788712500000,
+      "firstSeenAt": "2026-09-06T17:37:46.239Z",
+      "lastSeenAt": "2026-09-06T17:37:46.239Z"
+    },
+    {
+      "id": "2026-09-07-02",
+      "title": "一张图看懂天然气这波行情的驱动因子",
+      "reason": "热度 43（温热）；10 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 43,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "美国特使结束俄乌斡旋会谈 泽连斯基称准备迎接又一个艰难冬天",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxpwr0859010.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1788715666000,
+      "firstSeenAt": "2026-09-06T17:37:46.239Z",
+      "lastSeenAt": "2026-09-06T17:37:46.239Z"
+    },
+    {
+      "id": "2026-09-07-03",
+      "title": "美联储的另一面：那些被忽略的长期变量",
+      "reason": "热度 43（温热）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 43,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "特朗普对沃什施压，美联储加息在即",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchv1072002.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1788703988000,
+      "firstSeenAt": "2026-09-06T17:37:46.239Z",
+      "lastSeenAt": "2026-09-06T17:37:46.239Z"
+    },
+    {
+      "id": "2026-09-07-04",
+      "title": "深聊丨制裁之后，钱会往哪去？",
+      "reason": "热度 44（温热）；41 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 44,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "伊朗警告将对美国袭击作出“更快、更猛烈、更痛苦”回应",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788713816000,
+      "firstSeenAt": "2026-09-06T17:37:46.239Z",
+      "lastSeenAt": "2026-09-06T17:37:46.239Z"
+    },
+    {
+      "id": "2026-09-07-05",
+      "title": "一张图看懂opec这波行情的驱动因子",
+      "reason": "热度 35（平静）；5 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 35,
+      "angle": "供需格局与价格弹性",
+      "keyword": "opec",
+      "newsTitle": "OPEC+ keeps oil output policy unchanged for October",
+      "newsUrl": "https://www.cnbc.com/2026/09/06/opec-oil-output-october.html",
+      "source": "CNBC",
+      "publishedAt": 1788699842000,
+      "firstSeenAt": "2026-09-06T17:37:46.239Z",
+      "lastSeenAt": "2026-09-06T17:37:46.239Z"
+    },
+    {
+      "id": "2026-09-07-06",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 37（平静）；4 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "特朗普女婿库什纳：巴勒斯坦已经成立了一个新的技术官僚政府，它既不是巴勒斯坦权力机构，也不是哈马斯。如果武装势力存在，该政府就无法进驻。我们逐步意识到加...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788716043000,
+      "firstSeenAt": "2026-09-06T17:37:46.239Z",
+      "lastSeenAt": "2026-09-06T17:37:46.239Z"
+    },
+    {
+      "id": "2026-09-07-07",
+      "title": "深聊丨sec之后，钱会往哪去？",
+      "reason": "热度 36（平静）；2 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+      "newsUrl": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+      "source": "CNBC",
+      "publishedAt": 1788709927000,
+      "firstSeenAt": "2026-09-06T17:37:46.239Z",
+      "lastSeenAt": "2026-09-06T17:37:46.239Z"
+    },
+    {
+      "id": "2026-09-07-08",
+      "title": "深聊丨rate之后，钱会往哪去？",
+      "reason": "热度 35（平静）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher",
+      "newsUrl": "https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1788708600000,
+      "firstSeenAt": "2026-09-06T17:37:46.239Z",
+      "lastSeenAt": "2026-09-06T17:37:46.239Z"
+    }
+  ]
+}
