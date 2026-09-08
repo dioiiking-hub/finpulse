@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-08T18:50:50.983Z",
+  "snapshots": [
+    "02:50"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-09-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 79（热门）；15 分钟内新鲜事件，时效性强；7 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 78,
+      "heat": 79,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "OpenAI：Images 2.5现已向所有ChatGPT、ChatGPT Work和Codex用户开放，支持桌面端、移动端和网页端使用。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788892562000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    },
+    {
+      "id": "2026-09-09-02",
+      "title": "fed的另一面：那些被忽略的长期变量",
+      "reason": "热度 79（热门）；16 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 70,
+      "heat": 79,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Why the Fed's interest rate call could come down to a few hundredths of a percentage point",
+      "newsUrl": "https://www.cnbc.com/2026/09/08/federal-reserves-rate-call-could-hang-on-a-tiny-fraction.html",
+      "source": "CNBC",
+      "publishedAt": 1788892532000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    },
+    {
+      "id": "2026-09-09-03",
+      "title": "从芯片聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；12 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "芯片",
+      "newsTitle": "据Axios网站：Anthropic将退出信息技术工业委员会（ITI），原因是该行业组织支持的相关立法涉及限制外国获取美国芯片，而Anthropic反对该政策方向。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788892727000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    },
+    {
+      "id": "2026-09-09-04",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 59（温热）；20 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 59,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "WTI 10月原油期货长周末归来收涨1.55美元，涨幅超过1.69%，报93.03美元/桶。 中东Abu Dhabi Murban原油期货涨3.07%，报110.05美元/桶。 NYMEX 10月天然气期货收...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3162107",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1788892262000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    },
+    {
+      "id": "2026-09-09-05",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 54（温热）；19 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国原油期货结算价为每桶93.03美元，上涨1.55美元，涨幅1.69%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788892317000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    },
+    {
+      "id": "2026-09-09-06",
+      "title": "深聊丨利率之后，钱会往哪去？",
+      "reason": "热度 53（温热）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "美国财政部拍卖580亿美元三年期国债，得标利率4.474%——创2024年以来新高，投标倍数2.72。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3162097",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1788886953000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    },
+    {
+      "id": "2026-09-09-07",
+      "title": "一张图看懂黄金这波行情的驱动因子",
+      "reason": "热度 58（温热）；19 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 58,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "上海黄金交易所黄金T+D 9月8日（周二）晚盘收盘下跌0.77%报946.83元/克； 上海黄金交易所白银T+D 9月8日（周二）晚盘收盘下跌0.46%报16119.0元/千克。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788892311000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    },
+    {
+      "id": "2026-09-09-08",
+      "title": "从制裁聊起：普通投资者能学到什么",
+      "reason": "热度 46（温热）；30 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 46,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "伊朗外长阿拉格齐：在对伊朗实施了47年制裁之后，美国代表以色列对伊朗发动战争。这场冲突给美国带来了灾难性后果，包括其全球声望受损。在通过制裁和战争均未实...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788891689000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    },
+    {
+      "id": "2026-09-09-09",
+      "title": "深聊丨财政之后，钱会往哪去？",
+      "reason": "热度 47（温热）；33 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "摩根士丹利：财政部将公布回购最高购买规模，实际购买金额往往低于公告上限",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788891492000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    },
+    {
+      "id": "2026-09-09-10",
+      "title": "深聊丨sec之后，钱会往哪去？",
+      "reason": "热度 45（温热）；21 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "&#x2018;Poverty doesn&#x2019;t have to be my reality&#x2019;: I thought I&#x2019;d have to rely on Social Security. Then I taught myself how to invest.",
+      "newsUrl": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788892200000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+    }
+  ]
+}
