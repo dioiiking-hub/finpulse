@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-09T18:44:47.545Z",
+  "snapshots": [
+    "02:44"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-10-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 74（热门）；17 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步微博快讯。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 73,
+      "heat": 74,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "EIA大幅上调油价预期：2026年布油均价料达91美元，供应中断超预期",
+      "newsUrl": "https://wallstreetcn.com/articles/3781436",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1788978479000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    },
+    {
+      "id": "2026-09-10-02",
+      "title": "fed的另一面：那些被忽略的长期变量",
+      "reason": "热度 67（热门）；15 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 65,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say",
+      "newsUrl": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
+      "source": "CNBC",
+      "publishedAt": 1788978591000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    },
+    {
+      "id": "2026-09-10-03",
+      "title": "oil异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 57（温热）；7 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 63,
+      "heat": 57,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Trump says oil and gas prices won't fall until 'right after' midterm election",
+      "newsUrl": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
+      "source": "CNBC",
+      "publishedAt": 1788979112000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    },
+    {
+      "id": "2026-09-10-04",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 58（温热）；1 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 58,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more",
+      "newsUrl": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1788979457000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    },
+    {
+      "id": "2026-09-10-05",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 56（温热）；9 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国总统特朗普：汽油价格还需要一点时间（才能下降），会把汽油价格压到2美元以下。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788978942000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    },
+    {
+      "id": "2026-09-10-06",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 56（温热）；2 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Dow slides 300 points as rates jump, international crude price tops $100: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1788979361000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    },
+    {
+      "id": "2026-09-10-07",
+      "title": "一张图看懂黄金这波行情的驱动因子",
+      "reason": "热度 59（温热）；14 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 59,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "上海黄金交易所黄金T+D 9月9日（周三）晚盘收盘上涨0.73%报954.09元/克； 上海黄金交易所白银T+D 9月9日（周三）晚盘收盘上涨2.59%报16520.0元/千克。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788978681000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    },
+    {
+      "id": "2026-09-10-08",
+      "title": "从通胀聊起：普通投资者能学到什么",
+      "reason": "热度 57（温热）；17 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 57,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "美国30年期抵押贷款利率升至6.85%，创逾一年新高",
+      "newsUrl": "https://wallstreetcn.com/articles/3781434",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1788978463000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    },
+    {
+      "id": "2026-09-10-09",
+      "title": "从苹果聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；9 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 45,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "苹果",
+      "newsTitle": "苹果秀及新品发布会要点总结",
+      "newsUrl": "https://wallstreetcn.com/livenews/3162753",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1788978962000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    },
+    {
+      "id": "2026-09-10-10",
+      "title": "制裁的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；12 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "美国总统特朗普：（关于伊朗）将就针对约旦河西岸定居点实施的制裁与以色列进行沟通。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788978758000,
+      "firstSeenAt": "2026-09-09T18:44:47.545Z",
+      "lastSeenAt": "2026-09-09T18:44:47.545Z"
+    }
+  ]
+}
