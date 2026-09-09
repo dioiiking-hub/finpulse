@@ -1,9 +1,10 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-09T06:13:08.481Z",
+  "generatedAt": "2026-09-09T14:42:21.009Z",
   "snapshots": [
     "02:50",
-    "14:13"
+    "14:13",
+    "22:42"
   ],
   "topics": [
     {
@@ -27,7 +28,7 @@
       "source": "金十数据",
       "publishedAt": 1788892562000,
       "firstSeenAt": "2026-09-08T18:50:50.983Z",
-      "lastSeenAt": "2026-09-09T06:13:08.481Z"
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
     },
     {
       "id": "2026-09-09-02",
@@ -99,6 +100,29 @@
     },
     {
       "id": "2026-09-09-05",
+      "title": "天然气异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 68（热门）；6 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 68,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "欧洲天然气价格突破80欧元/兆瓦时 创三年多新高",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788964608000,
+      "firstSeenAt": "2026-09-09T14:42:21.009Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
+    },
+    {
+      "id": "2026-09-09-06",
       "title": "a股的另一面：那些被忽略的长期变量",
       "reason": "热度 66（热门）；18 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「A股港股」主线，贴合国内盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
       "category": "A股港股",
@@ -121,7 +145,7 @@
       "lastSeenAt": "2026-09-09T06:13:08.481Z"
     },
     {
-      "id": "2026-09-09-06",
+      "id": "2026-09-09-07",
       "title": "从沪指聊起：普通投资者能学到什么",
       "reason": "热度 65（热门）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「A股港股」主线，贴合国内盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
       "category": "A股港股",
@@ -144,7 +168,30 @@
       "lastSeenAt": "2026-09-09T06:13:08.481Z"
     },
     {
-      "id": "2026-09-09-07",
+      "id": "2026-09-09-08",
+      "title": "深聊丨芯片之后，钱会往哪去？",
+      "reason": "热度 65（热门）；13 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 65,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "芯片",
+      "newsTitle": "【金牌纪要库】GPT-6 Astra使长程智能体推高存储带宽与芯片热密度，金刚石散热迈向小批量验证",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1788964167000,
+      "firstSeenAt": "2026-09-08T18:50:50.983Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
+    },
+    {
+      "id": "2026-09-09-09",
       "title": "美元的另一面：那些被忽略的长期变量",
       "reason": "热度 56（温热）；9 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -166,29 +213,30 @@
       "lastSeenAt": "2026-09-09T06:13:08.481Z"
     },
     {
-      "id": "2026-09-09-08",
-      "title": "从芯片聊起：普通投资者能学到什么",
-      "reason": "热度 56（温热）；12 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
-      "category": "科技AI",
-      "region": "美国",
+      "id": "2026-09-09-10",
+      "title": "从加息聊起：普通投资者能学到什么",
+      "reason": "热度 67（热门）；9 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
       "platforms": [
         "播客",
-        "公众号深度"
+        "公众号深度",
+        "微博快讯"
       ],
       "grade": "B",
-      "score": 60,
-      "heat": 56,
-      "angle": "技术突破 → 产业链受益顺序",
-      "keyword": "芯片",
-      "newsTitle": "据Axios网站：Anthropic将退出信息技术工业委员会（ITI），原因是该行业组织支持的相关立法涉及限制外国获取美国芯片，而Anthropic反对该政策方向。",
-      "newsUrl": "",
-      "source": "金十数据",
-      "publishedAt": 1788892727000,
-      "firstSeenAt": "2026-09-08T18:50:50.983Z",
-      "lastSeenAt": "2026-09-08T18:50:50.983Z"
+      "score": 62,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "日本央行前首席经济学家、现任损保研究所Plus执行经济学家龟田诚策（Seisaku Kameda）表示：美国财长贝森特把市场（对日本央行利率政策的）预期推得太远了。 一...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3162663",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1788964430000,
+      "firstSeenAt": "2026-09-09T06:13:08.481Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
     },
     {
-      "id": "2026-09-09-09",
+      "id": "2026-09-09-11",
       "title": "原油异动：供需天平正在向哪边倾斜？",
       "reason": "热度 59（温热）；20 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
       "category": "大宗商品",
@@ -207,10 +255,33 @@
       "source": "华尔街见闻快讯",
       "publishedAt": 1788892262000,
       "firstSeenAt": "2026-09-08T18:50:50.983Z",
-      "lastSeenAt": "2026-09-09T06:13:08.481Z"
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
     },
     {
-      "id": "2026-09-09-10",
+      "id": "2026-09-09-12",
+      "title": "从sanction聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；22 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 63,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sanction",
+      "newsTitle": "Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now'",
+      "newsUrl": "https://www.cnbc.com/2026/09/09/bessent-bond-plan-details-to-be-revealed-as-treasury-secretary-warns-fx-traders-hes-the-house-now.html",
+      "source": "CNBC",
+      "publishedAt": 1788963616000,
+      "firstSeenAt": "2026-09-09T14:42:21.009Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
+    },
+    {
+      "id": "2026-09-09-13",
       "title": "深聊丨利率之后，钱会往哪去？",
       "reason": "热度 53（温热）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -232,7 +303,29 @@
       "lastSeenAt": "2026-09-08T18:50:50.983Z"
     },
     {
-      "id": "2026-09-09-11",
+      "id": "2026-09-09-14",
+      "title": "一张图看懂oil这波行情的驱动因子",
+      "reason": "热度 55（温热）；8 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 55,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Stocks fall as Brent crude trades above $100 per barrel: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1788964472000,
+      "firstSeenAt": "2026-09-09T06:13:08.481Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
+    },
+    {
+      "id": "2026-09-09-15",
       "title": "深聊丨成交之后，钱会往哪去？",
       "reason": "热度 57（温热）；15 分钟内新鲜事件，时效性强；属「A股港股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
       "category": "A股港股",
@@ -254,31 +347,9 @@
       "lastSeenAt": "2026-09-09T06:13:08.481Z"
     },
     {
-      "id": "2026-09-09-12",
-      "title": "oil异动：供需天平正在向哪边倾斜？",
-      "reason": "热度 50（温热）；18 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
-      "category": "大宗商品",
-      "region": "美国",
-      "platforms": [
-        "短视频快评",
-        "播客"
-      ],
-      "grade": "B",
-      "score": 53,
-      "heat": 50,
-      "angle": "供需格局与价格弹性",
-      "keyword": "oil",
-      "newsTitle": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
-      "newsUrl": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-      "source": "CNBC",
-      "publishedAt": 1788933300000,
-      "firstSeenAt": "2026-09-09T06:13:08.481Z",
-      "lastSeenAt": "2026-09-09T06:13:08.481Z"
-    },
-    {
-      "id": "2026-09-09-13",
-      "title": "从rate聊起：普通投资者能学到什么",
-      "reason": "热度 50（温热）；41 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "id": "2026-09-09-16",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；16 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
       "region": "美国",
       "platforms": [
@@ -286,19 +357,63 @@
         "公众号深度"
       ],
       "grade": "B",
-      "score": 53,
-      "heat": 50,
+      "score": 54,
+      "heat": 52,
       "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
       "keyword": "rate",
-      "newsTitle": "G10’s ‘surprise’ currency star could stumble as peers hike interest rates",
-      "newsUrl": "https://www.cnbc.com/2026/09/09/fx-currencies-interest-rate-hikes.html",
-      "source": "CNBC",
-      "publishedAt": 1788931936000,
+      "newsTitle": "How to create a &#x2018;forever paycheck&#x2019; without paying for an annuity",
+      "newsUrl": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1788964020000,
       "firstSeenAt": "2026-09-09T06:13:08.481Z",
-      "lastSeenAt": "2026-09-09T06:13:08.481Z"
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
     },
     {
-      "id": "2026-09-09-14",
+      "id": "2026-09-09-17",
+      "title": "从meta聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；33 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Meta stock surges with Wall Street bullish on new AI agent",
+      "newsUrl": "https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1788962999000,
+      "firstSeenAt": "2026-09-09T14:42:21.009Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
+    },
+    {
+      "id": "2026-09-09-18",
+      "title": "tech的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；25 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 49,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "Apple event live updates: First foldable iPhone, new watch series expected as Ternus makes debut",
+      "newsUrl": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1788963446000,
+      "firstSeenAt": "2026-09-09T14:42:21.009Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
+    },
+    {
+      "id": "2026-09-09-19",
       "title": "从制裁聊起：普通投资者能学到什么",
       "reason": "热度 46（温热）；30 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
       "category": "监管地缘",
@@ -320,29 +435,95 @@
       "lastSeenAt": "2026-09-08T18:50:50.983Z"
     },
     {
-      "id": "2026-09-09-15",
-      "title": "加息的另一面：那些被忽略的长期变量",
-      "reason": "热度 50（温热）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
-      "category": "宏观政策",
-      "region": "中国",
+      "id": "2026-09-09-20",
+      "title": "一张图看懂大宗这波行情的驱动因子",
+      "reason": "热度 50（温热）；9 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
       "platforms": [
-        "播客",
-        "公众号深度"
+        "短视频快评",
+        "播客"
       ],
       "grade": "B",
       "score": 50,
       "heat": 50,
-      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
-      "keyword": "加息",
-      "newsTitle": "欧央行9月加息已无悬念：紧缩周期是否结束？",
-      "newsUrl": "https://wallstreetcn.com/member/articles/3781391",
-      "source": "华尔街见闻新闻",
-      "publishedAt": 1788928751000,
-      "firstSeenAt": "2026-09-09T06:13:08.481Z",
-      "lastSeenAt": "2026-09-09T06:13:08.481Z"
+      "angle": "供需格局与价格弹性",
+      "keyword": "大宗",
+      "newsTitle": "中微公司：巽鑫投资累计减持公司股份1762.2万股",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788964413000,
+      "firstSeenAt": "2026-09-09T14:42:21.009Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
     },
     {
-      "id": "2026-09-09-16",
+      "id": "2026-09-09-21",
+      "title": "从微软聊起：普通投资者能学到什么",
+      "reason": "热度 49（温热）；5 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "微软",
+      "newsTitle": "AFT、UFT 和微软宣布推出“国家人工智能安全与隐私标准”，旨在保护学生、家庭和教育工作者。微软称协议确保科技公司不得利用学生数据训练人工智能，无法追踪学...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788964643000,
+      "firstSeenAt": "2026-09-09T14:42:21.009Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
+    },
+    {
+      "id": "2026-09-09-22",
+      "title": "深聊丨dow之后，钱会往哪去？",
+      "reason": "热度 49（温热）；33 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Stock Market Today: Dow Off 350 Points As Oil Surges; Chevron Shares Move Past A Buy Point (Live Coverage)",
+      "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1788962977000,
+      "firstSeenAt": "2026-09-09T14:42:21.009Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
+    },
+    {
+      "id": "2026-09-09-23",
+      "title": "从道琼斯聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；12 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "道琼斯",
+      "newsTitle": "道琼斯指数跌至自7月31日以来新低，日内下跌0.58%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1788964264000,
+      "firstSeenAt": "2026-09-09T14:42:21.009Z",
+      "lastSeenAt": "2026-09-09T14:42:21.009Z"
+    },
+    {
+      "id": "2026-09-09-24",
       "title": "深聊丨财政之后，钱会往哪去？",
       "reason": "热度 47（温热）；33 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -364,7 +545,7 @@
       "lastSeenAt": "2026-09-08T18:50:50.983Z"
     },
     {
-      "id": "2026-09-09-17",
+      "id": "2026-09-09-25",
       "title": "苹果的另一面：那些被忽略的长期变量",
       "reason": "热度 47（温热）；17 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
       "category": "美股",
@@ -386,7 +567,7 @@
       "lastSeenAt": "2026-09-09T06:13:08.481Z"
     },
     {
-      "id": "2026-09-09-18",
+      "id": "2026-09-09-26",
       "title": "深聊丨sec之后，钱会往哪去？",
       "reason": "热度 45（温热）；21 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
       "category": "监管地缘",
@@ -408,7 +589,7 @@
       "lastSeenAt": "2026-09-08T18:50:50.983Z"
     },
     {
-      "id": "2026-09-09-19",
+      "id": "2026-09-09-27",
       "title": "从算力聊起：普通投资者能学到什么",
       "reason": "热度 45（温热）；44 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
       "category": "科技AI",
