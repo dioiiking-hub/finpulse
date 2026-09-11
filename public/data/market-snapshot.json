@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-11T15:46:03+08:00",
+ "asOf": "2026-09-11T20:34:23+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -90,8 +90,8 @@
    "source": "Yahoo Finance"
   },
   "hsi": {
-   "price": 24813.8008,
-   "changePct": -0.5637,
+   "price": 24805.6309,
+   "changePct": -0.5964,
    "spark": [
     26009.4,
     25852.92,
@@ -122,14 +122,14 @@
     25317.18,
     25274.96,
     24954.47,
-    24813.8
+    24805.63
    ],
    "asOf": "2026-09-11",
    "source": "Yahoo Finance"
   },
   "hstech": {
-   "price": 4.242,
-   "changePct": -2.0776,
+   "price": 4.238,
+   "changePct": -2.1699,
    "spark": [
     4.73,
     4.78,
@@ -281,8 +281,8 @@
    "source": "Yahoo Finance"
   },
   "vix": {
-   "price": 17.55,
-   "changePct": -1.6256,
+   "price": 16.98,
+   "changePct": -4.8206,
    "spark": [
     15.86,
     16.5,
@@ -313,14 +313,14 @@
     15.72,
     16.46,
     17.84,
-    17.55
+    16.98
    ],
    "asOf": "2026-09-11",
    "source": "Yahoo Finance"
   },
   "gold": {
-   "price": 4386.0,
-   "changePct": 0.4926,
+   "price": 4373.1001,
+   "changePct": 0.197,
    "spark": [
     4049.1,
     4033.7,
@@ -351,14 +351,14 @@
     4393.9,
     4416.0,
     4364.5,
-    4386.0
+    4373.1
    ],
    "asOf": "2026-09-11",
    "source": "Yahoo Finance"
   },
   "wti": {
-   "price": 101.09,
-   "changePct": -1.3564,
+   "price": 99.15,
+   "changePct": -3.2494,
    "spark": [
     84.67,
     80.34,
@@ -389,13 +389,13 @@
     93.03,
     96.05,
     102.48,
-    101.09
+    99.15
    ],
    "asOf": "2026-09-11",
    "source": "Yahoo Finance"
   },
   "usdcnh": {
-   "price": 6.7094,
+   "price": 6.7098,
    "changePct": 0.0,
    "spark": [
     6.71
@@ -404,8 +404,8 @@
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 77210.1016,
-   "changePct": 0.8384,
+   "price": 77101.4531,
+   "changePct": 0.6965,
    "spark": [
     63402.17,
     62975.59,
@@ -436,7 +436,7 @@
     78438.58,
     78259.52,
     76568.12,
-    77210.1
+    77101.45
    ],
    "asOf": "2026-09-11",
    "source": "Yahoo Finance"
