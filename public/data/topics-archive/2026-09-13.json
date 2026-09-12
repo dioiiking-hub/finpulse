@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-12T17:46:07.408Z",
+  "snapshots": [
+    "01:46"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-13-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 61（热门）；26 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 66,
+      "heat": 61,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Elon Musk backs Anthropic&#x2019;s call to slow down AI progress before rogue bots take over the entire internet",
+      "newsUrl": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1789233600000,
+      "firstSeenAt": "2026-09-12T17:46:07.408Z",
+      "lastSeenAt": "2026-09-12T17:46:07.408Z"
+    },
+    {
+      "id": "2026-09-13-02",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；42 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "乌克兰经济部长：由于港口封锁，乌克兰约400亿美元的出口收入面临风险。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789232674000,
+      "firstSeenAt": "2026-09-12T17:46:07.408Z",
+      "lastSeenAt": "2026-09-12T17:46:07.408Z"
+    },
+    {
+      "id": "2026-09-13-03",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
+      "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789230285000,
+      "firstSeenAt": "2026-09-12T17:46:07.408Z",
+      "lastSeenAt": "2026-09-12T17:46:07.408Z"
+    },
+    {
+      "id": "2026-09-13-04",
+      "title": "nvidia的另一面：那些被忽略的长期变量",
+      "reason": "热度 42（温热）；13 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "Analyst sets jaw-dropping Nvidia price target",
+      "newsUrl": "https://finance.yahoo.com/markets/stocks/articles/analyst-sets-jaw-dropping-nvidia-173300433.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789234380000,
+      "firstSeenAt": "2026-09-12T17:46:07.408Z",
+      "lastSeenAt": "2026-09-12T17:46:07.408Z"
+    },
+    {
+      "id": "2026-09-13-05",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 36（平静）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 36,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "India’s central bank tells Tata Sons to take conglomerate public",
+      "newsUrl": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
+      "source": "FT Markets",
+      "publishedAt": 1789230004000,
+      "firstSeenAt": "2026-09-12T17:46:07.408Z",
+      "lastSeenAt": "2026-09-12T17:46:07.408Z"
+    },
+    {
+      "id": "2026-09-13-06",
+      "title": "深聊丨加密之后，钱会往哪去？",
+      "reason": "热度 36（平静）；23 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合国内盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "中国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "机构化进程与链上数据",
+      "keyword": "加密",
+      "newsTitle": "财联社9月13日电，埃里森取消出售至多5000万股甲骨文股票的计划后，在加密平台交易的甲骨文股票合约上涨2%。",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1789233827000,
+      "firstSeenAt": "2026-09-12T17:46:07.408Z",
+      "lastSeenAt": "2026-09-12T17:46:07.408Z"
+    },
+    {
+      "id": "2026-09-13-07",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 35（平静）；15 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "据沙特媒体哈达斯（Alhadath）：消息人士称，伊拉克政府决定保持沙拉姆贾和希布口岸开放，直到旅客离境。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789234297000,
+      "firstSeenAt": "2026-09-12T17:46:07.408Z",
+      "lastSeenAt": "2026-09-12T17:46:07.408Z"
+    }
+  ]
+}
