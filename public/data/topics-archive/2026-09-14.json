@@ -1,0 +1,274 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-13T18:16:32.785Z",
+  "snapshots": [
+    "02:16"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-14-01",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 63（热门）；25 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 63,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国居民净财富二季度飙升12.5万亿美元，创历史最大增幅",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789321911000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-02",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；2 小时内事件，仍在发酵窗口；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 50,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+      "newsUrl": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+      "source": "CNBC",
+      "publishedAt": 1789317564000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-03",
+      "title": "从国债聊起：普通投资者能学到什么",
+      "reason": "热度 59（温热）；38 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 59,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "法国计划削减300亿欧元预算支出以控制财政赤字",
+      "newsUrl": "https://finance.sina.com.cn/7x24/2026-09-14/doc-inirtfms4348308.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1789321131000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-04",
+      "title": "从关税聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；19 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "关税",
+      "newsTitle": "特朗普宣布取消美国对爱尔兰威士忌征收的关税",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789322267000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-05",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 45（温热）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "特朗普敦促美联储降息 表示美国利率应该全球最低",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirszcw5322364.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1789312635000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-06",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 42（温热）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 42,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
+      "newsUrl": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789315899000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-07",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 41（温热）；1 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 41,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+      "newsUrl": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+      "source": "CNBC",
+      "publishedAt": 1789318577000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-08",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 40（温热）；1 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 40,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "美国能源部长淡化霍尔木兹海峡问题取得突破的可能性",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtfms4337272.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1789319291000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-09",
+      "title": "芯片的另一面：那些被忽略的长期变量",
+      "reason": "热度 36（平静）；4 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 36,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "芯片",
+      "newsTitle": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirszcs7631330.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1789309886000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-10",
+      "title": "加息的另一面：那些被忽略的长期变量",
+      "reason": "热度 35（平静）；4 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 35,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "天风证券：贵金属短期调整压力尚未解除",
+      "newsUrl": "https://wallstreetcn.com/livenews/3164440",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1789308126000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-11",
+      "title": "从机器人聊起：普通投资者能学到什么",
+      "reason": "热度 37（平静）；1 小时内事件，仍在发酵窗口；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "机器人",
+      "newsTitle": "行业预测：2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1789318939000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    },
+    {
+      "id": "2026-09-14-12",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 35（平静）；18 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "胡塞武装：沙特过去24小时对也门发动58次空袭",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789322312000,
+      "firstSeenAt": "2026-09-13T18:16:32.785Z",
+      "lastSeenAt": "2026-09-13T18:16:32.785Z"
+    }
+  ]
+}
