@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-15T19:07:57.087Z",
+  "snapshots": [
+    "03:07"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-16-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 69（热门）；35 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 69,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "国际原油期货结算价大幅收涨 美国柴油期货结算价创新高",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1789497205000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-02",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 62（热门）；35 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 66,
+      "heat": 62,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+      "newsUrl": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+      "source": "CNBC",
+      "publishedAt": 1789497201000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-03",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 62（热门）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 62,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "LVMH年内下跌37%，曾经欧洲市值第一股，跌出前十",
+      "newsUrl": "https://wallstreetcn.com/articles/3781816",
+      "source": "华尔街见闻",
+      "publishedAt": 1789495582000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-04",
+      "title": "从比特币看加密资产的宏观定价逻辑",
+      "reason": "热度 60（热门）；25 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「加密货币」主线，贴合美盘受众；建议首发 微博快讯，同步播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 60,
+      "angle": "机构化进程与链上数据",
+      "keyword": "比特币",
+      "newsTitle": "美国参议院否决里程碑式加密法案，行业遭遇重大挫败",
+      "newsUrl": "https://wallstreetcn.com/livenews/3165707",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1789497822000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-05",
+      "title": "fed的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；2 小时内事件，仍在发酵窗口；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
+      "newsUrl": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+      "source": "CNBC",
+      "publishedAt": 1789493607000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-06",
+      "title": "oil之后，哪些资产会被重新定价？",
+      "reason": "热度 56（温热）；10 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
+      "newsUrl": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "source": "CNBC",
+      "publishedAt": 1789498716000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-07",
+      "title": "从inflation聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；54 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "Ten-year Treasury yield hits highest level since 2007",
+      "newsUrl": "https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1",
+      "source": "FT Markets",
+      "publishedAt": 1789496033000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-08",
+      "title": "深聊丨收益率之后，钱会往哪去？",
+      "reason": "热度 54（温热）；21 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "收益率",
+      "newsTitle": "花旗：近期债券收益率上行主要由能源价格推动，尚不足以对经济增长形成实质性拖累",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789498051000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-09",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；14 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "哈塞特：特朗普尊重沃什决定，AI风险应由私营部门解决",
+      "newsUrl": "https://wallstreetcn.com/articles/3781817",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1789498455000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-10",
+      "title": "深聊丨sec之后，钱会往哪去？",
+      "reason": "热度 48（温热）；16 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "The future of retirement? Work until you die.",
+      "newsUrl": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1789498320000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    },
+    {
+      "id": "2026-09-16-11",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 47（温热）；19 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "美国柴油期货收盘创下历史新高。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789498155000,
+      "firstSeenAt": "2026-09-15T19:07:57.087Z",
+      "lastSeenAt": "2026-09-15T19:07:57.087Z"
+    }
+  ]
+}
