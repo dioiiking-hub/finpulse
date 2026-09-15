@@ -1,9 +1,10 @@
 {
   "date": "2026-09-15",
-  "generatedAt": "2026-09-15T06:19:30.414Z",
+  "generatedAt": "2026-09-15T15:07:52.639Z",
   "snapshots": [
     "00:25",
-    "14:19"
+    "14:19",
+    "23:07"
   ],
   "topics": [
     {
@@ -73,7 +74,7 @@
       "source": "华尔街见闻快讯",
       "publishedAt": 1789402803000,
       "firstSeenAt": "2026-09-14T16:25:13.655Z",
-      "lastSeenAt": "2026-09-15T06:19:30.414Z"
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
     },
     {
       "id": "2026-09-15-04",
@@ -96,7 +97,7 @@
       "source": "华尔街见闻",
       "publishedAt": 1789401648000,
       "firstSeenAt": "2026-09-14T16:25:13.655Z",
-      "lastSeenAt": "2026-09-15T06:19:30.414Z"
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
     },
     {
       "id": "2026-09-15-05",
@@ -165,7 +166,7 @@
       "source": "FT Markets",
       "publishedAt": 1789452426000,
       "firstSeenAt": "2026-09-14T16:25:13.655Z",
-      "lastSeenAt": "2026-09-15T06:19:30.414Z"
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
     },
     {
       "id": "2026-09-15-08",
@@ -211,7 +212,7 @@
       "source": "华尔街见闻快讯",
       "publishedAt": 1789401472000,
       "firstSeenAt": "2026-09-14T16:25:13.655Z",
-      "lastSeenAt": "2026-09-15T06:19:30.414Z"
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
     },
     {
       "id": "2026-09-15-10",
@@ -233,7 +234,7 @@
       "source": "金十数据",
       "publishedAt": 1789452991000,
       "firstSeenAt": "2026-09-15T06:19:30.414Z",
-      "lastSeenAt": "2026-09-15T06:19:30.414Z"
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
     },
     {
       "id": "2026-09-15-11",
@@ -255,7 +256,7 @@
       "source": "金十数据",
       "publishedAt": 1789402968000,
       "firstSeenAt": "2026-09-14T16:25:13.655Z",
-      "lastSeenAt": "2026-09-14T16:25:13.655Z"
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
     },
     {
       "id": "2026-09-15-12",
@@ -281,6 +282,29 @@
     },
     {
       "id": "2026-09-15-13",
+      "title": "从sec聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；10 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 63,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Treasury Secretary Bessent defends Trump economic record in contentious hearing",
+      "newsUrl": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+      "source": "CNBC",
+      "publishedAt": 1789484300000,
+      "firstSeenAt": "2026-09-15T15:07:52.639Z",
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
+    },
+    {
+      "id": "2026-09-15-14",
       "title": "深聊丨利率之后，钱会往哪去？",
       "reason": "热度 56（温热）；52 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -302,7 +326,7 @@
       "lastSeenAt": "2026-09-14T16:25:13.655Z"
     },
     {
-      "id": "2026-09-15-14",
+      "id": "2026-09-15-15",
       "title": "央行的另一面：那些被忽略的长期变量",
       "reason": "热度 58（温热）；3 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -324,7 +348,29 @@
       "lastSeenAt": "2026-09-14T16:25:13.655Z"
     },
     {
-      "id": "2026-09-15-15",
+      "id": "2026-09-15-16",
+      "title": "深聊丨meta之后，钱会往哪去？",
+      "reason": "热度 53（温热）；5 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 53,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Meta Platforms(META.O)：Meta One将提供更高的人工智能使用额度和增强版表达功能。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789484580000,
+      "firstSeenAt": "2026-09-15T15:07:52.639Z",
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
+    },
+    {
+      "id": "2026-09-15-17",
       "title": "从dow聊起：普通投资者能学到什么",
       "reason": "热度 55（温热）；7 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
       "category": "美股",
@@ -346,9 +392,31 @@
       "lastSeenAt": "2026-09-14T16:25:13.655Z"
     },
     {
-      "id": "2026-09-15-16",
+      "id": "2026-09-15-18",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；28 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Dow falls more than 500 points as losses accelerate following a 19-year high in the 10-year Treasury yield: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1789483191000,
+      "firstSeenAt": "2026-09-14T16:25:13.655Z",
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
+    },
+    {
+      "id": "2026-09-15-19",
       "title": "一张图看懂oil这波行情的驱动因子",
-      "reason": "热度 51（温热）；23 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "reason": "热度 59（温热）；1 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
       "category": "大宗商品",
       "region": "美国",
       "platforms": [
@@ -356,19 +424,19 @@
         "播客"
       ],
       "grade": "B",
-      "score": 54,
-      "heat": 51,
+      "score": 56,
+      "heat": 59,
       "angle": "供需格局与价格弹性",
       "keyword": "oil",
-      "newsTitle": "What's next for oil refiners after an unprecedented run to all-time highs",
-      "newsUrl": "https://www.cnbc.com/2026/09/14/whats-next-for-oil-refiners-after-an-unprecedented-run-to-all-time-highs.html",
+      "newsTitle": "U.S. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage",
+      "newsUrl": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
       "source": "CNBC",
-      "publishedAt": 1789401745000,
+      "publishedAt": 1789484867000,
       "firstSeenAt": "2026-09-14T16:25:13.655Z",
-      "lastSeenAt": "2026-09-14T16:25:13.655Z"
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
     },
     {
-      "id": "2026-09-15-17",
+      "id": "2026-09-15-20",
       "title": "从财政聊起：普通投资者能学到什么",
       "reason": "热度 52（温热）；12 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -390,7 +458,29 @@
       "lastSeenAt": "2026-09-15T06:19:30.414Z"
     },
     {
-      "id": "2026-09-15-18",
+      "id": "2026-09-15-21",
+      "title": "从nvidia聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；26 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "Stock Market Today: Dow Dives As Yields Jump; Nvidia Up But This Biotech Play Flashes Sell Signal (Live Coverage)",
+      "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789483336000,
+      "firstSeenAt": "2026-09-15T15:07:52.639Z",
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
+    },
+    {
+      "id": "2026-09-15-22",
       "title": "从谷歌聊起：普通投资者能学到什么",
       "reason": "热度 49（温热）；15 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
       "category": "美股",
@@ -412,7 +502,7 @@
       "lastSeenAt": "2026-09-14T16:25:13.655Z"
     },
     {
-      "id": "2026-09-15-19",
+      "id": "2026-09-15-23",
       "title": "深聊丨芯片之后，钱会往哪去？",
       "reason": "热度 53（温热）；2 小时内事件，仍在发酵窗口；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
       "category": "科技AI",
@@ -434,29 +524,51 @@
       "lastSeenAt": "2026-09-15T06:19:30.414Z"
     },
     {
-      "id": "2026-09-15-20",
-      "title": "rate的另一面：那些被忽略的长期变量",
-      "reason": "热度 47（温热）；32 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
-      "category": "宏观政策",
-      "region": "美国",
+      "id": "2026-09-15-24",
+      "title": "油价异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 51（温热）；5 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
       "platforms": [
-        "播客",
-        "公众号深度"
+        "短视频快评",
+        "播客"
       ],
       "grade": "B",
       "score": 51,
-      "heat": 47,
-      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
-      "keyword": "rate",
-      "newsTitle": "Producer Of Strategic Metal Soars 43% On Pentagon Deals",
-      "newsUrl": "https://www.investors.com/news/pentagon-department-of-war-elmet-group-elmt-stock-tungsten/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "publishedAt": 1789401208000,
-      "firstSeenAt": "2026-09-14T16:25:13.655Z",
-      "lastSeenAt": "2026-09-14T16:25:13.655Z"
+      "heat": 51,
+      "angle": "供需格局与价格弹性",
+      "keyword": "油价",
+      "newsTitle": "美伊谈判消息还能压油价，但压下去以后，越来越难在低位站住；当坏消息越来越贵，好消息需要跨过的门槛也在抬高，油价空头真正该等的是什么？<font class=\"impor...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789484600000,
+      "firstSeenAt": "2026-09-15T15:07:52.639Z",
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
     },
     {
-      "id": "2026-09-15-21",
+      "id": "2026-09-15-25",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 51（温热）；5 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 51,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "消息人士：沙特红海延布港暂停石油装船作业",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789484564000,
+      "firstSeenAt": "2026-09-15T15:07:52.639Z",
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
+    },
+    {
+      "id": "2026-09-15-26",
       "title": "深聊丨nasdaq之后，钱会往哪去？",
       "reason": "热度 50（温热）；11 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
       "category": "美股",
@@ -476,6 +588,28 @@
       "publishedAt": 1789402447000,
       "firstSeenAt": "2026-09-14T16:25:13.655Z",
       "lastSeenAt": "2026-09-14T16:25:13.655Z"
+    },
+    {
+      "id": "2026-09-15-27",
+      "title": "亚马逊的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；6 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "亚马逊",
+      "newsTitle": "亚马逊(AMZN.O)：Cognition与亚马逊云服务(AWS)签署多年战略合作协议。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789484529000,
+      "firstSeenAt": "2026-09-15T15:07:52.639Z",
+      "lastSeenAt": "2026-09-15T15:07:52.639Z"
     }
   ]
 }
