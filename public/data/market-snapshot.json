@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-17T04:55:44+08:00",
+ "asOf": "2026-09-17T07:32:11+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -128,10 +128,9 @@
    "source": "Yahoo Finance"
   },
   "hstech": {
-   "price": 4.236,
-   "changePct": -0.0472,
+   "price": 4.212,
+   "changePct": -0.5666,
    "spark": [
-    4.79,
     4.84,
     4.73,
     4.77,
@@ -160,9 +159,10 @@
     4.33,
     4.25,
     4.24,
-    4.24
+    4.24,
+    4.21
    ],
-   "asOf": "2026-09-14",
+   "asOf": "2026-09-15",
    "source": "Yahoo Finance",
    "note": "以恒生科技ETF(3033.HK)行情替代指数"
   },
@@ -319,8 +319,8 @@
    "source": "Yahoo Finance"
   },
   "gold": {
-   "price": 4302.6001,
-   "changePct": -0.697,
+   "price": 4309.2998,
+   "changePct": -0.5424,
    "spark": [
     4305.2,
     4299.6,
@@ -351,14 +351,14 @@
     4408.9,
     4351.9,
     4332.8,
-    4302.6
+    4309.3
    ],
    "asOf": "2026-09-16",
    "source": "Yahoo Finance"
   },
   "wti": {
-   "price": 102.14,
-   "changePct": -3.4867,
+   "price": 101.99,
+   "changePct": -3.6285,
    "spark": [
     75.22,
     77.29,
@@ -389,23 +389,23 @@
     100.05,
     101.39,
     105.83,
-    102.14
+    101.99
    ],
    "asOf": "2026-09-16",
    "source": "Yahoo Finance"
   },
   "usdcnh": {
-   "price": 6.7123,
+   "price": 6.7099,
    "changePct": 0.0,
    "spark": [
     6.71
    ],
-   "asOf": "2026-09-16",
+   "asOf": "2026-09-17",
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 76042.0078,
-   "changePct": 0.568,
+   "price": 76029.9297,
+   "changePct": 0.5521,
    "spark": [
     64680.71,
     69266.19,
@@ -436,7 +436,7 @@
     76838.16,
     78163.38,
     75612.51,
-    76042.01
+    76029.93
    ],
    "asOf": "2026-09-16",
    "source": "Yahoo Finance"
