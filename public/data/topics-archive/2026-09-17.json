@@ -1,13 +1,37 @@
 {
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T06:19:15.344Z",
+  "generatedAt": "2026-09-17T15:07:42.326Z",
   "snapshots": [
     "02:59",
-    "14:19"
+    "14:19",
+    "23:07"
   ],
   "topics": [
     {
       "id": "2026-09-17-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 90（爆发）；8 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 86,
+      "heat": 90,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "CoreWeave跌超5%！3500万股市价增发+30亿美元可转债发行，AI军备竞赛持续烧钱",
+      "newsUrl": "https://wallstreetcn.com/articles/3782010",
+      "source": "华尔街见闻",
+      "publishedAt": 1789657231000,
+      "firstSeenAt": "2026-09-17T06:19:15.344Z",
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
+    },
+    {
+      "id": "2026-09-17-02",
       "title": "深聊丨fed之后，钱会往哪去？",
       "reason": "热度 78（热门）；17 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -27,10 +51,10 @@
       "source": "CNBC",
       "publishedAt": 1789584156000,
       "firstSeenAt": "2026-09-16T18:59:02.624Z",
-      "lastSeenAt": "2026-09-17T06:19:15.344Z"
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
     },
     {
-      "id": "2026-09-17-02",
+      "id": "2026-09-17-03",
       "title": "美联储的另一面：那些被忽略的长期变量",
       "reason": "热度 70（热门）；4 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -50,30 +74,7 @@
       "source": "金十数据",
       "publishedAt": 1789584898000,
       "firstSeenAt": "2026-09-16T18:59:02.624Z",
-      "lastSeenAt": "2026-09-17T06:19:15.344Z"
-    },
-    {
-      "id": "2026-09-17-03",
-      "title": "深聊丨ai之后，钱会往哪去？",
-      "reason": "热度 69（热门）；9 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
-      "category": "科技AI",
-      "region": "全球",
-      "platforms": [
-        "播客",
-        "公众号深度",
-        "微博快讯"
-      ],
-      "grade": "A",
-      "score": 71,
-      "heat": 69,
-      "angle": "技术突破 → 产业链受益顺序",
-      "keyword": "ai",
-      "newsTitle": "【AI前沿日报-9月17日】软银重押OpenAI引发信用担忧，Claude争夺办公入口",
-      "newsUrl": "",
-      "source": "金十数据",
-      "publishedAt": 1789625429000,
-      "firstSeenAt": "2026-09-17T06:19:15.344Z",
-      "lastSeenAt": "2026-09-17T06:19:15.344Z"
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
     },
     {
       "id": "2026-09-17-04",
@@ -95,7 +96,7 @@
       "source": "华尔街见闻",
       "publishedAt": 1789581440000,
       "firstSeenAt": "2026-09-16T18:59:02.624Z",
-      "lastSeenAt": "2026-09-16T18:59:02.624Z"
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
     },
     {
       "id": "2026-09-17-05",
@@ -278,6 +279,28 @@
     },
     {
       "id": "2026-09-17-13",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；8 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Azets appoints new corporate finance partner in UK",
+      "newsUrl": "https://finance.yahoo.com/small-business/articles/azets-appoints-corporate-finance-partner-150020540.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789657220000,
+      "firstSeenAt": "2026-09-17T15:07:42.326Z",
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
+    },
+    {
+      "id": "2026-09-17-14",
       "title": "从成交聊起：普通投资者能学到什么",
       "reason": "热度 57（温热）；16 分钟内新鲜事件，时效性强；属「A股港股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
       "category": "A股港股",
@@ -299,7 +322,7 @@
       "lastSeenAt": "2026-09-17T06:19:15.344Z"
     },
     {
-      "id": "2026-09-17-14",
+      "id": "2026-09-17-15",
       "title": "从半导体聊起：普通投资者能学到什么",
       "reason": "热度 53（温热）；6 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
       "category": "科技AI",
@@ -321,7 +344,51 @@
       "lastSeenAt": "2026-09-17T06:19:15.344Z"
     },
     {
-      "id": "2026-09-17-15",
+      "id": "2026-09-17-16",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 50（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "数据中心军备竞赛延伸至电力基础设施，亚马逊80亿美元与Generac签署七年战略大单",
+      "newsUrl": "https://wallstreetcn.com/articles/3782005",
+      "source": "华尔街见闻",
+      "publishedAt": 1789651648000,
+      "firstSeenAt": "2026-09-17T15:07:42.326Z",
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
+    },
+    {
+      "id": "2026-09-17-17",
+      "title": "oil之后，哪些资产会被重新定价？",
+      "reason": "热度 53（温热）；8 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
+      "newsUrl": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "source": "CNBC",
+      "publishedAt": 1789657177000,
+      "firstSeenAt": "2026-09-17T15:07:42.326Z",
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
+    },
+    {
+      "id": "2026-09-17-18",
       "title": "深聊丨欧盟之后，钱会往哪去？",
       "reason": "热度 51（温热）；6 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
       "category": "监管地缘",
@@ -343,7 +410,29 @@
       "lastSeenAt": "2026-09-17T06:19:15.344Z"
     },
     {
-      "id": "2026-09-17-16",
+      "id": "2026-09-17-19",
+      "title": "深聊丨就业之后，钱会往哪去？",
+      "reason": "热度 51（温热）；19 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "就业",
+      "newsTitle": "美国上周首申人数降至19.6万，创1969年以来低位，就业市场呈“低裁员、低招聘”",
+      "newsUrl": "https://wallstreetcn.com/articles/3782007",
+      "source": "华尔街见闻",
+      "publishedAt": 1789656561000,
+      "firstSeenAt": "2026-09-17T15:07:42.326Z",
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
+    },
+    {
+      "id": "2026-09-17-20",
       "title": "宏观政策的另一面：那些被忽略的长期变量",
       "reason": "热度 49（温热）；8 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -363,6 +452,50 @@
       "publishedAt": 1789625487000,
       "firstSeenAt": "2026-09-17T06:19:15.344Z",
       "lastSeenAt": "2026-09-17T06:19:15.344Z"
+    },
+    {
+      "id": "2026-09-17-21",
+      "title": "meta的另一面：那些被忽略的长期变量",
+      "reason": "热度 42（温热）；13 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Lahontan Gold signs agreement to acquire Emergent Metals",
+      "newsUrl": "https://finance.yahoo.com/markets/commodities/articles/lahontan-gold-signs-agreement-acquire-145511685.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789656911000,
+      "firstSeenAt": "2026-09-17T15:07:42.326Z",
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
+    },
+    {
+      "id": "2026-09-17-22",
+      "title": "深聊丨tariff之后，钱会往哪去？",
+      "reason": "热度 42（温热）；39 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "tariff",
+      "newsTitle": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
+      "newsUrl": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "source": "CNBC",
+      "publishedAt": 1789655319000,
+      "firstSeenAt": "2026-09-17T15:07:42.326Z",
+      "lastSeenAt": "2026-09-17T15:07:42.326Z"
     }
   ]
 }
