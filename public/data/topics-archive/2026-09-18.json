@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-17T19:08:12.886Z",
+  "snapshots": [
+    "03:08"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-18-01",
+      "title": "通胀落地，对 A 股/美股意味着什么？一文看懂传导链条",
+      "reason": "热度 89（爆发）；10 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 85,
+      "heat": 89,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "美国10年期TIPS实际收益率创2008年危机来最高，财政赤字与企业债务扩张引关注",
+      "newsUrl": "https://wallstreetcn.com/articles/3782019",
+      "source": "华尔街见闻",
+      "publishedAt": 1789671512000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-02",
+      "title": "从加息聊起：普通投资者能学到什么",
+      "reason": "热度 78（热门）；18 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 78,
+      "heat": 78,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "巴克莱目前预计英国央行将在11月及2027年2月各加息25个基点，理由是通胀风险持续以及中东冲突影响。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789671052000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-03",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 76（热门）；10 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 76,
+      "heat": 76,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "摩根大通关于伊朗战争以何种方式结束：“我们根本不知道”",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-09-18/doc-inisencp3761687.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1789671496000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-04",
+      "title": "深聊丨央行之后，钱会往哪去？",
+      "reason": "热度 74（热门）；16 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 73,
+      "heat": 74,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "土耳其多管齐下紧急“灭火”：近200亿美元基金清算、高管被捕、交易禁令",
+      "newsUrl": "https://wallstreetcn.com/articles/3782020",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1789671128000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-05",
+      "title": "美联储的另一面：那些被忽略的长期变量",
+      "reason": "热度 66（热门）；9 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 69,
+      "heat": 66,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "欧洲股市创7月初以来最大涨幅 美联储加息缓解了通胀担忧",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-09-18/doc-inisencp3761898.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1789671545000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-06",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 63（热门）；23 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 65,
+      "heat": 63,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "布伦特原油期货结算价为每桶104.82美元，下跌1.01美元，跌幅0.95%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789670725000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-07",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；45 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 58,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "OpenAI、微软高管承认AI对新闻业构成威胁",
+      "newsUrl": "https://wallstreetcn.com/livenews/3166954",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1789669410000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-08",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；59 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国拟首次向沙特出售F-35战机 交易价值最高可达243亿美元",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-09-18/doc-inisencu8910677.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1789668551000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-09",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 43（温热）；36 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "布油均价创5月新高，西太平洋银行上调Q4预测",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789669952000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-10",
+      "title": "深聊丨nvidia之后，钱会往哪去？",
+      "reason": "热度 43（温热）；45 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "Jensen Huang says Nvidia will sell twice as many chips next year",
+      "newsUrl": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "source": "CNBC",
+      "publishedAt": 1789669405000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    },
+    {
+      "id": "2026-09-18-11",
+      "title": "从sec聊起：普通投资者能学到什么",
+      "reason": "热度 43（温热）；46 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "One cybersecurity stock has lagged of late. Jay Woods says the charts are now turning bullish",
+      "newsUrl": "https://www.cnbc.com/2026/09/17/one-cybersecurity-stock-has-lagged-of-late-jay-woods-says-the-charts-are-now-turning-bullish.html",
+      "source": "CNBC",
+      "publishedAt": 1789669382000,
+      "firstSeenAt": "2026-09-17T19:08:12.886Z",
+      "lastSeenAt": "2026-09-17T19:08:12.886Z"
+    }
+  ]
+}
