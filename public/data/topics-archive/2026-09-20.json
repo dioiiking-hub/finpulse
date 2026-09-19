@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-19T18:08:02.408Z",
+  "snapshots": [
+    "02:08"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-20-01",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；51 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 48,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "特朗普称不会限制AI发展 将设立“AI沙皇”负责监管",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789838223000,
+      "firstSeenAt": "2026-09-19T18:08:02.408Z",
+      "lastSeenAt": "2026-09-19T18:08:02.408Z"
+    },
+    {
+      "id": "2026-09-20-02",
+      "title": "深聊丨sec之后，钱会往哪去？",
+      "reason": "热度 52（温热）；15 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "The future of retirement? Work until you die.",
+      "newsUrl": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1789840380000,
+      "firstSeenAt": "2026-09-19T18:08:02.408Z",
+      "lastSeenAt": "2026-09-19T18:08:02.408Z"
+    },
+    {
+      "id": "2026-09-20-03",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 46（温热）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Higher interest rates and AI safety fears put the stock market to the test last week",
+      "newsUrl": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
+      "source": "CNBC",
+      "publishedAt": 1789833789000,
+      "firstSeenAt": "2026-09-19T18:08:02.408Z",
+      "lastSeenAt": "2026-09-19T18:08:02.408Z"
+    },
+    {
+      "id": "2026-09-20-04",
+      "title": "从监管聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；25 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "监管",
+      "newsTitle": "土耳其多家资管机构基金爆雷 高管遭调查",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789839802000,
+      "firstSeenAt": "2026-09-19T18:08:02.408Z",
+      "lastSeenAt": "2026-09-19T18:08:02.408Z"
+    },
+    {
+      "id": "2026-09-20-05",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 40（温热）；2 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 40,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789835691000,
+      "firstSeenAt": "2026-09-19T18:08:02.408Z",
+      "lastSeenAt": "2026-09-19T18:08:02.408Z"
+    },
+    {
+      "id": "2026-09-20-06",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 35（平静）；18 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "伊朗外交部：参加联合国大会是伊朗合法权利 并非他国“恩惠”",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789840204000,
+      "firstSeenAt": "2026-09-19T18:08:02.408Z",
+      "lastSeenAt": "2026-09-19T18:08:02.408Z"
+    },
+    {
+      "id": "2026-09-20-07",
+      "title": "财政的另一面：那些被忽略的长期变量",
+      "reason": "热度 29（平静）；3 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 35,
+      "heat": 29,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "法国11%加油站汽油或柴油断供",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1789829000000,
+      "firstSeenAt": "2026-09-19T18:08:02.408Z",
+      "lastSeenAt": "2026-09-19T18:08:02.408Z"
+    }
+  ]
+}
