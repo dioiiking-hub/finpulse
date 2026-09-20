@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-20T18:14:17.733Z",
+  "snapshots": [
+    "02:14"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-21-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 46（温热）；34 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 46,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
+      "newsUrl": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789926049000,
+      "firstSeenAt": "2026-09-20T18:14:17.733Z",
+      "lastSeenAt": "2026-09-20T18:14:17.733Z"
+    },
+    {
+      "id": "2026-09-21-02",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 44（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 44,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+      "newsUrl": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "source": "CNBC",
+      "publishedAt": 1789923374000,
+      "firstSeenAt": "2026-09-20T18:14:17.733Z",
+      "lastSeenAt": "2026-09-20T18:14:17.733Z"
+    },
+    {
+      "id": "2026-09-21-03",
+      "title": "天然气异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 43（温热）；47 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 43,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "法国总统马克龙：加拿大液化天然气在欧洲能源中可以发挥重要作用，已就此问题开启双边谈判。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789925256000,
+      "firstSeenAt": "2026-09-20T18:14:17.733Z",
+      "lastSeenAt": "2026-09-20T18:14:17.733Z"
+    },
+    {
+      "id": "2026-09-21-04",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 38（平静）；3 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 38,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "newsUrl": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1789916400000,
+      "firstSeenAt": "2026-09-20T18:14:17.733Z",
+      "lastSeenAt": "2026-09-20T18:14:17.733Z"
+    },
+    {
+      "id": "2026-09-21-05",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 44（温热）；1 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 44,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789923875000,
+      "firstSeenAt": "2026-09-20T18:14:17.733Z",
+      "lastSeenAt": "2026-09-20T18:14:17.733Z"
+    },
+    {
+      "id": "2026-09-21-06",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 32（平静）；4 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 32,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "The 'robot relations' department may become reality in workplace of the future",
+      "newsUrl": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
+      "source": "CNBC",
+      "publishedAt": 1789915054000,
+      "firstSeenAt": "2026-09-20T18:14:17.733Z",
+      "lastSeenAt": "2026-09-20T18:14:17.733Z"
+    },
+    {
+      "id": "2026-09-21-07",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 37（平静）；7 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "卡塔尔称美国希望与伊朗达成协议",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1789927663000,
+      "firstSeenAt": "2026-09-20T18:14:17.733Z",
+      "lastSeenAt": "2026-09-20T18:14:17.733Z"
+    },
+    {
+      "id": "2026-09-21-08",
+      "title": "oil异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 35（平静）；1 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Chevron CEO sends a strong message on oil price and the economy",
+      "newsUrl": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+      "source": "Yahoo Finance",
+      "publishedAt": 1789922820000,
+      "firstSeenAt": "2026-09-20T18:14:17.733Z",
+      "lastSeenAt": "2026-09-20T18:14:17.733Z"
+    }
+  ]
+}
