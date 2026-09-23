@@ -1,0 +1,298 @@
+{
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-23T19:08:38.426Z",
+  "snapshots": [
+    "03:08"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-24-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 67（热门）；14 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 70,
+      "heat": 67,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "微软总裁：AI安全不能仅依赖少数模型公司",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790189708000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-02",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 64（热门）；28 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 66,
+      "heat": 64,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "布伦特原油期货结算价为每桶103.08美元，上涨3.83美元，涨幅3.86%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790188860000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-03",
+      "title": "fed的另一面：那些被忽略的长期变量",
+      "reason": "热度 60（热门）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 63,
+      "heat": 60,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
+      "newsUrl": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790185920000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-04",
+      "title": "人民币的另一面：那些被忽略的长期变量",
+      "reason": "热度 58（温热）；4 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "在岸人民币兑美元较周二夜盘收盘跌103点",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1790190326000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-05",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 58（温热）；5 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "芝加哥玉米、大豆期货至多跌约1.5%",
+      "newsUrl": "https://wallstreetcn.com/livenews/3169828",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1790190209000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-06",
+      "title": "油价之后，哪些资产会被重新定价？",
+      "reason": "热度 55（温热）；16 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 55,
+      "angle": "供需格局与价格弹性",
+      "keyword": "油价",
+      "newsTitle": "美国参议员格拉斯利：石油公司没必要把柴油价格定得这么离谱。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790189604000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-07",
+      "title": "inflation的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren&#x2019;t stopping the U.S. economy.",
+      "newsUrl": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790186760000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-08",
+      "title": "从nasdaq聊起：普通投资者能学到什么",
+      "reason": "热度 54（温热）；37 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 54,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "nasdaq",
+      "newsTitle": "Stocks fall as yields shoot higher, Nasdaq retreats from record: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/09/22/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1790188312000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-09",
+      "title": "深聊丨财政之后，钱会往哪去？",
+      "reason": "热度 52（温热）；7 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "乌克兰总统：俄罗斯当前财政赤字规模创历年新高",
+      "newsUrl": "https://wallstreetcn.com/livenews/3169827",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1790190126000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-10",
+      "title": "就业的另一面：那些被忽略的长期变量",
+      "reason": "热度 47（温热）；17 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "就业",
+      "newsTitle": "美国财长贝森特：2025年以来美国私营部门新增就业超100万个。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790189542000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-11",
+      "title": "深聊丨制裁之后，钱会往哪去？",
+      "reason": "热度 46（温热）；20 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "美国国务院：美国国务卿鲁比奥会见印度方面官员，双方讨论了可能针对与俄罗斯和伊朗开展经济往来的国家实施的制裁措施。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790189342000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-12",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 45（温热）；1 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "New Social Security bill would lower retirement age to 60 for some workers",
+      "newsUrl": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
+      "source": "CNBC",
+      "publishedAt": 1790186327000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    },
+    {
+      "id": "2026-09-24-13",
+      "title": "央行的另一面：那些被忽略的长期变量",
+      "reason": "热度 42（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 42,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "巴西央行：截至9月18日当月 巴西资金流动净额为流出70.78亿美元",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1790184768000,
+      "firstSeenAt": "2026-09-23T19:08:38.426Z",
+      "lastSeenAt": "2026-09-23T19:08:38.426Z"
+    }
+  ]
+}
