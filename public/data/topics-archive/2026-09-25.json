@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-24T19:21:09.281Z",
+  "snapshots": [
+    "03:21"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-25-01",
+      "title": "利率落地，对 A 股/美股意味着什么？一文看懂传导链条",
+      "reason": "热度 90（爆发）；42 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 86,
+      "heat": 90,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "美国房贷利率升至7%以上，创2025年初以来新高",
+      "newsUrl": "https://wallstreetcn.com/articles/3782500",
+      "source": "华尔街见闻",
+      "publishedAt": 1790275168000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    },
+    {
+      "id": "2026-09-25-02",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 67（热门）；17 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 70,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "墨西哥央行：不必对美国利率的预期变化机械反应。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790276674000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    },
+    {
+      "id": "2026-09-25-03",
+      "title": "fed的另一面：那些被忽略的长期变量",
+      "reason": "热度 59（温热）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 59,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Rising Treasury yields could push car loan rates higher, experts say. What buyers need to know",
+      "newsUrl": "https://www.cnbc.com/2026/09/24/car-loan-rates-may-rise-as-treasury-yields-climb.html",
+      "source": "CNBC",
+      "publishedAt": 1790271953000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    },
+    {
+      "id": "2026-09-25-04",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 59（温热）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 59,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "报道称美伊探讨分阶段重启霍尔木兹海峡，原油涨幅火速“腰斩”",
+      "newsUrl": "https://wallstreetcn.com/articles/3782499",
+      "source": "华尔街见闻",
+      "publishedAt": 1790270114000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    },
+    {
+      "id": "2026-09-25-05",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；4 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 58,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
+      "newsUrl": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+      "source": "CNBC",
+      "publishedAt": 1790277459000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    },
+    {
+      "id": "2026-09-25-06",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；52 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "8% mortgage rates are &#x2018;not an impossibility&#x2019; as the 30-year fixed rate surges",
+      "newsUrl": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790274540000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    },
+    {
+      "id": "2026-09-25-07",
+      "title": "人民币的另一面：那些被忽略的长期变量",
+      "reason": "热度 58（温热）；5 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "周四（9月24日）纽约尾盘，美元兑日元涨0.37%，报158.92日元，日内交投区间为157.80-159.04日元，美股早盘逼近9月2日顶部160.39日元。日线图上，9月8日跌至152.8...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3170590",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1790277367000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    },
+    {
+      "id": "2026-09-25-08",
+      "title": "油价异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 52（温热）；22 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 52,
+      "angle": "供需格局与价格弹性",
+      "keyword": "油价",
+      "newsTitle": "美国参议院否决限制特朗普对伊朗战争权限决议",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790276356000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    },
+    {
+      "id": "2026-09-25-09",
+      "title": "从国债聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "美国财政部20至30年期美债回购未达60亿美元上限",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1790273176000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    },
+    {
+      "id": "2026-09-25-10",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；28 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Senate narrowly votes down resolution calling for end to Iran war",
+      "newsUrl": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
+      "source": "CNBC",
+      "publishedAt": 1790275987000,
+      "firstSeenAt": "2026-09-24T19:21:09.281Z",
+      "lastSeenAt": "2026-09-24T19:21:09.281Z"
+    }
+  ]
+}
