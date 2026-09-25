@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-25T19:22:40.477Z",
+  "snapshots": [
+    "03:22"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-26-01",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 62（热门）；25 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 62,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储哈玛克：债券收益率上升受多种因素驱动",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1790362662000,
+      "firstSeenAt": "2026-09-25T19:22:40.477Z",
+      "lastSeenAt": "2026-09-25T19:22:40.477Z"
+    },
+    {
+      "id": "2026-09-26-02",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 62（热门）；27 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 62,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "欧洲央行副行长武伊契奇：经历多轮供给冲击后，不再像过去一样将核心通胀作为主要判断依据。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790362578000,
+      "firstSeenAt": "2026-09-25T19:22:40.477Z",
+      "lastSeenAt": "2026-09-25T19:22:40.477Z"
+    },
+    {
+      "id": "2026-09-26-03",
+      "title": "s&p的另一面：那些被忽略的长期变量",
+      "reason": "热度 61（热门）；19 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 61,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "S&P 500 rises, heads for winning week despite Treasury yield surge: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1790363041000,
+      "firstSeenAt": "2026-09-25T19:22:40.477Z",
+      "lastSeenAt": "2026-09-25T19:22:40.477Z"
+    },
+    {
+      "id": "2026-09-26-04",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 57（温热）；56 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 57,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
+      "newsUrl": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html",
+      "source": "CNBC",
+      "publishedAt": 1790360847000,
+      "firstSeenAt": "2026-09-25T19:22:40.477Z",
+      "lastSeenAt": "2026-09-25T19:22:40.477Z"
+    },
+    {
+      "id": "2026-09-26-05",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 56（温热）；51 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "国际原油期货结算价收跌超2%",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1790361117000,
+      "firstSeenAt": "2026-09-25T19:22:40.477Z",
+      "lastSeenAt": "2026-09-25T19:22:40.477Z"
+    },
+    {
+      "id": "2026-09-26-06",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 59（温热）；13 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 59,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元",
+      "newsUrl": "https://wallstreetcn.com/articles/3782555",
+      "source": "华尔街见闻",
+      "publishedAt": 1790363414000,
+      "firstSeenAt": "2026-09-25T19:22:40.477Z",
+      "lastSeenAt": "2026-09-25T19:22:40.477Z"
+    },
+    {
+      "id": "2026-09-26-07",
+      "title": "oil之后，哪些资产会被重新定价？",
+      "reason": "热度 56（温热）；37 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 56,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+      "newsUrl": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
+      "source": "CNBC",
+      "publishedAt": 1790361983000,
+      "firstSeenAt": "2026-09-25T19:22:40.477Z",
+      "lastSeenAt": "2026-09-25T19:22:40.477Z"
+    },
+    {
+      "id": "2026-09-26-08",
+      "title": "欧盟的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；24 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 49,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "欧盟能源专员：减少需求的措施包括禁止户外供暖、限制公共建筑温度。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790362761000,
+      "firstSeenAt": "2026-09-25T19:22:40.477Z",
+      "lastSeenAt": "2026-09-25T19:22:40.477Z"
+    },
+    {
+      "id": "2026-09-26-09",
+      "title": "一张图看懂天然气这波行情的驱动因子",
+      "reason": "热度 47（温热）；24 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 47,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "欧盟能源专员：任何调节能源价格的措施都应具有针对性，并避免增加天然气需求。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790362768000,
+      "firstSeenAt": "2026-09-25T19:22:40.477Z",
+      "lastSeenAt": "2026-09-25T19:22:40.477Z"
+    }
+  ]
+}
