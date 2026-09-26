@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-26T18:39:50.815Z",
+  "snapshots": [
+    "02:39"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-27-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 54（温热）；20 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 54,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "据华盛顿邮报：美俄联手剔除了全球AI武器公约中关于“人类监督”的条款。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790446817000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-26T18:39:50.815Z"
+    },
+    {
+      "id": "2026-09-27-02",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；42 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "乌克兰总统泽连斯基：明年，俄罗斯计划仅在喷气式无人机和巡飞弹的生产上就投入120亿美元。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790445499000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-26T18:39:50.815Z"
+    },
+    {
+      "id": "2026-09-27-03",
+      "title": "深聊丨自动驾驶之后，钱会往哪去？",
+      "reason": "热度 49（温热）；8 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "自动驾驶",
+      "newsTitle": "美媒：波音737 MAX新软件故障可能影响导航功能",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790447498000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-26T18:39:50.815Z"
+    },
+    {
+      "id": "2026-09-27-04",
+      "title": "从inflation聊起：普通投资者能学到什么",
+      "reason": "热度 41（温热）；46 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 41,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "newsUrl": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790445240000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-26T18:39:50.815Z"
+    },
+    {
+      "id": "2026-09-27-05",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 31（平静）；7 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 31,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "海外资金疯买美股！过去12个月净流入9420亿美元，创1985年以来纪录",
+      "newsUrl": "https://wallstreetcn.com/articles/3782588",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1790422140000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-26T18:39:50.815Z"
+    },
+    {
+      "id": "2026-09-27-06",
+      "title": "从sec聊起：普通投资者能学到什么",
+      "reason": "热度 35（平静）；1 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Social Security checks are projected to be cut by $540 a month in just six years",
+      "newsUrl": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790442900000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-26T18:39:50.815Z"
+    },
+    {
+      "id": "2026-09-27-07",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 34（平静）；21 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 34,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "据华尔街日报：美国联邦航空管理局（FAA）一位高级官员表示，该局正在调查一起软件异常情况，并评估其是否会导致不安全的飞行状况。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790446726000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-26T18:39:50.815Z"
+    },
+    {
+      "id": "2026-09-27-08",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 29（平静）；3 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 35,
+      "heat": 29,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Tax-free bond yields are in a sweet spot. Get in before it&#x2019;s too late.",
+      "newsUrl": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790437680000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-26T18:39:50.815Z"
+    }
+  ]
+}
