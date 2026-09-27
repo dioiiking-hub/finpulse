@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-28T01:27:21+08:00",
+ "asOf": "2026-09-28T04:49:37+08:00",
  "sources": [
   "Yahoo Finance"
  ],
@@ -395,17 +395,17 @@
    "source": "Yahoo Finance"
   },
   "usdcnh": {
-   "price": 6.7223,
+   "price": 6.7204,
    "changePct": 0.0,
    "spark": [
     6.72
    ],
-   "asOf": "2026-09-25",
+   "asOf": "2026-09-27",
    "source": "Yahoo Finance"
   },
   "btc": {
-   "price": 84420.1484,
-   "changePct": 0.0162,
+   "price": 84554.7422,
+   "changePct": 0.1757,
    "spark": [
     78245.81,
     77667.57,
@@ -436,7 +436,7 @@
     84379.06,
     84034.92,
     84406.45,
-    84420.15
+    84554.74
    ],
    "asOf": "2026-09-27",
    "source": "Yahoo Finance"
