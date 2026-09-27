@@ -1,0 +1,119 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-27T19:07:18.438Z",
+  "snapshots": [
+    "03:07"
+  ],
+  "topics": [
+    {
+      "id": "2026-09-28-01",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 56（温热）；50 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储加息预期还能走多远？国际现货黄金本周或迎关键利好",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790533066000,
+      "firstSeenAt": "2026-09-27T19:07:18.438Z",
+      "lastSeenAt": "2026-09-27T19:07:18.438Z"
+    },
+    {
+      "id": "2026-09-28-02",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；24 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Nor'easter delays hundreds of flights, airlines waive change fees",
+      "newsUrl": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "source": "CNBC",
+      "publishedAt": 1790534601000,
+      "firstSeenAt": "2026-09-27T19:07:18.438Z",
+      "lastSeenAt": "2026-09-27T19:07:18.438Z"
+    },
+    {
+      "id": "2026-09-28-03",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 31（平静）；15 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 31,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "涨价的代价！麦当劳股价半年大跌30%，将创2002年以来最差表现",
+      "newsUrl": "https://wallstreetcn.com/articles/3782597",
+      "source": "华尔街见闻",
+      "publishedAt": 1790482113000,
+      "firstSeenAt": "2026-09-27T19:07:18.438Z",
+      "lastSeenAt": "2026-09-27T19:07:18.438Z"
+    },
+    {
+      "id": "2026-09-28-04",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 35（平静）；18 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "以色列媒体报道称，以色列总理内塔尼亚胡今天飞往阿联酋，会见该国总统。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790535002000,
+      "firstSeenAt": "2026-09-27T19:07:18.438Z",
+      "lastSeenAt": "2026-09-27T19:07:18.438Z"
+    },
+    {
+      "id": "2026-09-28-05",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 30（平静）；8 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 30,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
+      "newsUrl": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790506800000,
+      "firstSeenAt": "2026-09-27T19:07:18.438Z",
+      "lastSeenAt": "2026-09-27T19:07:18.438Z"
+    }
+  ]
+}
