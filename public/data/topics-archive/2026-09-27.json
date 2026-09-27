@@ -1,9 +1,10 @@
 {
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T06:45:35.722Z",
+  "generatedAt": "2026-09-27T15:12:59.322Z",
   "snapshots": [
     "02:39",
-    "14:45"
+    "14:45",
+    "23:12"
   ],
   "topics": [
     {
@@ -27,7 +28,7 @@
       "source": "金十数据",
       "publishedAt": 1790489167000,
       "firstSeenAt": "2026-09-26T18:39:50.815Z",
-      "lastSeenAt": "2026-09-27T06:45:35.722Z"
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
     },
     {
       "id": "2026-09-27-02",
@@ -50,10 +51,33 @@
       "source": "华尔街见闻",
       "publishedAt": 1790488216000,
       "firstSeenAt": "2026-09-27T06:45:35.722Z",
-      "lastSeenAt": "2026-09-27T06:45:35.722Z"
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
     },
     {
       "id": "2026-09-27-03",
+      "title": "深聊丨算力之后，钱会往哪去？",
+      "reason": "热度 66（热门）；18 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 66,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "算力",
+      "newsTitle": "金十数据整理：周日重要消息汇总",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790520921000,
+      "firstSeenAt": "2026-09-27T15:12:59.322Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-04",
       "title": "美元的另一面：那些被忽略的长期变量",
       "reason": "热度 50（温热）；42 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -75,7 +99,73 @@
       "lastSeenAt": "2026-09-27T06:45:35.722Z"
     },
     {
-      "id": "2026-09-27-04",
+      "id": "2026-09-27-05",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 51（温热）；18 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "利比亚国家石油公司表示，扎维亚炼油厂的首个炼油单元和通过主要的沙拉拉-扎维亚管道的原油泵送在阀门7重新开启后已恢复运行。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790520939000,
+      "firstSeenAt": "2026-09-27T06:45:35.722Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-06",
+      "title": "芯片的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "芯片",
+      "newsTitle": "【公告全知道】芯片+先进封装+存储芯片+核电！公司引线框架通过国内主要半导体封装企业认证",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1790518300000,
+      "firstSeenAt": "2026-09-27T15:12:59.322Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-07",
+      "title": "从制裁聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；5 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "瑞士公投否决更严格中立原则",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790521720000,
+      "firstSeenAt": "2026-09-27T15:12:59.322Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-08",
       "title": "深聊丨自动驾驶之后，钱会往哪去？",
       "reason": "热度 49（温热）；8 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
       "category": "科技AI",
@@ -97,7 +187,7 @@
       "lastSeenAt": "2026-09-26T18:39:50.815Z"
     },
     {
-      "id": "2026-09-27-05",
+      "id": "2026-09-27-09",
       "title": "地缘的另一面：那些被忽略的长期变量",
       "reason": "热度 48（温热）；12 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
       "category": "监管地缘",
@@ -119,7 +209,73 @@
       "lastSeenAt": "2026-09-27T06:45:35.722Z"
     },
     {
-      "id": "2026-09-27-06",
+      "id": "2026-09-27-10",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；15 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "在多年大举买入之后，美股散户交易者似乎正转向观望",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-inithuvy0010360.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1790521095000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-11",
+      "title": "meta的另一面：那些被忽略的长期变量",
+      "reason": "热度 44（温热）；40 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 44,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+      "newsUrl": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+      "source": "CNBC",
+      "publishedAt": 1790519602000,
+      "firstSeenAt": "2026-09-27T15:12:59.322Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-12",
+      "title": "深聊丨通胀之后，钱会往哪去？",
+      "reason": "热度 37（平静）；1 小时内事件，仍在发酵窗口；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "美国财长贝森特：核心通胀处于休眠状态。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3171076",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1790518266000,
+      "firstSeenAt": "2026-09-27T15:12:59.322Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-13",
       "title": "深聊丨宏观政策之后，钱会往哪去？",
       "reason": "热度 47（温热）；19 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -138,10 +294,32 @@
       "source": "金十数据",
       "publishedAt": 1790490436000,
       "firstSeenAt": "2026-09-26T18:39:50.815Z",
-      "lastSeenAt": "2026-09-27T06:45:35.722Z"
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
     },
     {
-      "id": "2026-09-27-07",
+      "id": "2026-09-27-14",
+      "title": "深聊丨sec之后，钱会往哪去？",
+      "reason": "热度 47（温热）；13 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "I&#x2019;m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "newsUrl": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790521200000,
+      "firstSeenAt": "2026-09-26T18:39:50.815Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-15",
       "title": "从监管聊起：普通投资者能学到什么",
       "reason": "热度 46（温热）；22 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
       "category": "监管地缘",
@@ -163,7 +341,51 @@
       "lastSeenAt": "2026-09-27T06:45:35.722Z"
     },
     {
-      "id": "2026-09-27-08",
+      "id": "2026-09-27-16",
+      "title": "从s&p聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；1 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+      "newsUrl": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790517600000,
+      "firstSeenAt": "2026-09-27T15:12:59.322Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-17",
+      "title": "fed的另一面：那些被忽略的长期变量",
+      "reason": "热度 39（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 39,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Look closer, and Wall Street&#x2019;s rally is showing cracks",
+      "newsUrl": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790514000000,
+      "firstSeenAt": "2026-09-27T15:12:59.322Z",
+      "lastSeenAt": "2026-09-27T15:12:59.322Z"
+    },
+    {
+      "id": "2026-09-27-18",
       "title": "从inflation聊起：普通投资者能学到什么",
       "reason": "热度 41（温热）；46 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -185,73 +407,7 @@
       "lastSeenAt": "2026-09-26T18:39:50.815Z"
     },
     {
-      "id": "2026-09-27-09",
-      "title": "国债的另一面：那些被忽略的长期变量",
-      "reason": "热度 31（平静）；7 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
-      "category": "宏观政策",
-      "region": "美国",
-      "platforms": [
-        "播客",
-        "公众号深度"
-      ],
-      "grade": "B",
-      "score": 43,
-      "heat": 31,
-      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
-      "keyword": "国债",
-      "newsTitle": "海外资金疯买美股！过去12个月净流入9420亿美元，创1985年以来纪录",
-      "newsUrl": "https://wallstreetcn.com/articles/3782588",
-      "source": "华尔街见闻新闻",
-      "publishedAt": 1790422140000,
-      "firstSeenAt": "2026-09-26T18:39:50.815Z",
-      "lastSeenAt": "2026-09-26T18:39:50.815Z"
-    },
-    {
-      "id": "2026-09-27-10",
-      "title": "原油之后，哪些资产会被重新定价？",
-      "reason": "热度 36（平静）；35 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
-      "category": "大宗商品",
-      "region": "美国",
-      "platforms": [
-        "短视频快评",
-        "播客"
-      ],
-      "grade": "B",
-      "score": 43,
-      "heat": 36,
-      "angle": "供需格局与价格弹性",
-      "keyword": "原油",
-      "newsTitle": "阿曼称将继续努力保障霍尔木兹海峡通行安全",
-      "newsUrl": "",
-      "source": "财联社电报",
-      "publishedAt": 1790489482000,
-      "firstSeenAt": "2026-09-27T06:45:35.722Z",
-      "lastSeenAt": "2026-09-27T06:45:35.722Z"
-    },
-    {
-      "id": "2026-09-27-11",
-      "title": "从sec聊起：普通投资者能学到什么",
-      "reason": "热度 35（平静）；1 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
-      "category": "监管地缘",
-      "region": "美国",
-      "platforms": [
-        "播客",
-        "公众号深度"
-      ],
-      "grade": "B",
-      "score": 40,
-      "heat": 35,
-      "angle": "政策博弈的影响矩阵",
-      "keyword": "sec",
-      "newsTitle": "Social Security checks are projected to be cut by $540 a month in just six years",
-      "newsUrl": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "publishedAt": 1790442900000,
-      "firstSeenAt": "2026-09-26T18:39:50.815Z",
-      "lastSeenAt": "2026-09-26T18:39:50.815Z"
-    },
-    {
-      "id": "2026-09-27-12",
+      "id": "2026-09-27-19",
       "title": "财政的另一面：那些被忽略的长期变量",
       "reason": "热度 31（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -273,7 +429,7 @@
       "lastSeenAt": "2026-09-27T06:45:35.722Z"
     },
     {
-      "id": "2026-09-27-13",
+      "id": "2026-09-27-20",
       "title": "深聊丨rate之后，钱会往哪去？",
       "reason": "热度 30（平静）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
