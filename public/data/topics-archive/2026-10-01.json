@@ -1,0 +1,297 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-09-30T16:27:20.236Z",
+  "snapshots": [
+    "00:27"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-01-01",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；20 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 67,
+      "heat": 63,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "CoreWeave 希望借新产品摆脱“新云”标签",
+      "newsUrl": "https://wallstreetcn.com/livenews/3173058",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1790784444000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-02",
+      "title": "深聊丨利率之后，钱会往哪去？",
+      "reason": "热度 69（热门）；4 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 66,
+      "heat": 69,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "从智利到拉脱维亚：瑞士法郎债务吸引首次发行人",
+      "newsUrl": "https://wallstreetcn.com/livenews/3173067",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1790785430000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-03",
+      "title": "从通胀聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；4 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "意大利总理梅洛尼：意大利希望欧盟给予成员国在预算规则上“额外灵活性”，以考虑因能源成本导致的通胀影响。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790785449000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-04",
+      "title": "从欧盟聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；7 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "意大利总理梅洛尼：欧盟关于修订碳排放交易体系（ETS）的提案是不充分的。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790785242000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-05",
+      "title": "监管的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；5 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "监管",
+      "newsTitle": "据相关文件：巴西矿业监管机构因存在“迫在眉睫的风险”，暂停西格玛锂业部分采矿作业，但未披露具体风险原因。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790785374000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-06",
+      "title": "深聊丨财政之后，钱会往哪去？",
+      "reason": "热度 51（温热）；15 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "英国首相伯纳姆：我们将在财政状况充满挑战的情况下尽我们所能。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790784736000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-07",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；40 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "财联社9月30日电，欧洲央行执委施纳贝尔称未来数月通胀图景将更清晰。",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1790783256000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-08",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；43 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "日本电产因40亿美元资产减值陷入亏损",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initrshp6670143.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1790783062000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-09",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；17 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 46,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Saving your retirement could come down to this simple writing exercise",
+      "newsUrl": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790784660000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-10",
+      "title": "深聊丨tech之后，钱会往哪去？",
+      "reason": "热度 49（温热）；25 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "These two chip stocks could join the elite $2 trillion tech giant club, says top analyst",
+      "newsUrl": "https://www.cnbc.com/2026/09/30/these-chip-stocks-could-join-the-2-trillion-tech-giant-club-says-top-analyst.html",
+      "source": "CNBC",
+      "publishedAt": 1790784187000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-11",
+      "title": "从国债聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；39 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "财联社9月30日电，法国10年期国债收益率上升6个基点，达到4.87%，为2002年3月以来最高水平。",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1790783320000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-12",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 48（温热）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "newsUrl": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "source": "CNBC",
+      "publishedAt": 1790781297000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    },
+    {
+      "id": "2026-10-01-13",
+      "title": "从nvidia聊起：普通投资者能学到什么",
+      "reason": "热度 44（温热）；40 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 44,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron",
+      "newsUrl": "https://www.cnbc.com/2026/09/30/nvidia-approaches-a-breakout-level-plus-what-we-want-to-see-from-micron.html",
+      "source": "CNBC",
+      "publishedAt": 1790783262000,
+      "firstSeenAt": "2026-09-30T16:27:20.236Z",
+      "lastSeenAt": "2026-09-30T16:27:20.236Z"
+    }
+  ]
+}
