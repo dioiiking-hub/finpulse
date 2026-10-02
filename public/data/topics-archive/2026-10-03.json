@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-02T16:18:53.199Z",
+  "snapshots": [
+    "00:18"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-03-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 73（热门）；21 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步微博快讯。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 72,
+      "heat": 73,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "七国集团将释放多达1亿桶柴油和石油储备以遏制价格上涨",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-10-02/doc-initwent4411943.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1790956668000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    },
+    {
+      "id": "2026-10-03-02",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 67（热门）；9 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 65,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "加拿大皇家银行延长美联储紧缩周期时间表，预计3月前将加息两次",
+      "newsUrl": "https://wallstreetcn.com/livenews/3173752",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1790957400000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    },
+    {
+      "id": "2026-10-03-03",
+      "title": "黄金异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 65（热门）；23 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 65,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "现货白银日内跌幅扩大至2%，现报59.76美元/盎司。现货黄金同步走低，现跌1.12%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790956535000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    },
+    {
+      "id": "2026-10-03-04",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；44 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 58,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元",
+      "newsUrl": "https://wallstreetcn.com/articles/3782942",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1790955329000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    },
+    {
+      "id": "2026-10-03-05",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；10 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "谷歌(GOOG.O)将入门款Pixel 10A手机价格上调100美元，至599美元。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790957323000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    },
+    {
+      "id": "2026-10-03-06",
+      "title": "深聊丨非农之后，钱会往哪去？",
+      "reason": "热度 56（温热）；54 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "非农",
+      "newsTitle": "美国就业增长逊于预期 企业招聘保持谨慎",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-10-02/doc-initwenv1174215.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1790954675000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    },
+    {
+      "id": "2026-10-03-07",
+      "title": "一张图看懂油价这波行情的驱动因子",
+      "reason": "热度 52（温热）；21 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 52,
+      "angle": "供需格局与价格弹性",
+      "keyword": "油价",
+      "newsTitle": "国际能源署署长比罗尔：油价开始下跌。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790956672000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    },
+    {
+      "id": "2026-10-03-08",
+      "title": "深聊丨rate之后，钱会往哪去？",
+      "reason": "热度 56（温热）；42 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here&#x2019;s how it worked out.",
+      "newsUrl": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1790955420000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    },
+    {
+      "id": "2026-10-03-09",
+      "title": "深聊丨nvidia之后，钱会往哪去？",
+      "reason": "热度 53（温热）；47 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "Nvidia breaks through to new record highs. Plus, more good news for Boeing",
+      "newsUrl": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html",
+      "source": "CNBC",
+      "publishedAt": 1790955111000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    },
+    {
+      "id": "2026-10-03-10",
+      "title": "从谷歌聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；22 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "谷歌",
+      "newsTitle": "谷歌：Spanner Queues正式全面开放，支持智能体工作流中的事务性消息传递。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1790956636000,
+      "firstSeenAt": "2026-10-02T16:18:53.199Z",
+      "lastSeenAt": "2026-10-02T16:18:53.199Z"
+    }
+  ]
+}
