@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-03T18:45:02.031Z",
+  "snapshots": [
+    "02:45"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-04-01",
+      "title": "深聊丨央行之后，钱会往哪去？",
+      "reason": "热度 74（热门）；33 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 70,
+      "heat": 74,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "伊朗里亚尔续创新低，据称央行已出手干预汇市",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791051149000,
+      "firstSeenAt": "2026-10-03T18:45:02.031Z",
+      "lastSeenAt": "2026-10-03T18:45:02.031Z"
+    },
+    {
+      "id": "2026-10-04-02",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 38（平静）；4 小时内事件，仍在发酵窗口；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 38,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
+      "newsUrl": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
+      "source": "CNBC",
+      "publishedAt": 1791039970000,
+      "firstSeenAt": "2026-10-03T18:45:02.031Z",
+      "lastSeenAt": "2026-10-03T18:45:02.031Z"
+    },
+    {
+      "id": "2026-10-04-03",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；48 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
+      "newsUrl": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+      "source": "CNBC",
+      "publishedAt": 1791050260000,
+      "firstSeenAt": "2026-10-03T18:45:02.031Z",
+      "lastSeenAt": "2026-10-03T18:45:02.031Z"
+    },
+    {
+      "id": "2026-10-04-04",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 36（平静）；12 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "特朗普：刚才一桌非常有名望的人士告诉我，他们特别讨厌在强制时间调整后晚上回家，因为那时天黑得伸手不见五指。真是令人沮丧！其中一位先生说：“我就是讨厌摸...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791052381000,
+      "firstSeenAt": "2026-10-03T18:45:02.031Z",
+      "lastSeenAt": "2026-10-03T18:45:02.031Z"
+    },
+    {
+      "id": "2026-10-04-05",
+      "title": "深聊丨苹果之后，钱会往哪去？",
+      "reason": "热度 34（平静）；2 小时内事件，仍在发酵窗口；属「美股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 34,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "苹果",
+      "newsTitle": "苹果将加强Mac隐私控制，警告AI智能体带来的风险上升",
+      "newsUrl": "https://wallstreetcn.com/livenews/3173902",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1791047304000,
+      "firstSeenAt": "2026-10-03T18:45:02.031Z",
+      "lastSeenAt": "2026-10-03T18:45:02.031Z"
+    },
+    {
+      "id": "2026-10-04-06",
+      "title": "从inflation聊起：普通投资者能学到什么",
+      "reason": "热度 33（平静）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 38,
+      "heat": 33,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "Switching jobs to get higher pay works best in these industries",
+      "newsUrl": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1791045720000,
+      "firstSeenAt": "2026-10-03T18:45:02.031Z",
+      "lastSeenAt": "2026-10-03T18:45:02.031Z"
+    },
+    {
+      "id": "2026-10-04-07",
+      "title": "美联储的另一面：那些被忽略的长期变量",
+      "reason": "热度 32（平静）；9 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 37,
+      "heat": 32,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "AI正在让美债崩溃 即便最后成功也将被征收重税",
+      "newsUrl": "https://wallstreetcn.com/member/articles/3782772",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1791021098000,
+      "firstSeenAt": "2026-10-03T18:45:02.031Z",
+      "lastSeenAt": "2026-10-03T18:45:02.031Z"
+    },
+    {
+      "id": "2026-10-04-08",
+      "title": "深聊丨sec之后，钱会往哪去？",
+      "reason": "热度 28（平静）；4 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 35,
+      "heat": 28,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "&#x2018;I don&#x2019;t want to die on the sales floor&#x2019;: I&#x2019;m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "newsUrl": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1791039600000,
+      "firstSeenAt": "2026-10-03T18:45:02.031Z",
+      "lastSeenAt": "2026-10-03T18:45:02.031Z"
+    }
+  ]
+}
