@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-05T19:20:31.986Z",
+  "snapshots": [
+    "03:20"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-06-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 73（热门）；37 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 74,
+      "heat": 73,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Nasdaq rises to fresh record high led by tech; traders eye oil and yields: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1791225857000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-02",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 62（热门）；34 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 62,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "布伦特原油期货结算价为每桶100.32美元，下跌1.93美元，跌幅1.89%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791225992000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-03",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 51（温热）；37 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国原油期货结算价为每桶89.43美元，下跌1.68美元，跌幅1.84%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791225859000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-04",
+      "title": "从微软聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；41 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 50,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "微软",
+      "newsTitle": "Meta和微软设法减少员工对Claude的使用",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniufhfv6077194.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791225574000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-05",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；6 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "路透社/益普索调查显示，美国总统特朗普的支持率维持在32%的历史低点。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791227722000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-06",
+      "title": "深聊丨rate之后，钱会往哪去？",
+      "reason": "热度 50（温热）；40 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Starbucks recovery plan is working. Here's how Mike Khouw says to trade the coffee giant",
+      "newsUrl": "https://www.cnbc.com/2026/10/05/starbucks-recovery-plan-is-working-heres-how-mike-khouw-says-to-trade-the-coffee-giant.html",
+      "source": "CNBC",
+      "publishedAt": 1791225635000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-07",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 45（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Saudi Aramco&#x2019;s CEO may be too downbeat about the road to restocking global oil supplies",
+      "newsUrl": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1791222840000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-08",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 45（温热）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "这三张图表，有望重新点燃投资者对股市的信心",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv4087870.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791220302000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-09",
+      "title": "一张图看懂油价这波行情的驱动因子",
+      "reason": "热度 44（温热）；12 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 44,
+      "angle": "供需格局与价格弹性",
+      "keyword": "油价",
+      "newsTitle": "特朗普此前曾考虑实施柴油出口禁令，现已放弃该方案",
+      "newsUrl": "https://wallstreetcn.com/livenews/3174222",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1791227344000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-10",
+      "title": "从国债聊起：普通投资者能学到什么",
+      "reason": "热度 42（温热）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "财联社10月6日电，美国10年期国债收益率最新上涨6.59个基点，报5.343%，此前一度触及5.3493%，刷新24年高点。",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1791224361000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    },
+    {
+      "id": "2026-10-06-11",
+      "title": "央行的另一面：那些被忽略的长期变量",
+      "reason": "热度 42（温热）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "法国央行行长就利率发出警告",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6178713.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791220470000,
+      "firstSeenAt": "2026-10-05T19:20:31.986Z",
+      "lastSeenAt": "2026-10-05T19:20:31.986Z"
+    }
+  ]
+}
