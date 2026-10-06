@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-06T16:52:21.358Z",
+  "snapshots": [
+    "00:52"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-07-01",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 59（温热）；37 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 59,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "财联社10月7日电，美国西南航空与OpenAI和亚马逊云科技（AWS）展开合作，美国西南航空上线ChatGPT插件，可直接在ChatGPT内查询、选购西南航空航班。",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1791303331000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-02",
+      "title": "央行的另一面：那些被忽略的长期变量",
+      "reason": "热度 58（温热）；4 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 58,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "央行官员谈黄金投资，理由从分散风险到数字资产策略不一而足",
+      "newsUrl": "https://wallstreetcn.com/livenews/3174557",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1791305306000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-03",
+      "title": "深聊丨s&p之后，钱会往哪去？",
+      "reason": "热度 61（热门）；16 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 61,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "S&P 500 rises to record high as oil and yields move lower: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1791304588000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-04",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 57（温热）；50 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 57,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "美国政府：将明年布油价格预期上调10美元",
+      "newsUrl": "https://wallstreetcn.com/articles/3783079",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1791302589000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-05",
+      "title": "深聊丨国债之后，钱会往哪去？",
+      "reason": "热度 59（温热）；39 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 59,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "瑞银首席执行官警告：局势不断恶化，法国债务危机需出台“强硬举措”",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuiewv8706708.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791303209000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-06",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；31 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国能源信息署（EIA）：预计2026年天然气价格为3.61美元/桶，此前预期为3.56美元/桶。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791303717000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-07",
+      "title": "加息的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "日本央行佐藤绫野告诉共同社：赞同逐步调整利率 将关注消费和收入",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-10-06/doc-iniuiewy6695681.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791301531000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-08",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储鲍曼称央行将很快考虑提高银行监管的资产规模门槛",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-10-06/doc-iniuiewv8693100.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791301117000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-09",
+      "title": "从美股聊起：普通投资者能学到什么",
+      "reason": "热度 59（温热）；22 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 59,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "金十图示：2026年10月06日（周二）热门中概股行情一览（美股盘中）",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791304227000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-10",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；8 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
+      "newsUrl": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
+      "source": "CNBC",
+      "publishedAt": 1791305062000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    },
+    {
+      "id": "2026-10-07-11",
+      "title": "oil之后，哪些资产会被重新定价？",
+      "reason": "热度 45（温热）；34 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+      "newsUrl": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+      "source": "CNBC",
+      "publishedAt": 1791303550000,
+      "firstSeenAt": "2026-10-06T16:52:21.358Z",
+      "lastSeenAt": "2026-10-06T16:52:21.358Z"
+    }
+  ]
+}
