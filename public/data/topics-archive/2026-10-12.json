@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-11T16:22:49.057Z",
+  "snapshots": [
+    "00:22"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-12-01",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 49（温热）；23 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "今日重点关注的财经数据与事件：2026年10月12日 周一",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791734400000,
+      "firstSeenAt": "2026-10-11T16:22:49.057Z",
+      "lastSeenAt": "2026-10-11T16:22:49.057Z"
+    },
+    {
+      "id": "2026-10-12-02",
+      "title": "一张图看懂天然气这波行情的驱动因子",
+      "reason": "热度 48（温热）；18 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "胡塞武装：过去24小时对沙特发动四轮袭击 打击机场和能源设施",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791734715000,
+      "firstSeenAt": "2026-10-11T16:22:49.057Z",
+      "lastSeenAt": "2026-10-11T16:22:49.057Z"
+    },
+    {
+      "id": "2026-10-12-03",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 41（温热）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 41,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "newsUrl": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "publishedAt": 1791729490000,
+      "firstSeenAt": "2026-10-11T16:22:49.057Z",
+      "lastSeenAt": "2026-10-11T16:22:49.057Z"
+    },
+    {
+      "id": "2026-10-12-04",
+      "title": "欧盟的另一面：那些被忽略的长期变量",
+      "reason": "热度 43（温热）；46 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "欧盟委员会主席冯德莱恩：本周的欧洲理事会会议将把乌克兰置于核心位置，我们将讨论乌克兰未来一年的资金需求，以及如何动员新的全球支持。本周，欧盟还将进一步...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791733004000,
+      "firstSeenAt": "2026-10-11T16:22:49.057Z",
+      "lastSeenAt": "2026-10-11T16:22:49.057Z"
+    },
+    {
+      "id": "2026-10-12-05",
+      "title": "深聊丨tech之后，钱会往哪去？",
+      "reason": "热度 32（平静）；3 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 32,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
+      "newsUrl": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
+      "source": "CNBC",
+      "publishedAt": 1791723244000,
+      "firstSeenAt": "2026-10-11T16:22:49.057Z",
+      "lastSeenAt": "2026-10-11T16:22:49.057Z"
+    },
+    {
+      "id": "2026-10-12-06",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 36（平静）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "法国之后，下一个是意大利？高盛警示后者债券风险",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-11/doc-iniuwkhc7335003.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791729231000,
+      "firstSeenAt": "2026-10-11T16:22:49.057Z",
+      "lastSeenAt": "2026-10-11T16:22:49.057Z"
+    },
+    {
+      "id": "2026-10-12-07",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 34（平静）；22 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 34,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "也门胡塞武装发表声明，表示对沙特利雅得机场的袭击负责。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791734460000,
+      "firstSeenAt": "2026-10-11T16:22:49.057Z",
+      "lastSeenAt": "2026-10-11T16:22:49.057Z"
+    },
+    {
+      "id": "2026-10-12-08",
+      "title": "earnings的另一面：那些被忽略的长期变量",
+      "reason": "热度 29（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 38,
+      "heat": 29,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "We&#x2019;re about to get a huge read on whether earnings can keep propping up the stock market",
+      "newsUrl": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1791727200000,
+      "firstSeenAt": "2026-10-11T16:22:49.057Z",
+      "lastSeenAt": "2026-10-11T16:22:49.057Z"
+    },
+    {
+      "id": "2026-10-12-09",
+      "title": "监管的另一面：那些被忽略的长期变量",
+      "reason": "热度 27（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 37,
+      "heat": 27,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "监管",
+      "newsTitle": "抗生素残留超标37.5倍！监管出手，双汇被罚没1.29亿，董事长扛了3764万！股民：开盘计提一个跌停吗？",
+      "newsUrl": "https://finance.sina.com.cn/stock/s/2026-10-11/doc-iniuwkfx5626771.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791727568000,
+      "firstSeenAt": "2026-10-11T16:22:49.057Z",
+      "lastSeenAt": "2026-10-11T16:22:49.057Z"
+    }
+  ]
+}
