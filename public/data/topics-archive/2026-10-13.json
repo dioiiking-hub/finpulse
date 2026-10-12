@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-12T19:54:10.585Z",
+  "snapshots": [
+    "03:54"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-13-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 80（爆发）；13 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 77,
+      "heat": 80,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "国际油价12日上涨",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791834068000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-02",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 54（温热）；21 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 54,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "英特尔(INTC.O)：加速推进面向智能体AI时代的开放基础设施。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791833612000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-03",
+      "title": "深聊丨meta之后，钱会往哪去？",
+      "reason": "热度 53（温热）；11 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Meta is back on the AI leaderboard with its new family of Wonder models",
+      "newsUrl": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1791834180000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-04",
+      "title": "从芯片聊起：普通投资者能学到什么",
+      "reason": "热度 55（温热）；7 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 55,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "芯片",
+      "newsTitle": "美国麻省理工学院就数据中心计算芯片安全技术起诉亚马逊。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3177459",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1791834463000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-05",
+      "title": "人民币的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；30 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "周一（10月12日）纽约尾盘，美元兑日元涨0.23%，报158.68日元，日内交投区间为158.08-158.75日元，临近纽约中午时逼近9月24日顶部159.04日元、9月2日最高位160.3...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3177451",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1791833049000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-06",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 49（温热）；35 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美元指数涨约0.4%，创去年4月份以来新高",
+      "newsUrl": "https://wallstreetcn.com/livenews/3177449",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1791832743000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-07",
+      "title": "从财政聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；14 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "法国成全球债市抛售“重灾区”，财政与政治脆弱性放大冲击",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791834036000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-08",
+      "title": "央行的另一面：那些被忽略的长期变量",
+      "reason": "热度 47（温热）；43 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "印度央行：外汇风险保证金（FERR）需以现金形式存入并每日维持在印度央行账户中，直至相关衍生品合约到期终止。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1791832270000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-09",
+      "title": "深聊丨国债之后，钱会往哪去？",
+      "reason": "热度 45（温热）；57 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "美国要取消20年期国债？华尔街热议贝森特是否再有惊人之举",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuzeax8251618.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791831433000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-10",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 49（温热）；3 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "newsUrl": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "source": "CNBC",
+      "publishedAt": 1791825321000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-11",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 41（温热）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 41,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储哈马克：随着“通胀心态”形成的风险上升，可能需要更高利率",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxuw0473922.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791825182000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-12",
+      "title": "从利率聊起：普通投资者能学到什么",
+      "reason": "热度 44（温热）；56 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 44,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "美国9月二手房签约量创近十二年最低 房贷利率飙升重挫购房需求",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuzeav7195249.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1791831491000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    },
+    {
+      "id": "2026-10-13-13",
+      "title": "一张图看懂oil这波行情的驱动因子",
+      "reason": "热度 38（平静）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 38,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Trump&#x2019;s &#x2018;energy ceasefire&#x2019; collides with real-world problems of dwindling fuel supplies",
+      "newsUrl": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1791830160000,
+      "firstSeenAt": "2026-10-12T19:54:10.585Z",
+      "lastSeenAt": "2026-10-12T19:54:10.585Z"
+    }
+  ]
+}
