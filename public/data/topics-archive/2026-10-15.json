@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-14T19:32:14.058Z",
+  "snapshots": [
+    "03:32"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-15-01",
+      "title": "深聊丨cpi之后，钱会往哪去？",
+      "reason": "热度 77（热门）；9 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 77,
+      "heat": 77,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "cpi",
+      "newsTitle": "美元指数在美国CPI通胀数据发布后涨约0.4%，美股早盘曾创去年4月以来新高",
+      "newsUrl": "https://wallstreetcn.com/livenews/3178885",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792005828000,
+      "firstSeenAt": "2026-10-14T19:32:14.058Z",
+      "lastSeenAt": "2026-10-14T19:32:14.058Z"
+    },
+    {
+      "id": "2026-10-15-02",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 77（热门）；21 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 77,
+      "heat": 77,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储古尔斯比：9月通胀令人失望 但加息前需更多数据",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792005123000,
+      "firstSeenAt": "2026-10-14T19:32:14.058Z",
+      "lastSeenAt": "2026-10-14T19:32:14.058Z"
+    },
+    {
+      "id": "2026-10-15-03",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 62（热门）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 62,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+      "newsUrl": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792002420000,
+      "firstSeenAt": "2026-10-14T19:32:14.058Z",
+      "lastSeenAt": "2026-10-14T19:32:14.058Z"
+    },
+    {
+      "id": "2026-10-15-04",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 56（温热）；11 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 56,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "newsUrl": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "source": "CNBC",
+      "publishedAt": 1792005720000,
+      "firstSeenAt": "2026-10-14T19:32:14.058Z",
+      "lastSeenAt": "2026-10-14T19:32:14.058Z"
+    },
+    {
+      "id": "2026-10-15-05",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；25 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "纽约联储：计划于10月15日至11月13日期间开展约146亿美元的再投资购买操作；10月15日至11月13日期间不计划开展准备金管理购买操作。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792004862000,
+      "firstSeenAt": "2026-10-14T19:32:14.058Z",
+      "lastSeenAt": "2026-10-14T19:32:14.058Z"
+    },
+    {
+      "id": "2026-10-15-06",
+      "title": "人民币的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；32 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "在岸人民币兑美元（CNY）北京时间03:00收报6.6978元，较周二夜盘收盘跌50点。成交量330.37亿美元。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3178878",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792004460000,
+      "firstSeenAt": "2026-10-14T19:32:14.058Z",
+      "lastSeenAt": "2026-10-14T19:32:14.058Z"
+    },
+    {
+      "id": "2026-10-15-07",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 48（温热）；1 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "财联社10月15日电，WTI原油期货结算价为95.09美元/桶，上涨95美分，涨幅1.01%。布伦特原油期货结算价为106.06美元/桶，上涨37美分，涨幅0.35%。",
+      "newsUrl": "",
+      "source": "财联社电报",
+      "publishedAt": 1792002694000,
+      "firstSeenAt": "2026-10-14T19:32:14.058Z",
+      "lastSeenAt": "2026-10-14T19:32:14.058Z"
+    }
+  ]
+}
