@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-15T19:17:08.203Z",
+  "snapshots": [
+    "03:17"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-16-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 81（爆发）；10 分钟内新鲜事件，时效性强；7 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 80,
+      "heat": 81,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+      "newsUrl": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "source": "CNBC",
+      "publishedAt": 1792091251000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-02",
+      "title": "原油之后，哪些资产会被重新定价？",
+      "reason": "热度 64（热门）；26 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 66,
+      "heat": 64,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "布伦特原油期货结算价为每桶105.92美元，下跌14美分，跌幅0.13%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792090296000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-03",
+      "title": "人民币的另一面：那些被忽略的长期变量",
+      "reason": "热度 55（温热）；16 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 55,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "在岸人民币兑美元（CNY）北京时间03:00收报6.6914元，较周三夜盘收盘涨64点。成交量317.45亿美元。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3179668",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792090865000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-04",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；34 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "Anthropic要上市 2万亿的估值很可能要打折",
+      "newsUrl": "https://wallstreetcn.com/member/articles/3783725",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1792089818000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-05",
+      "title": "深聊丨利率之后，钱会往哪去？",
+      "reason": "热度 51（温热）；33 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "半导体周期到头了吗？市场看到了你还没看到的东西",
+      "newsUrl": "https://wallstreetcn.com/member/articles/3783729",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1792089853000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-06",
+      "title": "从苹果聊起：普通投资者能学到什么",
+      "reason": "热度 57（温热）；1 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 57,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "苹果",
+      "newsTitle": "Meta发布8160亿参数“美国最强开放权重模型”，联手苹果让大模型跑上Mac，最强模型仍闭源",
+      "newsUrl": "https://wallstreetcn.com/articles/3783726",
+      "source": "华尔街见闻",
+      "publishedAt": 1792087947000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-07",
+      "title": "深聊丨欧盟之后，钱会往哪去？",
+      "reason": "热度 48（温热）；53 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 48,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "默茨反对将欧盟冻结的俄资产移交美方控制",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792088662000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-08",
+      "title": "tech的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；52 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
+      "newsUrl": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792088700000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-09",
+      "title": "一张图看懂黄金这波行情的驱动因子",
+      "reason": "热度 51（温热）；47 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 51,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "上海黄金交易所黄金T+D 10月15日（周四）晚盘收盘上涨0.66%报895.43元/克； 上海黄金交易所白银T+D 10月15日（周四）晚盘收盘上涨1.25%报13843.0元/千克。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792089057000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-10",
+      "title": "铜之后，哪些资产会被重新定价？",
+      "reason": "热度 45（温热）；34 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合国内盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "中国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "供需格局与价格弹性",
+      "keyword": "铜",
+      "newsTitle": "硫磺之殇：一种“废料”如何卡住全世界的脖子",
+      "newsUrl": "https://wallstreetcn.com/member/articles/3783727",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1792089832000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    },
+    {
+      "id": "2026-10-16-11",
+      "title": "从财政聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；25 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "美国财长贝森特：伊朗经济正被步步紧逼，就连其所谓的盟友也无力回天。除非伊朗政权金库耗尽、支撑其战争机器的每一条金融生命线都被切断，否则美国财政部绝不会...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792090331000,
+      "firstSeenAt": "2026-10-15T19:17:08.203Z",
+      "lastSeenAt": "2026-10-15T19:17:08.203Z"
+    }
+  ]
+}
