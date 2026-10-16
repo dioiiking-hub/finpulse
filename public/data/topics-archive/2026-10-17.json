@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-16T18:52:38.698Z",
+  "snapshots": [
+    "02:52"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-17-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 79（热门）；38 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 78,
+      "heat": 79,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
+      "newsUrl": "https://wallstreetcn.com/articles/3783778",
+      "source": "华尔街见闻",
+      "publishedAt": 1792174509000,
+      "firstSeenAt": "2026-10-16T18:52:38.698Z",
+      "lastSeenAt": "2026-10-16T18:52:38.698Z"
+    },
+    {
+      "id": "2026-10-17-02",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 74（热门）；19 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步微博快讯。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 75,
+      "heat": 74,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "布伦特原油期货涨至110美元/桶，为5月20日以来首次。WTI原油日内涨幅达3.5%，报101.41美元/桶。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3180431",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792175635000,
+      "firstSeenAt": "2026-10-16T18:52:38.698Z",
+      "lastSeenAt": "2026-10-16T18:52:38.698Z"
+    },
+    {
+      "id": "2026-10-17-03",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 71（热门）；42 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 73,
+      "heat": 71,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国2026财年财政赤字达1.99万亿美元 创五年新高",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792174269000,
+      "firstSeenAt": "2026-10-16T18:52:38.698Z",
+      "lastSeenAt": "2026-10-16T18:52:38.698Z"
+    },
+    {
+      "id": "2026-10-17-04",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；50 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "美国财政部对一级交易商季度调查 询问应考虑如何调整国债拍卖规模",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnepc8284308.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1792173806000,
+      "firstSeenAt": "2026-10-16T18:52:38.698Z",
+      "lastSeenAt": "2026-10-16T18:52:38.698Z"
+    },
+    {
+      "id": "2026-10-17-05",
+      "title": "黄金之后，哪些资产会被重新定价？",
+      "reason": "热度 57（温热）；22 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 57,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "上海黄金交易所黄金T+D 10月16日（周五）晚盘收盘下跌0.11%报896.1元/克； 上海黄金交易所白银T+D 10月16日（周五）晚盘收盘下跌0.73%报13801.0元/千克。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792175452000,
+      "firstSeenAt": "2026-10-16T18:52:38.698Z",
+      "lastSeenAt": "2026-10-16T18:52:38.698Z"
+    },
+    {
+      "id": "2026-10-17-06",
+      "title": "深聊丨dow之后，钱会往哪去？",
+      "reason": "热度 55（温热）；7 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 55,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
+      "newsUrl": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
+      "source": "CNBC",
+      "publishedAt": 1792176379000,
+      "firstSeenAt": "2026-10-16T18:52:38.698Z",
+      "lastSeenAt": "2026-10-16T18:52:38.698Z"
+    },
+    {
+      "id": "2026-10-17-07",
+      "title": "深聊丨rate之后，钱会往哪去？",
+      "reason": "热度 51（温热）；27 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Yields continue to rattle investors. These sectors are most at risk if rates stay elevated",
+      "newsUrl": "https://www.cnbc.com/2026/10/16/treasury-yields-rate-sensitive-stocks.html",
+      "source": "CNBC",
+      "publishedAt": 1792175178000,
+      "firstSeenAt": "2026-10-16T18:52:38.698Z",
+      "lastSeenAt": "2026-10-16T18:52:38.698Z"
+    },
+    {
+      "id": "2026-10-17-08",
+      "title": "fed的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 46,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Here&#x2019;s how the Fed should reveal its outlook for the economy",
+      "newsUrl": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792170420000,
+      "firstSeenAt": "2026-10-16T18:52:38.698Z",
+      "lastSeenAt": "2026-10-16T18:52:38.698Z"
+    }
+  ]
+}
