@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-17T17:53:18.451Z",
+  "snapshots": [
+    "01:53"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-18-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 53（温热）；2 小时内事件，仍在发酵窗口；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+      "newsUrl": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+      "source": "CNBC",
+      "publishedAt": 1792251754000,
+      "firstSeenAt": "2026-10-17T17:53:18.451Z",
+      "lastSeenAt": "2026-10-17T17:53:18.451Z"
+    },
+    {
+      "id": "2026-10-18-02",
+      "title": "标普的另一面：那些被忽略的长期变量",
+      "reason": "热度 44（温热）；53 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 44,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "标普",
+      "newsTitle": "AI股抛售引发泡沫担忧，标普500跌势反转仍待确认",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792256459000,
+      "firstSeenAt": "2026-10-17T17:53:18.451Z",
+      "lastSeenAt": "2026-10-17T17:53:18.451Z"
+    },
+    {
+      "id": "2026-10-18-03",
+      "title": "加息的另一面：那些被忽略的长期变量",
+      "reason": "热度 34（平静）；8 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 34,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "IMF警告日本可能需要更快加息，全球债市再添压力？",
+      "newsUrl": "https://wallstreetcn.com/articles/3783840",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1792230262000,
+      "firstSeenAt": "2026-10-17T17:53:18.451Z",
+      "lastSeenAt": "2026-10-17T17:53:18.451Z"
+    },
+    {
+      "id": "2026-10-18-04",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 35（平静）；18 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "伊拉克人民动员力量：对伊拉克一处总部爆炸事件的初步调查显示，爆炸由内部故障引起，并非遭到外部袭击。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792258524000,
+      "firstSeenAt": "2026-10-17T17:53:18.451Z",
+      "lastSeenAt": "2026-10-17T17:53:18.451Z"
+    },
+    {
+      "id": "2026-10-18-05",
+      "title": "深聊丨央行之后，钱会往哪去？",
+      "reason": "热度 29（平静）；5 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 38,
+      "heat": 29,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "加拿大央行：油价走高将提振增长与通胀",
+      "newsUrl": "https://wallstreetcn.com/livenews/3180579",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792242087000,
+      "firstSeenAt": "2026-10-17T17:53:18.451Z",
+      "lastSeenAt": "2026-10-17T17:53:18.451Z"
+    },
+    {
+      "id": "2026-10-18-06",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 28（平静）；5 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 38,
+      "heat": 28,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Silver&#x2019;s recent 50% drop from a record high hints that an economic slowdown looms",
+      "newsUrl": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792240200000,
+      "firstSeenAt": "2026-10-17T17:53:18.451Z",
+      "lastSeenAt": "2026-10-17T17:53:18.451Z"
+    },
+    {
+      "id": "2026-10-18-07",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 29（平静）；7 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 35,
+      "heat": 29,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Fed interest-rate decision this month is a closer call than markets think",
+      "newsUrl": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792234800000,
+      "firstSeenAt": "2026-10-17T17:53:18.451Z",
+      "lastSeenAt": "2026-10-17T17:53:18.451Z"
+    }
+  ]
+}
