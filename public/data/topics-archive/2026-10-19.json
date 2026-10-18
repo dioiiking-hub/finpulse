@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-18T18:13:30.340Z",
+  "snapshots": [
+    "02:13"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-19-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 56（温热）；12 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 56,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
+      "newsUrl": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
+      "source": "CNBC",
+      "publishedAt": 1792346526000,
+      "firstSeenAt": "2026-10-18T18:13:30.340Z",
+      "lastSeenAt": "2026-10-18T18:13:30.340Z"
+    },
+    {
+      "id": "2026-10-19-02",
+      "title": "meta的另一面：那些被忽略的长期变量",
+      "reason": "热度 44（温热）；4 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 44,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+      "newsUrl": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792332000000,
+      "firstSeenAt": "2026-10-18T18:13:30.340Z",
+      "lastSeenAt": "2026-10-18T18:13:30.340Z"
+    },
+    {
+      "id": "2026-10-19-03",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 39（平静）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 39,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Trump says he will close historic DC golf course for 15 months of renovations",
+      "newsUrl": "https://www.cnbc.com/2026/10/18/trump-says-he-will-close-dc-golf-course-for-15-months-of-renovations.html",
+      "source": "CNBC",
+      "publishedAt": 1792342992000,
+      "firstSeenAt": "2026-10-18T18:13:30.340Z",
+      "lastSeenAt": "2026-10-18T18:13:30.340Z"
+    },
+    {
+      "id": "2026-10-19-04",
+      "title": "深聊丨inflation之后，钱会往哪去？",
+      "reason": "热度 38（平静）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 38,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "My wife says we can&#x2019;t afford to retire. I vetoed her $8,000 trip to Italy. We&#x2019;re in our 60s and have $4 million. Do I keep working?",
+      "newsUrl": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792342800000,
+      "firstSeenAt": "2026-10-18T18:13:30.340Z",
+      "lastSeenAt": "2026-10-18T18:13:30.340Z"
+    },
+    {
+      "id": "2026-10-19-05",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 37（平静）；4 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "市场消息：Anthropic承诺将5%的股份捐赠给公益基金，并承诺公司估值每上涨50%，额外增加2%的股份捐赠。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792346998000,
+      "firstSeenAt": "2026-10-18T18:13:30.340Z",
+      "lastSeenAt": "2026-10-18T18:13:30.340Z"
+    },
+    {
+      "id": "2026-10-19-06",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 33（平静）；5 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 33,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "newsUrl": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792328400000,
+      "firstSeenAt": "2026-10-18T18:13:30.340Z",
+      "lastSeenAt": "2026-10-18T18:13:30.340Z"
+    },
+    {
+      "id": "2026-10-19-07",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 32（平静）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 32,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "财联社10月19日电，生物科技企业Antheia获得美国战争部战略资本办公室8000万美元附条件融资承诺。",
+      "newsUrl": "https://www.cls.cn/detail/2507743",
+      "source": "财联社电报",
+      "publishedAt": 1792341916000,
+      "firstSeenAt": "2026-10-18T18:13:30.340Z",
+      "lastSeenAt": "2026-10-18T18:13:30.340Z"
+    },
+    {
+      "id": "2026-10-19-08",
+      "title": "收益率的另一面：那些被忽略的长期变量",
+      "reason": "热度 31（平静）；7 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 31,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "收益率",
+      "newsTitle": "AI 的借贷潮要破了吗？Coreweave大跌15%背后的警报拉响",
+      "newsUrl": "https://wallstreetcn.com/member/articles/3783678",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1792322522000,
+      "firstSeenAt": "2026-10-18T18:13:30.340Z",
+      "lastSeenAt": "2026-10-18T18:13:30.340Z"
+    },
+    {
+      "id": "2026-10-19-09",
+      "title": "从通胀聊起：普通投资者能学到什么",
+      "reason": "热度 30（平静）；5 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 36,
+      "heat": 30,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "美国财政部长贝森特：美国陷入能源冲击，通胀将在（伊朗）战争结束时放缓。 欧洲继续“大肆抢购”俄罗斯能源。 鲁莽的乌克兰总统泽连斯基指控美国让StarShield（...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3180676",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792330667000,
+      "firstSeenAt": "2026-10-18T18:13:30.340Z",
+      "lastSeenAt": "2026-10-18T18:13:30.340Z"
+    }
+  ]
+}
