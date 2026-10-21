@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-21T19:27:05.576Z",
+  "snapshots": [
+    "03:27"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-22-01",
+      "title": "meta再创新高，美股这轮行情还能走多远？",
+      "reason": "热度 70（热门）；5 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 短视频快评，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "微博快讯",
+        "播客"
+      ],
+      "grade": "A",
+      "score": 72,
+      "heat": 70,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Meta earnings live updates: AI spending, ad revenue and stock reaction",
+      "newsUrl": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1792610575000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    },
+    {
+      "id": "2026-10-22-02",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 64（热门）；27 分钟内新鲜事件，时效性强；7 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 68,
+      "heat": 64,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Nasdaq gains as Musk's SpaceX and Tesla revive tech rally: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1792609249000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    },
+    {
+      "id": "2026-10-22-03",
+      "title": "人民币的另一面：那些被忽略的长期变量",
+      "reason": "热度 54（温热）；10 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "周三（10月21日）纽约尾盘，美元兑日元涨0.10%，报158.31日元，逼近亚太盘初刷新的日高，日内交投区间为157.84-158.39日元。 欧元兑日元跌0.05%，报177.62日元，...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3182926",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792610243000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    },
+    {
+      "id": "2026-10-22-04",
+      "title": "从国债聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "财联社10月22日电，美国财政部于回购操作中接受47.51亿美元2028-2036年到期国债。",
+      "newsUrl": "https://www.cls.cn/detail/2511582",
+      "source": "财联社电报",
+      "publishedAt": 1792606413000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    },
+    {
+      "id": "2026-10-22-05",
+      "title": "比特币的另一面：那些被忽略的长期变量",
+      "reason": "热度 51（温热）；3 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 51,
+      "angle": "机构化进程与链上数据",
+      "keyword": "比特币",
+      "newsTitle": "摩根资管：比特币长期回报或跑赢股票，但有一个前提",
+      "newsUrl": "https://wallstreetcn.com/livenews/3182930",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792610664000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    },
+    {
+      "id": "2026-10-22-06",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 43（温热）；17 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 43,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美元、美油短线拉升，报道称美国拟下令海湾地区部分使馆人员撤离",
+      "newsUrl": "https://wallstreetcn.com/livenews/3182922",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792609832000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    },
+    {
+      "id": "2026-10-22-07",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 50（温热）；55 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "财联社10月22日电，WTI原油期货结算价为97.15美元/桶，下跌0.67美元，跌幅0.68%。布伦特原油期货结算价为108.82美元/桶，上涨0.03美元，涨幅0.03%。",
+      "newsUrl": "https://www.cls.cn/detail/2511585",
+      "source": "财联社电报",
+      "publishedAt": 1792607560000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    },
+    {
+      "id": "2026-10-22-08",
+      "title": "tech的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；5 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 46,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "Anthropic就Claude部署事宜与HclTech签署协议。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3182929",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792610537000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    },
+    {
+      "id": "2026-10-22-09",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；3 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "&#x2018;Super&#x2019; El Ni&#xf1;o may soon make your coffee super expensive",
+      "newsUrl": "https://www.marketwatch.com/story/super-el-nino-risks-driving-up-the-price-of-your-caffeine-fix-bb1d58b1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792610640000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    },
+    {
+      "id": "2026-10-22-10",
+      "title": "通胀的另一面：那些被忽略的长期变量",
+      "reason": "热度 40（温热）；12 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 40,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "美国芝加哥商业交易所集团（CME Group）CEO Terry Duffy：地缘政治紧张局势对（美国）通胀“有太大的影响”。（彭博电视）",
+      "newsUrl": "https://wallstreetcn.com/livenews/3182924",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792610135000,
+      "firstSeenAt": "2026-10-21T19:27:05.576Z",
+      "lastSeenAt": "2026-10-21T19:27:05.576Z"
+    }
+  ]
+}
