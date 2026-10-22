@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-22T19:19:17.717Z",
+  "snapshots": [
+    "03:19"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-23-01",
+      "title": "纳斯达克再创新高，美股这轮行情还能走多远？",
+      "reason": "热度 78（热门）；6 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 短视频快评，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "微博快讯",
+        "播客"
+      ],
+      "grade": "A",
+      "score": 73,
+      "heat": 78,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "纳斯达克",
+      "newsTitle": "纳斯达克100指数重挫逾3% 避险情绪和油价走高构成双重打击",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4845477.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1792696395000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-02",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 66（热门）；10 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 69,
+      "heat": 66,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "纽约汇市：美元下跌 避险需求压低美债收益率并提振日元",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwctce4975713.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1792696192000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-03",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 69（热门）；3 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 63,
+      "heat": 69,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "瑞典北欧斯安银行：欧洲央行面临新考验，该不该对“AI通胀”视而不见？",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792696621000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-04",
+      "title": "深聊丨人民币之后，钱会往哪去？",
+      "reason": "热度 54（温热）；19 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "在岸人民币兑美元（CNY）北京时间03:00收报6.6748元，较周三夜盘收盘涨12点。成交量339.08亿美元。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3183931",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792695660000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-05",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 54（温热）；19 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "现货黄金跌破4030美元/盎司，刷新日低，跌幅2.70%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792695654000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-06",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；50 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 48,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+      "newsUrl": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+      "source": "CNBC",
+      "publishedAt": 1792693781000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-07",
+      "title": "从meta聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 45,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Personal agents like Meta's Muse could fuel AI’s growth — and challenge Amazon and Apple",
+      "newsUrl": "https://www.cnbc.com/2026/10/22/meta-muse-personal-ai-agents.html",
+      "source": "CNBC",
+      "publishedAt": 1792692475000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-08",
+      "title": "深聊丨rate之后，钱会往哪去？",
+      "reason": "热度 49（温热）；24 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "newsUrl": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+      "source": "CNBC",
+      "publishedAt": 1792695338000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-09",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 49（温热）；47 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "财联社10月23日电，WTI原油期货结算价为99.47美元/桶，上涨2.32美元，涨幅2.39%。布伦特原油期货结算价为99.47美元/每桶，上涨2.32美元，涨幅2.39%。",
+      "newsUrl": "https://www.cls.cn/detail/2512851",
+      "source": "财联社电报",
+      "publishedAt": 1792693960000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-10",
+      "title": "流动性的另一面：那些被忽略的长期变量",
+      "reason": "热度 47（温热）；24 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "流动性",
+      "newsTitle": "日元套息平仓的幽灵再现，一场跨资产的流动性风暴正在酝酿",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792695314000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-11",
+      "title": "深聊丨crypto之后，钱会往哪去？",
+      "reason": "热度 43（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 43,
+      "angle": "机构化进程与链上数据",
+      "keyword": "crypto",
+      "newsTitle": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+      "newsUrl": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792689660000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-12",
+      "title": "一张图看懂油价这波行情的驱动因子",
+      "reason": "热度 46（温热）；32 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "供需格局与价格弹性",
+      "keyword": "油价",
+      "newsTitle": "美国炼油商瓦莱罗（Valero）季度利润创纪录，供应中断推动利润率上升",
+      "newsUrl": "https://wallstreetcn.com/livenews/3183928",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792694878000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-13",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 46（温热）；2 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美国10年期国债收益率跌破5% 避险需求推动债市走高",
+      "newsUrl": "https://finance.sina.com.cn/world/2026-10-23/doc-iniwctce4926838.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1792690533000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    },
+    {
+      "id": "2026-10-23-14",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 45（温热）；27 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "报道：黎以会谈未取得突破 双方在真主党解除武装问题上存分歧",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792695186000,
+      "firstSeenAt": "2026-10-22T19:19:17.717Z",
+      "lastSeenAt": "2026-10-22T19:19:17.717Z"
+    }
+  ]
+}
