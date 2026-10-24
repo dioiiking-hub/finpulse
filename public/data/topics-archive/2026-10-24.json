@@ -1,9 +1,10 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T06:06:06.425Z",
+  "generatedAt": "2026-10-24T14:03:38.467Z",
   "snapshots": [
     "03:23",
-    "14:06"
+    "14:06",
+    "22:03"
   ],
   "topics": [
     {
@@ -27,7 +28,7 @@
       "source": "CNBC",
       "publishedAt": 1792782452000,
       "firstSeenAt": "2026-10-23T19:23:20.111Z",
-      "lastSeenAt": "2026-10-24T06:06:06.425Z"
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
     },
     {
       "id": "2026-10-24-02",
@@ -76,6 +77,28 @@
     },
     {
       "id": "2026-10-24-04",
+      "title": "深聊丨tech之后，钱会往哪去？",
+      "reason": "热度 54（温热）；53 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 54,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+      "newsUrl": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
+      "source": "CNBC",
+      "publishedAt": 1792847445000,
+      "firstSeenAt": "2026-10-23T19:23:20.111Z",
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
+    },
+    {
+      "id": "2026-10-24-05",
       "title": "oil异动：供需天平正在向哪边倾斜？",
       "reason": "热度 44（温热）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
       "category": "大宗商品",
@@ -97,7 +120,7 @@
       "lastSeenAt": "2026-10-23T19:23:20.111Z"
     },
     {
-      "id": "2026-10-24-05",
+      "id": "2026-10-24-06",
       "title": "央行的另一面：那些被忽略的长期变量",
       "reason": "热度 44（温热）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -119,7 +142,51 @@
       "lastSeenAt": "2026-10-24T06:06:06.425Z"
     },
     {
-      "id": "2026-10-24-06",
+      "id": "2026-10-24-07",
+      "title": "一张图看懂黄金这波行情的驱动因子",
+      "reason": "热度 52（温热）；44 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 52,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "参考历史大选结果，选举会重演吗？VIP中期选举信号台上线！结合最新实况与历史回顾，判断黄金影响，85折解锁>>",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792848008000,
+      "firstSeenAt": "2026-10-24T14:03:38.467Z",
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
+    },
+    {
+      "id": "2026-10-24-08",
+      "title": "a股的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；10 分钟内新鲜事件，时效性强；属「A股港股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
+      "category": "A股港股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "资金面 + 产业主线",
+      "keyword": "a股",
+      "newsTitle": "华福证券陈兴：A股估值已充分消化谨慎预期，权益资产配置价值逐步凸显",
+      "newsUrl": "https://wallstreetcn.com/livenews/3185156",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792850034000,
+      "firstSeenAt": "2026-10-24T14:03:38.467Z",
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
+    },
+    {
+      "id": "2026-10-24-09",
       "title": "深聊丨美元之后，钱会往哪去？",
       "reason": "热度 39（平静）；4 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -138,32 +205,10 @@
       "source": "华尔街见闻",
       "publishedAt": 1792807890000,
       "firstSeenAt": "2026-10-24T06:06:06.425Z",
-      "lastSeenAt": "2026-10-24T06:06:06.425Z"
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
     },
     {
-      "id": "2026-10-24-07",
-      "title": "从tech聊起：普通投资者能学到什么",
-      "reason": "热度 45（温热）；34 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
-      "category": "科技AI",
-      "region": "美国",
-      "platforms": [
-        "播客",
-        "公众号深度"
-      ],
-      "grade": "B",
-      "score": 47,
-      "heat": 45,
-      "angle": "技术突破 → 产业链受益顺序",
-      "keyword": "tech",
-      "newsTitle": "CrowdStrike CEO's alarming prediction — plus, the sell-off spreads beyond tech",
-      "newsUrl": "https://www.cnbc.com/investingclub/2026/10/23/crowdstrikes-alarming-prediction-plus-sell-off-spreads-beyond-tech.html",
-      "source": "CNBC",
-      "publishedAt": 1792781396000,
-      "firstSeenAt": "2026-10-23T19:23:20.111Z",
-      "lastSeenAt": "2026-10-23T19:23:20.111Z"
-    },
-    {
-      "id": "2026-10-24-08",
+      "id": "2026-10-24-10",
       "title": "深聊丨meta之后，钱会往哪去？",
       "reason": "热度 42（温热）；4 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
       "category": "美股",
@@ -185,7 +230,7 @@
       "lastSeenAt": "2026-10-24T06:06:06.425Z"
     },
     {
-      "id": "2026-10-24-09",
+      "id": "2026-10-24-11",
       "title": "dow的另一面：那些被忽略的长期变量",
       "reason": "热度 44（温热）；38 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
       "category": "美股",
@@ -207,7 +252,7 @@
       "lastSeenAt": "2026-10-23T19:23:20.111Z"
     },
     {
-      "id": "2026-10-24-10",
+      "id": "2026-10-24-12",
       "title": "成交的另一面：那些被忽略的长期变量",
       "reason": "热度 44（温热）；31 分钟内新鲜事件，时效性强；属「A股港股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
       "category": "A股港股",
@@ -229,7 +274,7 @@
       "lastSeenAt": "2026-10-24T06:06:06.425Z"
     },
     {
-      "id": "2026-10-24-11",
+      "id": "2026-10-24-13",
       "title": "从算力聊起：普通投资者能学到什么",
       "reason": "热度 40（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
       "category": "科技AI",
@@ -251,7 +296,7 @@
       "lastSeenAt": "2026-10-24T06:06:06.425Z"
     },
     {
-      "id": "2026-10-24-12",
+      "id": "2026-10-24-14",
       "title": "通胀的另一面：那些被忽略的长期变量",
       "reason": "热度 35（平静）；7 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -273,7 +318,94 @@
       "lastSeenAt": "2026-10-24T06:06:06.425Z"
     },
     {
-      "id": "2026-10-24-13",
+      "id": "2026-10-24-15",
+      "title": "s&p的另一面：那些被忽略的长期变量",
+      "reason": "热度 42（温热）；27 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "Investors&#x2019; recent money moves show a preference for lowering risks over boosting rewards",
+      "newsUrl": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792849020000,
+      "firstSeenAt": "2026-10-24T14:03:38.467Z",
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
+    },
+    {
+      "id": "2026-10-24-16",
+      "title": "深聊丨eth之后，钱会往哪去？",
+      "reason": "热度 41（温热）；59 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 41,
+      "angle": "机构化进程与链上数据",
+      "keyword": "eth",
+      "newsTitle": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+      "newsUrl": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
+      "source": "CNBC",
+      "publishedAt": 1792847101000,
+      "firstSeenAt": "2026-10-24T14:03:38.467Z",
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
+    },
+    {
+      "id": "2026-10-24-17",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 37（平静）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "&#x2018;Non-answers&#x2019; aren&#x2019;t working. This is what investors really need from the Fed.",
+      "newsUrl": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792841400000,
+      "firstSeenAt": "2026-10-24T14:03:38.467Z",
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
+    },
+    {
+      "id": "2026-10-24-18",
+      "title": "earnings的另一面：那些被忽略的长期变量",
+      "reason": "热度 39（平静）；1 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 39,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Goldman says these top tech stocks have plenty of upside ahead of earnings",
+      "newsUrl": "https://www.cnbc.com/2026/10/24/top-tech-stocks-to-buy-according-to-goldman-sachs.html",
+      "source": "CNBC",
+      "publishedAt": 1792846291000,
+      "firstSeenAt": "2026-10-24T14:03:38.467Z",
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
+    },
+    {
+      "id": "2026-10-24-19",
       "title": "宏观政策的另一面：那些被忽略的长期变量",
       "reason": "热度 37（平静）；3 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
       "category": "宏观政策",
@@ -292,7 +424,29 @@
       "source": "金十数据",
       "publishedAt": 1792821788000,
       "firstSeenAt": "2026-10-24T06:06:06.425Z",
-      "lastSeenAt": "2026-10-24T06:06:06.425Z"
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
+    },
+    {
+      "id": "2026-10-24-20",
+      "title": "深聊丨监管之后，钱会往哪去？",
+      "reason": "热度 37（平静）；17 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "监管",
+      "newsTitle": "苏州出台商品住房销售实施意见：新出让土地项目优先现房销售",
+      "newsUrl": "https://www.cls.cn/detail/2514254",
+      "source": "财联社电报",
+      "publishedAt": 1792849638000,
+      "firstSeenAt": "2026-10-24T14:03:38.467Z",
+      "lastSeenAt": "2026-10-24T14:03:38.467Z"
     }
   ]
 }
