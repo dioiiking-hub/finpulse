@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-25T18:30:29.657Z",
+  "snapshots": [
+    "02:30"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-26-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 56（温热）；12 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+      "newsUrl": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+      "source": "CNBC",
+      "publishedAt": 1792952329000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-02",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 38（平静）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 38,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "财联社10月26日电，软银据悉计划在马来西亚投资500亿美元建设AI基础设施。",
+      "newsUrl": "https://www.cls.cn/detail/2514508",
+      "source": "财联社电报",
+      "publishedAt": 1792948855000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-03",
+      "title": "深聊丨制裁之后，钱会往哪去？",
+      "reason": "热度 43（温热）；38 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "斯里兰卡：在近海国际水域救起40名伊朗船员",
+      "newsUrl": "https://wallstreetcn.com/livenews/3185246",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792950754000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-04",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 36（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 36,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I&#x2019;m crazy. Who&#x2019;s right?",
+      "newsUrl": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1792947600000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-05",
+      "title": "深聊丨就业之后，钱会往哪去？",
+      "reason": "热度 38（平静）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 38,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "就业",
+      "newsTitle": "美国总统特朗普：我还拯救了塞尔弗里奇空军基地。当时，那些‘愚蠢的民主党人’正准备关闭它，而我保住了数千个就业岗位，以及拥有这样一座基地所带来的声望——...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792949436000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-06",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 36（平静）；7 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "伊朗革命卫队：时间证明了我们已故殉难领袖话语的真实性。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1792952616000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-07",
+      "title": "从财政聊起：普通投资者能学到什么",
+      "reason": "热度 36（平静）；40 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "英国财政部与加拿大财政部发布联合声明。 两国同意制定合作框架，将在投资和融资方面相互支持。 英国和加拿大重申加强防务融资的承诺。 已达成一致，最好建立两...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3185244",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792950653000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-08",
+      "title": "天然气异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 35（平静）；58 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合国内盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "中国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "供需格局与价格弹性",
+      "keyword": "天然气",
+      "newsTitle": "财联社10月26日电，挪威天然气运输系统运营商Gassco宣布，Troll气田在10月25日至26日期间发生非计划停运，影响规模为610万立方米/日。",
+      "newsUrl": "https://www.cls.cn/detail/2514509",
+      "source": "财联社电报",
+      "publishedAt": 1792949558000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-09",
+      "title": "一张图看懂原油这波行情的驱动因子",
+      "reason": "热度 35（平静）；2 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "美军中央司令部司令走访霍尔木兹海峡，美助力海湾伙伴原油出口超15亿桶",
+      "newsUrl": "https://wallstreetcn.com/livenews/3185239",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1792946712000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-10",
+      "title": "fed的另一面：那些被忽略的长期变量",
+      "reason": "热度 32（平静）；4 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 32,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Here are 4 big things we're watching in the stock market this week",
+      "newsUrl": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source": "CNBC",
+      "publishedAt": 1792940306000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    },
+    {
+      "id": "2026-10-26-11",
+      "title": "tariff的另一面：那些被忽略的长期变量",
+      "reason": "热度 34（平静）；2 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 34,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "tariff",
+      "newsTitle": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+      "newsUrl": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+      "source": "CNBC",
+      "publishedAt": 1792946562000,
+      "firstSeenAt": "2026-10-25T18:30:29.657Z",
+      "lastSeenAt": "2026-10-25T18:30:29.657Z"
+    }
+  ]
+}
