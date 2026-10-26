@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-26T16:50:45.160Z",
+  "snapshots": [
+    "00:50"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-27-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 68（热门）；1 小时内事件，仍在发酵窗口；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 68,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
+      "newsUrl": "https://wallstreetcn.com/articles/3784464",
+      "source": "华尔街见闻",
+      "publishedAt": 1793028684000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    },
+    {
+      "id": "2026-10-27-02",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 67（热门）；47 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 65,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+      "newsUrl": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+      "source": "CNBC",
+      "publishedAt": 1793030637000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    },
+    {
+      "id": "2026-10-27-03",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 57（温热）；11 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 57,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "杰富瑞上调CACI评级，目标价升至725美元",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqtpf9081556.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1793032824000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    },
+    {
+      "id": "2026-10-27-04",
+      "title": "从微软聊起：普通投资者能学到什么",
+      "reason": "热度 55（温热）；6 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 55,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "微软",
+      "newsTitle": "微软(MSFT.O)：全球约6万名员工符合自愿买断条件。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793033123000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    },
+    {
+      "id": "2026-10-27-05",
+      "title": "油价之后，哪些资产会被重新定价？",
+      "reason": "热度 59（温热）；55 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 59,
+      "angle": "供需格局与价格弹性",
+      "keyword": "油价",
+      "newsTitle": "特朗普任内汽油均价超越拜登时期，柴油价格创历史新高，中期选举压力加剧",
+      "newsUrl": "https://wallstreetcn.com/articles/3784496",
+      "source": "华尔街见闻",
+      "publishedAt": 1793030145000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    },
+    {
+      "id": "2026-10-27-06",
+      "title": "美联储的另一面：那些被忽略的长期变量",
+      "reason": "热度 61（热门）；15 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 61,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储10月大概率维持利率不变，这对消费者意味着什么",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqtpm1882748.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1793032558000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    },
+    {
+      "id": "2026-10-27-07",
+      "title": "深聊丨美股之后，钱会往哪去？",
+      "reason": "热度 60（热门）；19 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 60,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "金十图示：2026年10月26日（周一）热门中概股行情一览（美股盘中）",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793032320000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    },
+    {
+      "id": "2026-10-27-08",
+      "title": "原油之后，哪些资产会被重新定价？",
+      "reason": "热度 55（温热）；58 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 55,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "财联社10月26日电，国际油价拉升，布伦特原油收复盘中2.2%的跌幅，现报116.8美元/桶。",
+      "newsUrl": "https://www.cls.cn/detail/2515806",
+      "source": "财联社电报",
+      "publishedAt": 1793029975000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    },
+    {
+      "id": "2026-10-27-09",
+      "title": "深聊丨rate之后，钱会往哪去？",
+      "reason": "热度 51（温热）；27 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
+      "newsUrl": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+      "source": "CNBC",
+      "publishedAt": 1793031863000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    },
+    {
+      "id": "2026-10-27-10",
+      "title": "tech的另一面：那些被忽略的长期变量",
+      "reason": "热度 45（温热）；21 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 45,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "欧洲STOXX 600指数初步收涨0.74%，报640.46点。成分股中，Genmab初步收涨约12%，ComputaCenter涨约11%，巴布考克国际集团涨约6%，Technoprobe、罗尔斯-罗伊斯、...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3186371",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1793032213000,
+      "firstSeenAt": "2026-10-26T16:50:45.160Z",
+      "lastSeenAt": "2026-10-26T16:50:45.160Z"
+    }
+  ]
+}
