@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-28T16:44:31.455Z",
+  "snapshots": [
+    "00:44"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-29-01",
+      "title": "fed落地，对 A 股/美股意味着什么？一文看懂传导链条",
+      "reason": "热度 81（爆发）；5 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 75,
+      "heat": 81,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
+      "newsUrl": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1793205609000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-02",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 68（热门）；11 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 68,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "CNBC TEC Summit live updates: How technology executives are navigating enterprise AI adoption",
+      "newsUrl": "https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1793205211000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-03",
+      "title": "从加息聊起：普通投资者能学到什么",
+      "reason": "热度 73（热门）；20 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 73,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "道明证券：预计加拿大央行12月将再次加息",
+      "newsUrl": "https://www.cls.cn/detail/2518459",
+      "source": "财联社电报",
+      "publishedAt": 1793204677000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-04",
+      "title": "从国债聊起：普通投资者能学到什么",
+      "reason": "热度 57（温热）；47 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 57,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "英国国债上涨 2506亿英镑发债计划基本符合预期",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwuzmq3258426.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1793203050000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-05",
+      "title": "从美股聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；14 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 63,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "金十图示：2026年10月28日（周三）热门中概股行情一览（美股盘中）",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793205047000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-06",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 56（温热）；50 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Investors are rotating into overlooked parts of the market. This chemical stock is one",
+      "newsUrl": "https://www.cnbc.com/2026/10/28/investors-are-rotating-into-overlooked-parts-of-the-market-this-chemical-stock-is-one.html",
+      "source": "CNBC",
+      "publishedAt": 1793202877000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-07",
+      "title": "深聊丨七巨头之后，钱会往哪去？",
+      "reason": "热度 59（温热）；7 分钟内新鲜事件，时效性强；属「美股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 59,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "七巨头",
+      "newsTitle": "“华丽七巨头” 时代落幕：板块相关性瓦解，到了甄别个股胜负的时候",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwvftn3148484.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1793205501000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-08",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；25 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+      "newsUrl": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
+      "source": "CNBC",
+      "publishedAt": 1793204369000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-09",
+      "title": "深聊丨tariff之后，钱会往哪去？",
+      "reason": "热度 54（温热）；38 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 54,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "tariff",
+      "newsTitle": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+      "newsUrl": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
+      "source": "CNBC",
+      "publishedAt": 1793203637000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-10",
+      "title": "earnings的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；11 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
+      "newsUrl": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "source": "CNBC",
+      "publishedAt": 1793205202000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-11",
+      "title": "从财政聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；2 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "英国提前国防开支达标时间，承诺向乌克兰提供数十亿英镑援助",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwvftk6373948.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1793205743000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-12",
+      "title": "深聊丨监管之后，钱会往哪去？",
+      "reason": "热度 53（温热）；29 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 53,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "监管",
+      "newsTitle": "民主党中期选举若取胜，预测市场与美国商品期货交易委员会或将面临重压",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwuzmq3270764.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1793204152000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    },
+    {
+      "id": "2026-10-29-13",
+      "title": "从谷歌聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；3 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 52,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "谷歌",
+      "newsTitle": "谷歌云：Cloud SQL的PostgreSQL蓝绿部署支持即将推出。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793205698000,
+      "firstSeenAt": "2026-10-28T16:44:31.455Z",
+      "lastSeenAt": "2026-10-28T16:44:31.455Z"
+    }
+  ]
+}
