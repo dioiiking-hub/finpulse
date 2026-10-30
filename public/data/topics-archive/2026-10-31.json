@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-30T16:45:17.469Z",
+  "snapshots": [
+    "00:45"
+  ],
+  "topics": [
+    {
+      "id": "2026-10-31-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 72（热门）；1 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 73,
+      "heat": 72,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+      "newsUrl": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+      "source": "CNBC",
+      "publishedAt": 1793378671000,
+      "firstSeenAt": "2026-10-30T16:45:17.469Z",
+      "lastSeenAt": "2026-10-30T16:45:17.469Z"
+    },
+    {
+      "id": "2026-10-31-02",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 68（热门）；13 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 68,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储穆萨莱姆：需要进一步取消政策宽松，以确保通胀在18个月内向2%收敛。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793377929000,
+      "firstSeenAt": "2026-10-30T16:45:17.469Z",
+      "lastSeenAt": "2026-10-30T16:45:17.469Z"
+    },
+    {
+      "id": "2026-10-31-03",
+      "title": "通胀的另一面：那些被忽略的长期变量",
+      "reason": "热度 62（热门）；26 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 62,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "宏利投资管理高级投资组合经理Nathan Thooft：尽管美国中期选举结果可能在短期内影响市场情绪，但我们认为投资者应谨慎，不要夸大其对美元的长期影响。 汇率市场...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3191794",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1793377179000,
+      "firstSeenAt": "2026-10-30T16:45:17.469Z",
+      "lastSeenAt": "2026-10-30T16:45:17.469Z"
+    },
+    {
+      "id": "2026-10-31-04",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 56（温热）；4 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
+      "newsUrl": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
+      "source": "CNBC",
+      "publishedAt": 1793378494000,
+      "firstSeenAt": "2026-10-30T16:45:17.469Z",
+      "lastSeenAt": "2026-10-30T16:45:17.469Z"
+    },
+    {
+      "id": "2026-10-31-05",
+      "title": "深聊丨欧盟之后，钱会往哪去？",
+      "reason": "热度 53（温热）；7 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "加拿大与欧盟签署太空安全连接合作协定。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793378313000,
+      "firstSeenAt": "2026-10-30T16:45:17.469Z",
+      "lastSeenAt": "2026-10-30T16:45:17.469Z"
+    },
+    {
+      "id": "2026-10-31-06",
+      "title": "从crypto聊起：普通投资者能学到什么",
+      "reason": "热度 56（温热）；44 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 56,
+      "angle": "机构化进程与链上数据",
+      "keyword": "crypto",
+      "newsTitle": "$6.3 billion Binance hack is largest crypto theft on record",
+      "newsUrl": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "source": "CNBC",
+      "publishedAt": 1793376111000,
+      "firstSeenAt": "2026-10-30T16:45:17.469Z",
+      "lastSeenAt": "2026-10-30T16:45:17.469Z"
+    },
+    {
+      "id": "2026-10-31-07",
+      "title": "从nasdaq聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；56 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "nasdaq",
+      "newsTitle": "Jim Cramer reveals 3 stocks to buy — plus, why he is not selling the Intel plunge",
+      "newsUrl": "https://www.cnbc.com/investingclub/2026/10/30/cramer-sees-3-stocks-to-buy-not-selling-the-intel-plunge.html",
+      "source": "CNBC",
+      "publishedAt": 1793375359000,
+      "firstSeenAt": "2026-10-30T16:45:17.469Z",
+      "lastSeenAt": "2026-10-30T16:45:17.469Z"
+    }
+  ]
+}
