@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-01T16:52:36.098Z",
+  "snapshots": [
+    "00:52"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-02-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 56（温热）；10 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 56,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "摩根士丹利：AI仓位减轻，是否就意味着资金会很快重新入场？",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793551356000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-02",
+      "title": "opec之后，哪些资产会被重新定价？",
+      "reason": "热度 45（温热）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 45,
+      "angle": "供需格局与价格弹性",
+      "keyword": "opec",
+      "newsTitle": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+      "newsUrl": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
+      "source": "CNBC",
+      "publishedAt": 1793545155000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-03",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 44（温热）；14 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 44,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "财联社11月2日电，币安表示，11月1日协调世界时06:00至15:30期间，平台处理提币46.49亿美元、充值10.1亿美元，净流出约36.4亿美元，占其1710亿美元总管理资产的2...",
+      "newsUrl": "https://www.cls.cn/detail/2521890",
+      "source": "财联社电报",
+      "publishedAt": 1793551157000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-04",
+      "title": "深聊丨crypto之后，钱会往哪去？",
+      "reason": "热度 37（平静）；5 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 37,
+      "angle": "机构化进程与链上数据",
+      "keyword": "crypto",
+      "newsTitle": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+      "newsUrl": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "source": "CNBC",
+      "publishedAt": 1793535573000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-05",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 43（温热）；40 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "澳大利亚房价连续七个月下跌，或创40年来最大跌幅",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793549599000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-06",
+      "title": "oil之后，哪些资产会被重新定价？",
+      "reason": "热度 41（温热）；55 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 41,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Everything changed for the oil, AI and bond trades over the past month",
+      "newsUrl": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+      "source": "CNBC",
+      "publishedAt": 1793548704000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-07",
+      "title": "深聊丨pmi之后，钱会往哪去？",
+      "reason": "热度 40（温热）；53 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 40,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "pmi",
+      "newsTitle": "今日重点关注的财经数据与事件：2026年11月2日 周一",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793548800000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-08",
+      "title": "从法案聊起：普通投资者能学到什么",
+      "reason": "热度 40（温热）；54 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 40,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "法案",
+      "newsTitle": "特朗普称若民主党赢得国会多数席位，自己或将成为“否决先生”",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793548763000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-09",
+      "title": "从美股聊起：普通投资者能学到什么",
+      "reason": "热度 33（平静）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 33,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "【风口研报·洞察】美股创新药在科技股下挫中持续走强，礼来业绩超预期且全年营收指引年内第三次上调，国内创新药同步进入业绩验证阶段；关注红利行情的扩散",
+      "newsUrl": "https://www.cls.cn/detail/2521788",
+      "source": "财联社电报",
+      "publishedAt": 1793541667000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-10",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 36（平静）；2 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "These Senate races may help determine the fate of Social Security",
+      "newsUrl": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
+      "source": "CNBC",
+      "publishedAt": 1793546406000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-11",
+      "title": "深聊丨earnings之后，钱会往哪去？",
+      "reason": "热度 32（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 32,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Apple&#x2019;s new earnings era begins at a critical time for Big Tech",
+      "newsUrl": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1793545200000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-12",
+      "title": "meta的另一面：那些被忽略的长期变量",
+      "reason": "热度 31（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 31,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "Why AI is boosting Meta's ad business while hurting Google search",
+      "newsUrl": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "source": "CNBC",
+      "publishedAt": 1793543489000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    },
+    {
+      "id": "2026-11-02-13",
+      "title": "从eth聊起：普通投资者能学到什么",
+      "reason": "热度 31（平静）；2 小时内事件，仍在发酵窗口；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 37,
+      "heat": 31,
+      "angle": "机构化进程与链上数据",
+      "keyword": "eth",
+      "newsTitle": "I'm a psychologist who studies couples: People in the happiest relationships do 1 thing differently after time apart—whether it's hours, days or week...",
+      "newsUrl": "https://www.cnbc.com/make-it/2026/11/01/reconnect-partner-after-time-apart.html",
+      "source": "CNBC",
+      "publishedAt": 1793543761000,
+      "firstSeenAt": "2026-11-01T16:52:36.098Z",
+      "lastSeenAt": "2026-11-01T16:52:36.098Z"
+    }
+  ]
+}
