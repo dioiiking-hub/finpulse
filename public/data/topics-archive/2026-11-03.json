@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-02T20:26:44.903Z",
+  "snapshots": [
+    "04:26"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-03-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 71（热门）；27 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步微博快讯。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 71,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "伊朗最高领袖放行谈判，油价延续跌势",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixkeuv9255413.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1793649620000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-02",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 65（热门）；23 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 69,
+      "heat": 65,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国财政部季度再融资报告预估，剔除高于预期的季初现金余额后，借款预估较5月预测高出870亿美元。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793649833000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-03",
+      "title": "深聊丨国债之后，钱会往哪去？",
+      "reason": "热度 63（热门）；22 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 67,
+      "heat": 63,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "美国财政部上调三季度融资预估至7390亿美元",
+      "newsUrl": "https://wallstreetcn.com/livenews/3192822",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1793649903000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-04",
+      "title": "从收益率聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；24 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "收益率",
+      "newsTitle": "Alphabet通过欧元债券发行筹集60亿欧元 付出更高溢价吸引买家",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixkvsk6872693.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1793649764000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-05",
+      "title": "深聊丨加息之后，钱会往哪去？",
+      "reason": "热度 52（温热）；2 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "欧洲债市：英国国债创9月3日以来最大涨幅 油价下跌削弱加息预期",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixkrkm0211187.shtml",
+      "source": "新浪美股",
+      "publishedAt": 1793644975000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-06",
+      "title": "gold之后，哪些资产会被重新定价？",
+      "reason": "热度 57（温热）；37 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 57,
+      "angle": "供需格局与价格弹性",
+      "keyword": "gold",
+      "newsTitle": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+      "newsUrl": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "source": "CNBC",
+      "publishedAt": 1793649015000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-07",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；48 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 48,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+      "newsUrl": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "source": "CNBC",
+      "publishedAt": 1793648338000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-08",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Fed will vote on rates less often. What that could mean for borrowers",
+      "newsUrl": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+      "source": "CNBC",
+      "publishedAt": 1793647275000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-09",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；6 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "路透社/益普索民调显示，在中期选举前，美国总统特朗普的支持率稳定在32%，接近历史最低水平。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793650842000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-10",
+      "title": "从法案聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；19 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "法案",
+      "newsTitle": "南非政府：注意到《非洲增长与机会法案》优惠待遇被取消，并认识到企业对由此带来的担忧。将支持受影响行业，保护国家利益。美国仍是重要的贸易和投资伙伴。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793650090000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-11",
+      "title": "从meta聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；17 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "meta",
+      "newsTitle": "时隔半年再筹200亿巨债，Meta拟首次发售欧元债券拓展AI资金池",
+      "newsUrl": "https://wallstreetcn.com/articles/3785018",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1793650207000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-12",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；40 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
+      "newsUrl": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
+      "source": "CNBC",
+      "publishedAt": 1793648807000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    },
+    {
+      "id": "2026-11-03-13",
+      "title": "从tech聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；1 小时内事件，仍在发酵窗口；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "2 of our banks are at the heart of this week's biggest tech deals",
+      "newsUrl": "https://www.cnbc.com/investingclub/2026/11/02/2-of-our-banks-are-at-the-heart-of-this-weeks-biggest-tech-deals.html",
+      "source": "CNBC",
+      "publishedAt": 1793646955000,
+      "firstSeenAt": "2026-11-02T20:26:44.903Z",
+      "lastSeenAt": "2026-11-02T20:26:44.903Z"
+    }
+  ]
+}
