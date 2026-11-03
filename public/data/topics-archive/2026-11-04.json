@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-03T17:57:09.060Z",
+  "snapshots": [
+    "01:57"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-04-01",
+      "title": "深聊丨国债之后，钱会往哪去？",
+      "reason": "热度 61（热门）；28 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 61,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "摩根大通分析师敦促财政部废除“孤儿”20年期国债",
+      "newsUrl": "https://wallstreetcn.com/livenews/3193510",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1793726945000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-02",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 56（温热）；10 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 56,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "瑞银：短期波动并不足以推翻AI长期主题，但配置方式需要明显更加审慎",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793728077000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-03",
+      "title": "从美股聊起：普通投资者能学到什么",
+      "reason": "热度 60（热门）；27 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 60,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "金十图示：2026年11月03日（周二）热门中概股行情一览（美股盘中）",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793727026000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-04",
+      "title": "纳斯达克的另一面：那些被忽略的长期变量",
+      "reason": "热度 60（热门）；2 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 60,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "纳斯达克",
+      "newsTitle": "美国中期选举日，美股小幅反弹，半导体ETF领涨，光通信反弹，国际油价走低",
+      "newsUrl": "https://wallstreetcn.com/articles/3785045",
+      "source": "华尔街见闻",
+      "publishedAt": 1793722301000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-05",
+      "title": "从利率聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "财联社11月4日电，美国财政部拍卖六周期国债，得标利率3.940%，投标倍数2.88。",
+      "newsUrl": "https://www.cls.cn/detail/2524320",
+      "source": "财联社电报",
+      "publishedAt": 1793723535000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-06",
+      "title": "深聊丨制裁之后，钱会往哪去？",
+      "reason": "热度 51（温热）；26 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "据俄罗斯媒体：俄外交部表示，俄罗斯将寻求解除挪威对俄罗斯资产实施的制裁。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793727107000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-07",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 47（温热）；6 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "LME期铜收跌309美元，报14036美元/吨。 LME期铝收跌50美元，报3044美元/吨。 LME期锌收跌102美元，报3790美元/吨。 LME期铅收跌22美元，报1884美元/吨。 LME期镍...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3193518",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1793728268000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-08",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；20 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "newsUrl": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "source": "CNBC",
+      "publishedAt": 1793727451000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-09",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 46（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 46,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Here&#x2019;s why Palantir&#x2019;s stock is down despite a &#x2018;bombastic&#x2019; quarter",
+      "newsUrl": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1793722860000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-10",
+      "title": "从s&p聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "The most bearish post-midterm scenario that could take the S&P 500 down 10%",
+      "newsUrl": "https://www.cnbc.com/2026/11/03/the-most-bearish-post-midterm-scenario-that-could-take-the-sp-500-down-10percent.html",
+      "source": "CNBC",
+      "publishedAt": 1793721608000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-11",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；18 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "卡塔尔外交部：将继续努力弥合美国与伊朗之间的分歧",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793727540000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    },
+    {
+      "id": "2026-11-04-12",
+      "title": "inflation的另一面：那些被忽略的长期变量",
+      "reason": "热度 45（温热）；48 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "Midterm elections 2026 live updates: Economy, inflation and voter concerns",
+      "newsUrl": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1793725786000,
+      "firstSeenAt": "2026-11-03T17:57:09.060Z",
+      "lastSeenAt": "2026-11-03T17:57:09.060Z"
+    }
+  ]
+}
