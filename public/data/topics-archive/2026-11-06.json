@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-05T18:10:14.565Z",
+  "snapshots": [
+    "02:10"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-06-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 80（爆发）；12 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 79,
+      "heat": 80,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "OpenAI推出GPT-6 Cyber网络安全模型 漏洞检测能力超越GPT-6 Astra",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793901534000,
+      "firstSeenAt": "2026-11-05T18:10:14.565Z",
+      "lastSeenAt": "2026-11-05T18:10:14.565Z"
+    },
+    {
+      "id": "2026-11-06-02",
+      "title": "从加息聊起：普通投资者能学到什么",
+      "reason": "热度 79（热门）；4 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 73,
+      "heat": 79,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "英债收益率普遍守住涨势，英国央行2023年以来首次加息",
+      "newsUrl": "https://wallstreetcn.com/livenews/3195296",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1793901996000,
+      "firstSeenAt": "2026-11-05T18:10:14.565Z",
+      "lastSeenAt": "2026-11-05T18:10:14.565Z"
+    },
+    {
+      "id": "2026-11-06-03",
+      "title": "从国债聊起：普通投资者能学到什么",
+      "reason": "热度 67（热门）；9 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 70,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "标普500指数跌幅扩大至4%，纳斯达克100指数跌6%，道指跌3.1%，纳指跌5.3%，半导体指数跌11%。 美元兑日元跌0.5%。 美国2-5年期国债收益率跌10个基点。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3195294",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1793901719000,
+      "firstSeenAt": "2026-11-05T18:10:14.565Z",
+      "lastSeenAt": "2026-11-05T18:10:14.565Z"
+    },
+    {
+      "id": "2026-11-06-04",
+      "title": "深聊丨nasdaq之后，钱会往哪去？",
+      "reason": "热度 68（热门）；6 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 66,
+      "heat": 68,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "nasdaq",
+      "newsTitle": "Dow tumbles 1,700 points, erasing its postelection rally; Nasdaq plummets 5%: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1793901895000,
+      "firstSeenAt": "2026-11-05T18:10:14.565Z",
+      "lastSeenAt": "2026-11-05T18:10:14.565Z"
+    },
+    {
+      "id": "2026-11-06-05",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 53（温热）；47 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "苹果拟募资70亿美元用于回购股票，时隔一年半重返美元债市场",
+      "newsUrl": "https://wallstreetcn.com/articles/3785291",
+      "source": "华尔街见闻",
+      "publishedAt": 1793899430000,
+      "firstSeenAt": "2026-11-05T18:10:14.565Z",
+      "lastSeenAt": "2026-11-05T18:10:14.565Z"
+    },
+    {
+      "id": "2026-11-06-06",
+      "title": "深聊丨s&p之后，钱会往哪去？",
+      "reason": "热度 50（温热）；8 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "Bloom Energy&#x2019;s stock is one of the S&P 500&#x2019;s biggest losers amid fears of data-center delays",
+      "newsUrl": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1793901780000,
+      "firstSeenAt": "2026-11-05T18:10:14.565Z",
+      "lastSeenAt": "2026-11-05T18:10:14.565Z"
+    },
+    {
+      "id": "2026-11-06-07",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；21 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "欧洲央行行长拉加德、管委多伦茨将于十分钟后发表讲话。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793901000000,
+      "firstSeenAt": "2026-11-05T18:10:14.565Z",
+      "lastSeenAt": "2026-11-05T18:10:14.565Z"
+    },
+    {
+      "id": "2026-11-06-08",
+      "title": "深聊丨tech之后，钱会往哪去？",
+      "reason": "热度 50（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "Is this &#x2018;the big one&#x2019; for the stock market? Wall Street sounds off as tech plunges.",
+      "newsUrl": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1793898660000,
+      "firstSeenAt": "2026-11-05T18:10:14.565Z",
+      "lastSeenAt": "2026-11-05T18:10:14.565Z"
+    }
+  ]
+}
