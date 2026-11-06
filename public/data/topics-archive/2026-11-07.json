@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-06T17:36:20.414Z",
+  "snapshots": [
+    "01:36"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-07-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 74（热门）；31 分钟内新鲜事件，时效性强；7 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 75,
+      "heat": 74,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "OpenAI CFO：数据中心投资不会因中期选举改变",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793984746000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-02",
+      "title": "央行的另一面：那些被忽略的长期变量",
+      "reason": "热度 64（热门）；17 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 66,
+      "heat": 64,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "日本央行行长：2%通胀率能维持多久尚不明确",
+      "newsUrl": "https://wallstreetcn.com/livenews/3196142",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1793985593000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-03",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 63,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "非农大超预期，美股芯片领涨，费半大涨7%，美债收益率走高，黄金承压回落",
+      "newsUrl": "https://wallstreetcn.com/articles/3785315",
+      "source": "华尔街见闻",
+      "publishedAt": 1793978115000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-04",
+      "title": "从美股聊起：普通投资者能学到什么",
+      "reason": "热度 66（热门）；6 分钟内新鲜事件，时效性强；属「美股」主线，贴合全球受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 66,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "美股",
+      "newsTitle": "金十图示：2026年11月06日（周五）热门中概股行情一览（美股盘中）",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793986224000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-05",
+      "title": "数据中心的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；21 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "数据中心",
+      "newsTitle": "伯恩斯坦：美国数据中心政治阻力上升，但更可能改变“谁来买单”，而非终结扩张周期",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793985353000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-06",
+      "title": "深聊丨通胀之后，钱会往哪去？",
+      "reason": "热度 47（温热）；36 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "美国11月密歇根消费者信心超预期升至三个月高位，独立选民信心提升，通胀预期改善",
+      "newsUrl": "https://wallstreetcn.com/articles/3785399",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1793984412000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-07",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 48（温热）；11 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "德国10年期国债收益率涨超1个基点，使得本周累计跌幅收窄至不足7个基点",
+      "newsUrl": "https://wallstreetcn.com/livenews/3196145",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1793985960000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-08",
+      "title": "s&p的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；18 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "s&p",
+      "newsTitle": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "newsUrl": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1793985540000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-09",
+      "title": "深聊丨反制之后，钱会往哪去？",
+      "reason": "热度 46（温热）；19 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "反制",
+      "newsTitle": "乌克兰总统泽连斯基：乌克兰发电厂、电网、供暖设施、供水设施及民用物流持续遭到俄罗斯“沙赫德”无人机和导弹袭击。俄方没有改变军事行动方式，也拒绝采取乌克...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1793985461000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-10",
+      "title": "监管的另一面：那些被忽略的长期变量",
+      "reason": "热度 43（温热）；38 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "监管",
+      "newsTitle": "虚拟货币主要发行平台Solana高调“入沪”被紧急叫停！人民银行有关司局回应",
+      "newsUrl": "https://wallstreetcn.com/articles/3785401",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1793984350000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    },
+    {
+      "id": "2026-11-07-11",
+      "title": "从etf聊起：普通投资者能学到什么",
+      "reason": "热度 42（温热）；40 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "机构化进程与链上数据",
+      "keyword": "etf",
+      "newsTitle": "This pharmaceutical ETF is outperforming. Why it could keep climbing",
+      "newsUrl": "https://www.cnbc.com/2026/11/06/this-pharmaceutical-etf-is-outperforming-why-it-could-keep-climbing.html",
+      "source": "CNBC",
+      "publishedAt": 1793984229000,
+      "firstSeenAt": "2026-11-06T17:36:20.414Z",
+      "lastSeenAt": "2026-11-06T17:36:20.414Z"
+    }
+  ]
+}
