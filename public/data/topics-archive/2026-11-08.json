@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-07T16:33:17.674Z",
+  "snapshots": [
+    "00:33"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-08-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 52（温热）；31 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "newsUrl": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "source": "CNBC",
+      "publishedAt": 1794067353000,
+      "firstSeenAt": "2026-11-07T16:33:17.674Z",
+      "lastSeenAt": "2026-11-07T16:33:17.674Z"
+    },
+    {
+      "id": "2026-11-08-02",
+      "title": "从inflation聊起：普通投资者能学到什么",
+      "reason": "热度 49（温热）；4 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "inflation",
+      "newsTitle": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+      "newsUrl": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794069000000,
+      "firstSeenAt": "2026-11-07T16:33:17.674Z",
+      "lastSeenAt": "2026-11-07T16:33:17.674Z"
+    },
+    {
+      "id": "2026-11-08-03",
+      "title": "tech的另一面：那些被忽略的长期变量",
+      "reason": "热度 44（温热）；50 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 44,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "You&#x2019;re fired! But you can keep the laptop and insurance. And here&#x2019;s $10,000.",
+      "newsUrl": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794066240000,
+      "firstSeenAt": "2026-11-07T16:33:17.674Z",
+      "lastSeenAt": "2026-11-07T16:33:17.674Z"
+    },
+    {
+      "id": "2026-11-08-04",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 40（温热）；4 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 40,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻",
+      "newsUrl": "https://wallstreetcn.com/articles/3785460",
+      "source": "华尔街见闻",
+      "publishedAt": 1794056551000,
+      "firstSeenAt": "2026-11-07T16:33:17.674Z",
+      "lastSeenAt": "2026-11-07T16:33:17.674Z"
+    },
+    {
+      "id": "2026-11-08-05",
+      "title": "从eth聊起：普通投资者能学到什么",
+      "reason": "热度 41（温热）；34 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 41,
+      "angle": "机构化进程与链上数据",
+      "keyword": "eth",
+      "newsTitle": "You follow the rules for smart stock trading. But are they the right rules?",
+      "newsUrl": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794067200000,
+      "firstSeenAt": "2026-11-07T16:33:17.674Z",
+      "lastSeenAt": "2026-11-07T16:33:17.674Z"
+    },
+    {
+      "id": "2026-11-08-06",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 40（温热）；53 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 40,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "&#x2018;I have no financial safety net&#x2019;: I&#x2019;m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "newsUrl": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794066060000,
+      "firstSeenAt": "2026-11-07T16:33:17.674Z",
+      "lastSeenAt": "2026-11-07T16:33:17.674Z"
+    },
+    {
+      "id": "2026-11-08-07",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 37（平静）；4 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "也门政府军：过去数小时对胡塞武装发动875次打击",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794069002000,
+      "firstSeenAt": "2026-11-07T16:33:17.674Z",
+      "lastSeenAt": "2026-11-07T16:33:17.674Z"
+    },
+    {
+      "id": "2026-11-08-08",
+      "title": "从earnings聊起：普通投资者能学到什么",
+      "reason": "热度 37（平静）；1 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "newsUrl": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "source": "CNBC",
+      "publishedAt": 1794065026000,
+      "firstSeenAt": "2026-11-07T16:33:17.674Z",
+      "lastSeenAt": "2026-11-07T16:33:17.674Z"
+    }
+  ]
+}
