@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-08T16:44:35.136Z",
+  "snapshots": [
+    "00:44"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-09-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 43（温热）；3 小时内事件，仍在发酵窗口；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 43,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+      "newsUrl": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+      "source": "CNBC",
+      "publishedAt": 1794147251000,
+      "firstSeenAt": "2026-11-08T16:44:35.136Z",
+      "lastSeenAt": "2026-11-08T16:44:35.136Z"
+    },
+    {
+      "id": "2026-11-09-02",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 44（温热）；51 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 44,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Poland mourns victims of Krakow mass shooting as security fears grow",
+      "newsUrl": "https://www.cnbc.com/2026/11/08/poland-krakow-shooting-mass-killing.html",
+      "source": "CNBC",
+      "publishedAt": 1794153219000,
+      "firstSeenAt": "2026-11-08T16:44:35.136Z",
+      "lastSeenAt": "2026-11-08T16:44:35.136Z"
+    },
+    {
+      "id": "2026-11-09-03",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 49（温热）；10 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "美国众议院民主党领袖杰弗里斯支持对赫格塞斯的弹劾",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794155699000,
+      "firstSeenAt": "2026-11-08T16:44:35.136Z",
+      "lastSeenAt": "2026-11-08T16:44:35.136Z"
+    },
+    {
+      "id": "2026-11-09-04",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；45 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "&#x2018;It feels like he&#x2019;s quietly building a separate life&#x2019;: My husband inherited $500,000, but he refuses to spend it on our home",
+      "newsUrl": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794153600000,
+      "firstSeenAt": "2026-11-08T16:44:35.136Z",
+      "lastSeenAt": "2026-11-08T16:44:35.136Z"
+    },
+    {
+      "id": "2026-11-09-05",
+      "title": "深聊丨tariff之后，钱会往哪去？",
+      "reason": "热度 37（平静）；1 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "tariff",
+      "newsTitle": "How Democrats will try to end Trump's tariffs",
+      "newsUrl": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+      "source": "CNBC",
+      "publishedAt": 1794152199000,
+      "firstSeenAt": "2026-11-08T16:44:35.136Z",
+      "lastSeenAt": "2026-11-08T16:44:35.136Z"
+    }
+  ]
+}
