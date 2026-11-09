@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-09T20:54:06.822Z",
+  "snapshots": [
+    "04:54"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-10-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 87（爆发）；27 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "直播话题"
+      ],
+      "grade": "S",
+      "score": 82,
+      "heat": 87,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "国际原油期货结算价大跌",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794256068000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-02",
+      "title": "从cpi聊起：普通投资者能学到什么",
+      "reason": "热度 76（热门）；12 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 76,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "cpi",
+      "newsTitle": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+      "newsUrl": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794256920000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-03",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 68（热门）；13 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 68,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "As Nvidia probes Jensen Huang affair, here's the board member likely to play a big role",
+      "newsUrl": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+      "source": "CNBC",
+      "publishedAt": 1794256914000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-04",
+      "title": "深聊丨nasdaq之后，钱会往哪去？",
+      "reason": "热度 62（热门）；18 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 62,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "nasdaq",
+      "newsTitle": "Dow rallies 1,200 points, Nasdaq jumps 3% as stocks climb out of postelection slump: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1794256590000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-05",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 57（温热）；8 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 57,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美、布两油缓慢反弹，收复自有关美伊核问题谈判取得进展报道发布以来的跌幅，现分别报87美元/桶和92.8美元/桶。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794257214000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-06",
+      "title": "非农的另一面：那些被忽略的长期变量",
+      "reason": "热度 62（热门）；5 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 62,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "非农",
+      "newsTitle": "美国两年期国债收益率涨约5个基点，可比实际收益率涨超11个基点",
+      "newsUrl": "https://wallstreetcn.com/livenews/3197157",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1794257381000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-07",
+      "title": "从nvidia聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；41 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 50,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "Nvidia's China revenue exposure: What New Street estimates",
+      "newsUrl": "https://www.cnbc.com/2026/11/09/nvidias-china-revenue-exposure-what-new-street-estimates-.html",
+      "source": "CNBC",
+      "publishedAt": 1794255187000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-08",
+      "title": "法案的另一面：那些被忽略的长期变量",
+      "reason": "热度 60（热门）；14 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 60,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "法案",
+      "newsTitle": "共和党高层：可以和民主党合作解决生活成本问题 但边境政策不能退让",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794256827000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-09",
+      "title": "oil异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 49（温热）；25 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 49,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+      "newsUrl": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+      "source": "CNBC",
+      "publishedAt": 1794256176000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-10",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 45（温热）；24 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Should a widow leave her late partner&#x2019;s home to her stepkids &#x2014; or cut off contact with them?",
+      "newsUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794256200000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-11",
+      "title": "eth的另一面：那些被忽略的长期变量",
+      "reason": "热度 49（温热）；5 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合美盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "美国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 49,
+      "angle": "机构化进程与链上数据",
+      "keyword": "eth",
+      "newsTitle": "Hegseth impeachment articles introduced by Rep. Massie",
+      "newsUrl": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+      "source": "CNBC",
+      "publishedAt": 1794257354000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-12",
+      "title": "从纳斯达克聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；1 小时内事件，仍在发酵窗口；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "纳斯达克",
+      "newsTitle": "财联社11月10日电，美股三大指数涨幅扩大，截至目前，道琼斯指数涨2.43%，标普500指数涨2.61%，纳斯达克综合指数涨3.02%。",
+      "newsUrl": "https://www.cls.cn/detail/2529565",
+      "source": "财联社电报",
+      "publishedAt": 1794253285000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-13",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 46（温热）；39 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 46,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "&#x2018;It feels like he&#x2019;s quietly building a separate life&#x2019;: My husband inherited $500,000, but he refuses to spend it on our home",
+      "newsUrl": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794255300000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    },
+    {
+      "id": "2026-11-10-14",
+      "title": "深聊丨数据中心之后，钱会往哪去？",
+      "reason": "热度 45（温热）；7 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 47,
+      "heat": 45,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "数据中心",
+      "newsTitle": "美国参议院Wyden：将围绕数据中心征税问题拿出综合性的立法草案。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3197156",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1794257272000,
+      "firstSeenAt": "2026-11-09T20:54:06.822Z",
+      "lastSeenAt": "2026-11-09T20:54:06.822Z"
+    }
+  ]
+}
