@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-13T17:56:44.697Z",
+  "snapshots": [
+    "01:56"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-14-01",
+      "title": "美联储落地，对 A 股/美股意味着什么？一文看懂传导链条",
+      "reason": "热度 82（爆发）；7 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 80,
+      "heat": 82,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "荷兰国际：2027年通胀料温和回落，美联储下半年转鸽或推动美元走弱",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794592180000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-02",
+      "title": "拆解ai：产业链谁最受益？",
+      "reason": "热度 81（爆发）；10 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 80,
+      "heat": 81,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "OpenAI转向通用AI模型直接控制机器人 不再单独开发专用模型",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794591995000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-03",
+      "title": "从加息聊起：普通投资者能学到什么",
+      "reason": "热度 65（热门）；14 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 69,
+      "heat": 65,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "欧洲央行管委兼德国央行行长Nagel：欧洲央行很可能需要再次加息，通胀前景已明显恶化。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3199949",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1794591767000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-04",
+      "title": "深聊丨制裁之后，钱会往哪去？",
+      "reason": "热度 65（热门）；9 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 67,
+      "heat": 65,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "欧盟委员会主席冯德莱恩：我们将很快提出第22轮对俄制裁方案。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794592076000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-05",
+      "title": "通胀的另一面：那些被忽略的长期变量",
+      "reason": "热度 63（热门）；22 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 67,
+      "heat": 63,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "2/10年期德债收益率利差短暂“转负”！本周均至少涨超12个基点",
+      "newsUrl": "https://wallstreetcn.com/livenews/3199946",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1794591321000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-06",
+      "title": "从欧盟聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；6 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 53,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "五国及欧盟机构将代表欧洲参与下一轮乌克兰问题谈判",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794592272000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-07",
+      "title": "英伟达的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；39 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 50,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "英伟达",
+      "newsTitle": "Cerebras首席执行官：过去一年，Cerebras在美国以外开展了多元化的数据中心项目。 英伟达CEO黄仁勋离任后，英伟达有“足够多优秀人才”来“接棒”。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3199940",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1794590287000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-08",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；4 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "LME期铜收跌189美元",
+      "newsUrl": "https://www.cls.cn/detail/2534303",
+      "source": "财联社电报",
+      "publishedAt": 1794592405000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-09",
+      "title": "深聊丨dow之后，钱会往哪去？",
+      "reason": "热度 52（温热）；5 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "newsUrl": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "source": "CNBC",
+      "publishedAt": 1794592350000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-10",
+      "title": "深聊丨nvidia之后，钱会往哪去？",
+      "reason": "热度 47（温热）；56 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 47,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+      "newsUrl": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+      "source": "CNBC",
+      "publishedAt": 1794589286000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    },
+    {
+      "id": "2026-11-14-11",
+      "title": "深聊丨fed之后，钱会往哪去？",
+      "reason": "热度 50（温热）；43 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "US Treasuries set for worst week since Trump’s ‘liberation day’",
+      "newsUrl": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
+      "source": "FT Markets",
+      "publishedAt": 1794590037000,
+      "firstSeenAt": "2026-11-13T17:56:44.697Z",
+      "lastSeenAt": "2026-11-13T17:56:44.697Z"
+    }
+  ]
+}
