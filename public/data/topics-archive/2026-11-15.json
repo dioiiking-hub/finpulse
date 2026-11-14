@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-14T16:39:46.819Z",
+  "snapshots": [
+    "00:39"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-15-01",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 69（热门）；49 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 69,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "newsUrl": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "source": "CNBC",
+      "publishedAt": 1794671443000,
+      "firstSeenAt": "2026-11-14T16:39:46.819Z",
+      "lastSeenAt": "2026-11-14T16:39:46.819Z"
+    },
+    {
+      "id": "2026-11-15-02",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 56（温热）；13 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国交通部长达菲：过去约两年来，我们一直在讨论空中交通管制系统的现代化升级问题，并已要求国会提供资金支持。国会拨款125亿美元用于升级导航系统，但尚未向...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794673633000,
+      "firstSeenAt": "2026-11-14T16:39:46.819Z",
+      "lastSeenAt": "2026-11-14T16:39:46.819Z"
+    },
+    {
+      "id": "2026-11-15-03",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储柯林斯：稳步、渐进加息是适宜之举",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytnhx3878101.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1794670340000,
+      "firstSeenAt": "2026-11-14T16:39:46.819Z",
+      "lastSeenAt": "2026-11-14T16:39:46.819Z"
+    },
+    {
+      "id": "2026-11-15-04",
+      "title": "制裁的另一面：那些被忽略的长期变量",
+      "reason": "热度 51（温热）；9 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "制裁",
+      "newsTitle": "伊朗外交部发言人指责美国公然以封锁手段威胁实施饥饿政策",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794673865000,
+      "firstSeenAt": "2026-11-14T16:39:46.819Z",
+      "lastSeenAt": "2026-11-14T16:39:46.819Z"
+    },
+    {
+      "id": "2026-11-15-05",
+      "title": "从宏观政策聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；15 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "美国众议院议长：即使不进行调查，也能认识到空中交通管制系统亟需现代化升级，因为其中部分设备的使用历史可以追溯至20世纪80年代。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794673505000,
+      "firstSeenAt": "2026-11-14T16:39:46.819Z",
+      "lastSeenAt": "2026-11-14T16:39:46.819Z"
+    },
+    {
+      "id": "2026-11-15-06",
+      "title": "从加息聊起：普通投资者能学到什么",
+      "reason": "热度 43（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 43,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "中信建投：预计2027年实际利率进一步上行空间有限 金价有望震荡上行",
+      "newsUrl": "https://www.cls.cn/detail/2534563",
+      "source": "财联社电报",
+      "publishedAt": 1794667048000,
+      "firstSeenAt": "2026-11-14T16:39:46.819Z",
+      "lastSeenAt": "2026-11-14T16:39:46.819Z"
+    },
+    {
+      "id": "2026-11-15-07",
+      "title": "从sec聊起：普通投资者能学到什么",
+      "reason": "热度 39（平静）；1 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 39,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "&#x2018;The thought of living to 100 terrifies me&#x2019;: Is Social Security a giant Ponzi scheme?",
+      "newsUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794670200000,
+      "firstSeenAt": "2026-11-14T16:39:46.819Z",
+      "lastSeenAt": "2026-11-14T16:39:46.819Z"
+    }
+  ]
+}
