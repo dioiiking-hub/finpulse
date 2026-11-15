@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-15T17:18:19.510Z",
+  "snapshots": [
+    "01:18"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-16-01",
+      "title": "深聊丨cpi之后，钱会往哪去？",
+      "reason": "热度 59（温热）；47 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 59,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "cpi",
+      "newsTitle": "以色列统计局数据显示，10月CPI环比下降0.1%，9月为下降0.5%。10月CPI同比上涨1.1%，9月为上涨1.6%。以色列通胀年率降至2021年4月以来最低水平。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794760288000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    },
+    {
+      "id": "2026-11-16-02",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 55（温热）；56 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 55,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "机构分析：美联储鹰声四起，但12月加息50基点仍是小概率事件",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794759733000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    },
+    {
+      "id": "2026-11-16-03",
+      "title": "从英伟达聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；24 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "英伟达",
+      "newsTitle": "美众议员：黄仁勋同意接受国会闭门质询",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794761676000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    },
+    {
+      "id": "2026-11-16-04",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 54（温热）；22 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 54,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+      "newsUrl": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+      "source": "CNBC",
+      "publishedAt": 1794761800000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    },
+    {
+      "id": "2026-11-16-05",
+      "title": "深聊丨美元之后，钱会往哪去？",
+      "reason": "热度 48（温热）；48 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "押中Anthropic 好莱坞背景风投4.35亿美元投资将变成70亿美元",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794760231000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    },
+    {
+      "id": "2026-11-16-06",
+      "title": "nvidia的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；29 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "newsUrl": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "source": "CNBC",
+      "publishedAt": 1794761351000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    },
+    {
+      "id": "2026-11-16-07",
+      "title": "通胀的另一面：那些被忽略的长期变量",
+      "reason": "热度 40（温热）；4 小时内事件，仍在发酵窗口；5 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 40,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季",
+      "newsUrl": "https://wallstreetcn.com/articles/3785968",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1794748127000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    },
+    {
+      "id": "2026-11-16-08",
+      "title": "深聊丨earnings之后，钱会往哪去？",
+      "reason": "热度 34（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 34,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "3 big things we're watching in the stock market in the week ahead",
+      "newsUrl": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC",
+      "publishedAt": 1794756380000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    },
+    {
+      "id": "2026-11-16-09",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 36（平静）；11 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "也门政府军撤离战略要地，专家警告防线暴露“严重弱点”",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794762450000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    },
+    {
+      "id": "2026-11-16-10",
+      "title": "从欧盟聊起：普通投资者能学到什么",
+      "reason": "热度 35（平静）；1 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "俄外长：欧盟不考虑俄利益“绝对行不通”",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794758070000,
+      "firstSeenAt": "2026-11-15T17:18:19.510Z",
+      "lastSeenAt": "2026-11-15T17:18:19.510Z"
+    }
+  ]
+}
