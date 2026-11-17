@@ -1,0 +1,275 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-17T19:15:13.318Z",
+  "snapshots": [
+    "03:15"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-18-01",
+      "title": "fed落地，对 A 股/美股意味着什么？一文看懂传导链条",
+      "reason": "热度 92（爆发）；14 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 79,
+      "heat": 92,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Bonds are causing trouble again — here's where to invest now",
+      "newsUrl": "https://www.cnbc.com/2026/11/17/bond-yields-where-to-invest.html",
+      "source": "CNBC",
+      "publishedAt": 1794942074000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-02",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 57（温热）；54 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 63,
+      "heat": 57,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+      "newsUrl": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "source": "CNBC",
+      "publishedAt": 1794939663000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-03",
+      "title": "英伟达的另一面：那些被忽略的长期变量",
+      "reason": "热度 59（温热）；1 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 59,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "英伟达",
+      "newsTitle": "英伟达在黄仁勋辞职后联系了三家其投资的机器人初创公司，以重申对其的支持。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3201479",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1794942864000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-04",
+      "title": "从标普聊起：普通投资者能学到什么",
+      "reason": "热度 63（热门）；17 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 63,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "标普",
+      "newsTitle": "黄仁勋辞职后首次发声“救市”？标普纳指盘中深V收窄跌幅，报道后称英伟达董事会仍未考虑他复职",
+      "newsUrl": "https://wallstreetcn.com/articles/3786123",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1794941884000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-05",
+      "title": "深聊丨苹果之后，钱会往哪去？",
+      "reason": "热度 54（温热）；5 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合全球受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 54,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "苹果",
+      "newsTitle": "苹果(AAPL.O)：部分用户无法使用iCloud网页应用（iCloud.com）和iCloud邮件。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1794942644000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-06",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 56（温热）；7 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "财联社11月18日电，耐克预计旗下品牌匡威将于2028年恢复增长，预计匡威营收将突破10亿美元。",
+      "newsUrl": "https://www.cls.cn/detail/2537233",
+      "source": "财联社电报",
+      "publishedAt": 1794942528000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-07",
+      "title": "深聊丨人民币之后，钱会往哪去？",
+      "reason": "热度 55（温热）；14 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 55,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "在岸人民币兑美元（CNY）北京时间03:00收报6.6663元，较周一夜盘收盘跌21点。成交量340亿美元。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3201473",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1794942061000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-08",
+      "title": "从nvidia聊起：普通投资者能学到什么",
+      "reason": "热度 44（温热）；1 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 52,
+      "heat": 44,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "US tech stocks slide ahead of Nvidia results",
+      "newsUrl": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+      "source": "FT Markets",
+      "publishedAt": 1794938217000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-09",
+      "title": "国债的另一面：那些被忽略的长期变量",
+      "reason": "热度 50（温热）；2 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "欧洲债市：德国国债随美国国债上涨 科技股遭抛售推升避险需求",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizauir5088339.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1794942799000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-10",
+      "title": "oil之后，哪些资产会被重新定价？",
+      "reason": "热度 48（温热）；15 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "&#x2018;Nvidia&#x2019;s turmoil has me spooked&#x2019;: Should I sell my stocks and invest in real estate?",
+      "newsUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1794942000000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-11",
+      "title": "深聊丨rate之后，钱会往哪去？",
+      "reason": "热度 48（温热）；51 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more",
+      "newsUrl": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1794939849000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    },
+    {
+      "id": "2026-11-18-12",
+      "title": "earnings的另一面：那些被忽略的长期变量",
+      "reason": "热度 42（温热）；42 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "earnings",
+      "newsTitle": "Why Home Depot shares are falling despite an earnings beat — and how to proceed",
+      "newsUrl": "https://www.cnbc.com/investingclub/2026/11/17/why-home-depot-shares-are-falling-despite-an-earnings-beat-and-how-to-proceed.html",
+      "source": "CNBC",
+      "publishedAt": 1794940379000,
+      "firstSeenAt": "2026-11-17T19:15:13.318Z",
+      "lastSeenAt": "2026-11-17T19:15:13.318Z"
+    }
+  ]
+}
