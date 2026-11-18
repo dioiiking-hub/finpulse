@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-18T18:56:19.774Z",
+  "snapshots": [
+    "02:56"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-19-01",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 78（热门）；17 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 78,
+      "heat": 80,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储理事巴尔支持进一步加息，称通胀仍然过高",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795027186000,
+      "firstSeenAt": "2026-11-18T18:56:19.774Z",
+      "lastSeenAt": "2026-11-18T18:56:19.774Z"
+    },
+    {
+      "id": "2026-11-19-02",
+      "title": "从ai聊起：普通投资者能学到什么",
+      "reason": "热度 68（热门）；13 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 71,
+      "heat": 68,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+      "newsUrl": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+      "source": "CNBC",
+      "publishedAt": 1795027406000,
+      "firstSeenAt": "2026-11-18T18:56:19.774Z",
+      "lastSeenAt": "2026-11-18T18:56:19.774Z"
+    },
+    {
+      "id": "2026-11-19-03",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 66（热门）；17 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 67,
+      "heat": 66,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "加拿大央行副行长：能源价格通胀正在蔓延。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795027163000,
+      "firstSeenAt": "2026-11-18T18:56:19.774Z",
+      "lastSeenAt": "2026-11-18T18:56:19.774Z"
+    },
+    {
+      "id": "2026-11-19-04",
+      "title": "深聊丨nasdaq之后，钱会往哪去？",
+      "reason": "热度 61（热门）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 61,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "nasdaq",
+      "newsTitle": "Dow slides 400 points, Nasdaq seesaws as Nvidia earnings bounce fizzles: Live updates",
+      "newsUrl": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1795024442000,
+      "firstSeenAt": "2026-11-18T18:56:19.774Z",
+      "lastSeenAt": "2026-11-18T18:56:19.774Z"
+    },
+    {
+      "id": "2026-11-19-05",
+      "title": "深聊丨利率之后，钱会往哪去？",
+      "reason": "热度 56（温热）；54 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 56,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "美国财政部拍卖20年期国债，得标利率5.459%，投标倍数2.63。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3202109",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795024948000,
+      "firstSeenAt": "2026-11-18T18:56:19.774Z",
+      "lastSeenAt": "2026-11-18T18:56:19.774Z"
+    },
+    {
+      "id": "2026-11-19-06",
+      "title": "从加息聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；2 小时内事件，仍在发酵窗口；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "英国10月CPI同比升至3.6%创近一年新高，服务通胀低于预期",
+      "newsUrl": "https://wallstreetcn.com/articles/3786223",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1795021600000,
+      "firstSeenAt": "2026-11-18T18:56:19.774Z",
+      "lastSeenAt": "2026-11-18T18:56:19.774Z"
+    },
+    {
+      "id": "2026-11-19-07",
+      "title": "英伟达的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；19 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "英伟达",
+      "newsTitle": "卡普兰福克斯律师事务所（Kaplan Fox）敦促遭受重大损失的英伟达(NVDA.O)投资者，在2027年1月8日之前申请担任集体诉讼首席原告。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795027042000,
+      "firstSeenAt": "2026-11-18T18:56:19.774Z",
+      "lastSeenAt": "2026-11-18T18:56:19.774Z"
+    }
+  ]
+}
