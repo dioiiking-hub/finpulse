@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-20T18:41:12.143Z",
+  "snapshots": [
+    "02:41"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-21-01",
+      "title": "原油异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 69（热门）；7 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 69,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "洲际交易所：截至11月17日当周，布伦特原油投机者净多头头寸减少225份合约，至133,635份。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795199661000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-02",
+      "title": "从美联储聊起：普通投资者能学到什么",
+      "reason": "热度 69（热门）；8 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 69,
+      "heat": 69,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储保尔森：对考虑连续加息持开放态度。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795199591000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-03",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 64（热门）；26 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 68,
+      "heat": 64,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+      "newsUrl": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "source": "CNBC",
+      "publishedAt": 1795198550000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-04",
+      "title": "黄金异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 62（热门）；11 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合全球受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 62,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "上海黄金交易所黄金T+D 11月20日（周五）晚盘收盘下跌1.46%报756.0元/克； 上海黄金交易所白银T+D 11月20日（周五）晚盘收盘下跌4.98%报9670.0元/千克。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795199415000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-05",
+      "title": "深聊丨加息之后，钱会往哪去？",
+      "reason": "热度 53（温热）；9 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "美国费城联储主席Paulson：对FOMC考虑连续加息持开放态度。 倾向于按审慎的方式加息。",
+      "newsUrl": "https://wallstreetcn.com/livenews/3203532",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795199568000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-06",
+      "title": "利率的另一面：那些被忽略的长期变量",
+      "reason": "热度 51（温热）；36 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "利率",
+      "newsTitle": "德银：若美国科技股继续回落，我司货币预测将面临下行风险",
+      "newsUrl": "https://wallstreetcn.com/livenews/3203522",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795197941000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-07",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；39 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "Anthropic上市首日暴涨 但很可能好景不长",
+      "newsUrl": "https://wallstreetcn.com/member/articles/3786406",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1795197767000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-08",
+      "title": "从央行聊起：普通投资者能学到什么",
+      "reason": "热度 54（温热）；34 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "欧洲央行管委兼法国央行行长Moulin：法国债务和赤字都太高，需要处置好。 必须实施那些能够降低开支动能的措施。 法国局势与（欧债危机期间的）希腊危机是不同的...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3203524",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795198028000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-09",
+      "title": "纳斯达克的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "纳斯达克",
+      "newsTitle": "黑色星期五！美股跌幅扩大，Anthropic跌11％，黄金跌破3600，美债上涨",
+      "newsUrl": "https://wallstreetcn.com/articles/3786330",
+      "source": "华尔街见闻",
+      "publishedAt": 1795189819000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-10",
+      "title": "从比特币聊起：普通投资者能学到什么",
+      "reason": "热度 52（温热）；35 分钟内新鲜事件，时效性强；属「加密货币」主线，贴合国内盘受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "中国",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 51,
+      "heat": 52,
+      "angle": "机构化进程与链上数据",
+      "keyword": "比特币",
+      "newsTitle": "Anthropic与SpaceX两大IPO前一个月，比特币均跌22%，流动性逻辑如何驱动后市行情？",
+      "newsUrl": "https://wallstreetcn.com/articles/3786405",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1795198017000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    },
+    {
+      "id": "2026-11-21-11",
+      "title": "从sec聊起：普通投资者能学到什么",
+      "reason": "热度 43（温热）；42 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Is Social Security a Ponzi scheme? No. Don&#x2019;t get carried away with 1930s-era prophecies of doom.",
+      "newsUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795197600000,
+      "firstSeenAt": "2026-11-20T18:41:12.143Z",
+      "lastSeenAt": "2026-11-20T18:41:12.143Z"
+    }
+  ]
+}
