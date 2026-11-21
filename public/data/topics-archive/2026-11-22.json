@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-21T17:41:16.426Z",
+  "snapshots": [
+    "01:41"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-22-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 83（爆发）；3 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 微博快讯，同步公众号深度。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "公众号深度",
+        "短视频快评"
+      ],
+      "grade": "S",
+      "score": 81,
+      "heat": 83,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "英媒：亚马逊接近以75亿美元收购AI初创企业Decart",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795282736000,
+      "firstSeenAt": "2026-11-21T17:41:16.426Z",
+      "lastSeenAt": "2026-11-21T17:41:16.426Z"
+    },
+    {
+      "id": "2026-11-22-02",
+      "title": "英伟达的另一面：那些被忽略的长期变量",
+      "reason": "热度 65（热门）；24 分钟内新鲜事件，时效性强；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 61,
+      "heat": 65,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "英伟达",
+      "newsTitle": "加州英伟达调查涉及潜在刑事违法",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795281460000,
+      "firstSeenAt": "2026-11-21T17:41:16.426Z",
+      "lastSeenAt": "2026-11-21T17:41:16.426Z"
+    },
+    {
+      "id": "2026-11-22-03",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；16 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "据英国金融时报：亚马逊即将以75亿美元收购AI初创公司Decart，交易最早可能于下周初达成。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795281948000,
+      "firstSeenAt": "2026-11-21T17:41:16.426Z",
+      "lastSeenAt": "2026-11-21T17:41:16.426Z"
+    },
+    {
+      "id": "2026-11-22-04",
+      "title": "深聊丨sec之后，钱会往哪去？",
+      "reason": "热度 42（温热）；52 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 44,
+      "heat": 42,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Is Social Security a Ponzi scheme? No. Don&#x2019;t get carried away with 1930s-era prophecies of doom.",
+      "newsUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795279800000,
+      "firstSeenAt": "2026-11-21T17:41:16.426Z",
+      "lastSeenAt": "2026-11-21T17:41:16.426Z"
+    },
+    {
+      "id": "2026-11-22-05",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 35（平静）；16 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "美国众议院民主党领袖杰弗里斯：我们将讨论与约旦河西岸相关的立法以及停止向该地区出口美国武器。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795281963000,
+      "firstSeenAt": "2026-11-21T17:41:16.426Z",
+      "lastSeenAt": "2026-11-21T17:41:16.426Z"
+    },
+    {
+      "id": "2026-11-22-06",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 30（平静）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 30,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year&#x2019;s peak",
+      "newsUrl": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795273260000,
+      "firstSeenAt": "2026-11-21T17:41:16.426Z",
+      "lastSeenAt": "2026-11-21T17:41:16.426Z"
+    },
+    {
+      "id": "2026-11-22-07",
+      "title": "oil之后，哪些资产会被重新定价？",
+      "reason": "热度 29（平静）；2 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 35,
+      "heat": 29,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "&#x2018;Nvidia&#x2019;s turmoil has me spooked&#x2019;: Is it time to sell my stocks?",
+      "newsUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795274100000,
+      "firstSeenAt": "2026-11-21T17:41:16.426Z",
+      "lastSeenAt": "2026-11-21T17:41:16.426Z"
+    }
+  ]
+}
