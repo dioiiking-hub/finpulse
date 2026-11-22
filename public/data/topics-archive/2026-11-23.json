@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-22T17:56:21.283Z",
+  "snapshots": [
+    "01:56"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-23-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 75（热门）；26 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「科技AI」主线，贴合全球受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "全球",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 76,
+      "heat": 75,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "大摩：AI服务器与存储涨价撑起业绩，芯片分销商面临周期拐点",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795368644000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    },
+    {
+      "id": "2026-11-23-02",
+      "title": "从纳斯达克聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；32 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 58,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "纳斯达克",
+      "newsTitle": "特朗普称民主党政策导致美股蒸发超6万亿美元",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795368257000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    },
+    {
+      "id": "2026-11-23-03",
+      "title": "美联储的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 54,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美财长贝森特警告美联储过度紧缩风险 指出金融体系出现脆弱迹象",
+      "newsUrl": "https://www.cls.cn/detail/2541052",
+      "source": "财联社电报",
+      "publishedAt": 1795365751000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    },
+    {
+      "id": "2026-11-23-04",
+      "title": "从降息聊起：普通投资者能学到什么",
+      "reason": "热度 50（温热）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 50,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "降息",
+      "newsTitle": "财联社11月23日电，调查显示，14位经济学家中有12位预计以色列央行周一将维持利率不变；两位预计将降息25个基点至3.0%。",
+      "newsUrl": "https://www.cls.cn/detail/2541049",
+      "source": "财联社电报",
+      "publishedAt": 1795364034000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    },
+    {
+      "id": "2026-11-23-05",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 47（温热）；18 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 48,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "美国总统特朗普：如果伊朗试图突破美国海上封锁，我们将击沉他们的船只。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795369146000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    },
+    {
+      "id": "2026-11-23-06",
+      "title": "深聊丨标普之后，钱会往哪去？",
+      "reason": "热度 36（平静）；3 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 43,
+      "heat": 36,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "标普",
+      "newsTitle": "华尔街策略师再度下调标普500目标位，认为熊市不太可能出现",
+      "newsUrl": "https://finance.sina.com.cn/7x24/2026-11-22/doc-inizrtky1026263.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1795361147000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    },
+    {
+      "id": "2026-11-23-07",
+      "title": "一张图看懂oil这波行情的驱动因子",
+      "reason": "热度 39（平静）；57 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 39,
+      "angle": "供需格局与价格弹性",
+      "keyword": "oil",
+      "newsTitle": "&#x2018;Nvidia&#x2019;s turmoil has me spooked&#x2019;: Is it time to sell my stocks and buy real estate?",
+      "newsUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795366800000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    },
+    {
+      "id": "2026-11-23-08",
+      "title": "深聊丨sec之后，钱会往哪去？",
+      "reason": "热度 34（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 34,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "America is definitely rich enough to fix Social Security and Medicare. Here&#x2019;s how.",
+      "newsUrl": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795363440000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    },
+    {
+      "id": "2026-11-23-09",
+      "title": "tech的另一面：那些被忽略的长期变量",
+      "reason": "热度 37（平静）；2 小时内事件，仍在发酵窗口；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "newsUrl": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "source": "CNBC",
+      "publishedAt": 1795364289000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    },
+    {
+      "id": "2026-11-23-10",
+      "title": "rate的另一面：那些被忽略的长期变量",
+      "reason": "热度 31（平静）；3 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 37,
+      "heat": 31,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "Corporate America hunts for &#x2018;generational&#x2019; growth in AI, trading cards and the L.A. airport",
+      "newsUrl": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795359660000,
+      "firstSeenAt": "2026-11-22T17:56:21.283Z",
+      "lastSeenAt": "2026-11-22T17:56:21.283Z"
+    }
+  ]
+}
