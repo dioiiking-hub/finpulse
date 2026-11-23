@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-23T22:07:28.571Z",
+  "snapshots": [
+    "06:07"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-24-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 70（热门）；32 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 72,
+      "heat": 70,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "These stocks are the biggest gainers after Jensen Huang&#x2019;s return to Nvidia",
+      "newsUrl": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795469760000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-02",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 67（热门）；17 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 68,
+      "heat": 67,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "美联储威廉姆斯：各方普遍认为，独立的央行能带来更好的经济成果。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795470659000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-03",
+      "title": "从fed聊起：普通投资者能学到什么",
+      "reason": "热度 65（热门）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 65,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "fed",
+      "newsTitle": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "newsUrl": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "source": "CNBC",
+      "publishedAt": 1795467737000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-04",
+      "title": "降息的另一面：那些被忽略的长期变量",
+      "reason": "热度 63（热门）；9 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 63,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "降息",
+      "newsTitle": "澳新银行将澳洲联储首次降息预测提前至2027年6月。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795471115000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-05",
+      "title": "nasdaq的另一面：那些被忽略的长期变量",
+      "reason": "热度 63（热门）；57 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步微博快讯；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 63,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "nasdaq",
+      "newsTitle": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia",
+      "newsUrl": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1795468249000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-06",
+      "title": "nvidia的另一面：那些被忽略的长期变量",
+      "reason": "热度 59（温热）；1 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 59,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "newsUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "source": "CNBC",
+      "publishedAt": 1795471622000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-07",
+      "title": "从tech聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；1 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 58,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "tech",
+      "newsTitle": "Stocks making the biggest moves after hours: Zoom, Hewlett Packard Enterprise, Agilent & more",
+      "newsUrl": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": 1795471605000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-08",
+      "title": "深聊丨通胀之后，钱会往哪去？",
+      "reason": "热度 55（温热）；15 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 55,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "穆迪：预计沙特阿拉伯2026年实际非石油GDP增长1.4%。 预计沙特阿拉伯2026年实际石油GDP萎缩14.1%，将导致整体经济收缩。 沙特阿拉伯强劲的国内消费和持续的信贷...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3204521",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795470769000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-09",
+      "title": "央行的另一面：那些被忽略的长期变量",
+      "reason": "热度 52（温热）；1 小时内事件，仍在发酵窗口；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 52,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "美共和党Q4突击立法与政策民粹化，欧洲能源和财政风险压制欧元，中俄美宣言达四点共识---1123宏观脱水",
+      "newsUrl": "https://wallstreetcn.com/member/articles/3786526",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1795467095000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-10",
+      "title": "黄金之后，哪些资产会被重新定价？",
+      "reason": "热度 57（温热）；14 分钟内新鲜事件，时效性强；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 57,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "国际金价涨超2.6%，美股开盘时逼近3700美元",
+      "newsUrl": "https://wallstreetcn.com/livenews/3204522",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795470806000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    },
+    {
+      "id": "2026-11-24-11",
+      "title": "深聊丨财政之后，钱会往哪去？",
+      "reason": "热度 53（温热）；5 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "财政",
+      "newsTitle": "【金十数据整理：中东局势跟踪（11月24日）】 美伊冲突： 1. 伊朗称击毁一架美制“卢卡斯”无人机。 <...",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795471358000,
+      "firstSeenAt": "2026-11-23T22:07:28.571Z",
+      "lastSeenAt": "2026-11-23T22:07:28.571Z"
+    }
+  ]
+}
