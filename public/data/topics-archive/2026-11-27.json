@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-26T19:43:36.129Z",
+  "snapshots": [
+    "03:43"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-27-01",
+      "title": "从加息聊起：普通投资者能学到什么",
+      "reason": "热度 61（热门）；29 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 66,
+      "heat": 61,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "欧央行10月会议纪要：通胀前景恶化，未来或需进一步加息",
+      "newsUrl": "https://wallstreetcn.com/articles/3786800",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1795720498000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    },
+    {
+      "id": "2026-11-27-02",
+      "title": "深聊丨美联储之后，钱会往哪去？",
+      "reason": "热度 66（热门）；4 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 64,
+      "heat": 66,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "4.3%的GDP增速或许只是表面现象，美联储加息的真正考验在Q4的GDP",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795721982000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    },
+    {
+      "id": "2026-11-27-03",
+      "title": "深聊丨ai之后，钱会往哪去？",
+      "reason": "热度 52（温热）；31 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 52,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "哈萨克斯坦深化与俄罗斯的AI合作",
+      "newsUrl": "https://wallstreetcn.com/livenews/3206599",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795720377000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    },
+    {
+      "id": "2026-11-27-04",
+      "title": "央行的另一面：那些被忽略的长期变量",
+      "reason": "热度 51（温热）；23 分钟内新鲜事件，时效性强；4 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 59,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "央行",
+      "newsTitle": "土耳其央行：决定将适用于里拉存款法定准备金的付息比例，从银行加权平均融资成本的86%上调至90%。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795720847000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    },
+    {
+      "id": "2026-11-27-05",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 53（温热）；27 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 58,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "土耳其投资基金丑闻冲击资本市场，银行家呼吁全面改革金融监管体系",
+      "newsUrl": "https://wallstreetcn.com/livenews/3206600",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795720588000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    },
+    {
+      "id": "2026-11-27-06",
+      "title": "从欧盟聊起：普通投资者能学到什么",
+      "reason": "热度 51（温热）；16 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 51,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "法国总统马克龙：法国希望欧盟数字税与欧盟预算一同于2028年生效。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795721280000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    },
+    {
+      "id": "2026-11-27-07",
+      "title": "人民币的另一面：那些被忽略的长期变量",
+      "reason": "热度 51（温热）；35 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 57,
+      "heat": 51,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "财联社11月27日电，在岸人民币兑美元（CNY）北京时间03:00收报6.6609元，较周三夜盘收盘涨72点。成交量469.21亿美元。",
+      "newsUrl": "https://www.cls.cn/detail/2545963",
+      "source": "财联社电报",
+      "publishedAt": 1795720135000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    },
+    {
+      "id": "2026-11-27-08",
+      "title": "dow的另一面：那些被忽略的长期变量",
+      "reason": "热度 45（温热）；44 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "A 66-year-old nurse is facing down retirement with just $500 saved. Who&#x2019;s to blame?",
+      "newsUrl": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795719600000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    },
+    {
+      "id": "2026-11-27-09",
+      "title": "从证监会聊起：普通投资者能学到什么",
+      "reason": "热度 44（温热）；29 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 44,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "证监会",
+      "newsTitle": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
+      "newsUrl": "https://wallstreetcn.com/articles/3786798",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1795720491000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    },
+    {
+      "id": "2026-11-27-10",
+      "title": "从rate聊起：普通投资者能学到什么",
+      "reason": "热度 40（温热）；1 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 46,
+      "heat": 40,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "rate",
+      "newsTitle": "I&#x2019;ve been married for 58 years. It&#x2019;s &#x2018;our&#x2019; money, not &#x2018;his&#x2019; and &#x2018;hers.&#x2019; Why do so many couples keep their finances separate?",
+      "newsUrl": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795717800000,
+      "firstSeenAt": "2026-11-26T19:43:36.129Z",
+      "lastSeenAt": "2026-11-26T19:43:36.129Z"
+    }
+  ]
+}
