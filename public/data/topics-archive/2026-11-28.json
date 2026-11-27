@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-27T19:33:07.281Z",
+  "snapshots": [
+    "03:33"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-28-01",
+      "title": "ai刷屏：AI 军备竞赛进入新赛点",
+      "reason": "热度 76（热门）；23 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 公众号深度，同步微博快讯。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "公众号深度",
+        "微博快讯",
+        "短视频快评"
+      ],
+      "grade": "A",
+      "score": 76,
+      "heat": 76,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "OpenAI countersues Apple for stealing trade secrets",
+      "newsUrl": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+      "source": "CNBC",
+      "publishedAt": 1795806621000,
+      "firstSeenAt": "2026-11-27T19:33:07.281Z",
+      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    },
+    {
+      "id": "2026-11-28-02",
+      "title": "原油之后，哪些资产会被重新定价？",
+      "reason": "热度 64（热门）；3 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 微博快讯，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "微博快讯",
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 63,
+      "heat": 64,
+      "angle": "供需格局与价格弹性",
+      "keyword": "原油",
+      "newsTitle": "WTI 1月原油期货收报83.08美元/桶。 NYMEX 1月天然气期货收报3.4910美元/百万英热单位。 NYMEX 12月汽油期货收报3.7145美元/加仑，NYMEX 12月取暖油期货收报2.44...",
+      "newsUrl": "https://wallstreetcn.com/livenews/3207254",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795807852000,
+      "firstSeenAt": "2026-11-27T19:33:07.281Z",
+      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    },
+    {
+      "id": "2026-11-28-03",
+      "title": "从纳斯达克聊起：普通投资者能学到什么",
+      "reason": "热度 58（温热）；44 分钟内新鲜事件，时效性强；3 家信源共振报道，确定性高；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 62,
+      "heat": 58,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "纳斯达克",
+      "newsTitle": "人工智能热提振美股 标普500指数创下2025年4月以来最大单周涨幅",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7624312.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1795805390000,
+      "firstSeenAt": "2026-11-27T19:33:07.281Z",
+      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    },
+    {
+      "id": "2026-11-28-04",
+      "title": "从人民币聊起：普通投资者能学到什么",
+      "reason": "热度 53（温热）；26 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 60,
+      "heat": 53,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "人民币",
+      "newsTitle": "财联社11月28日电，在岸人民币兑美元（CNY）北京时间03:00收报6.6541元，较周四夜盘收盘涨68点。成交量496.49亿美元。",
+      "newsUrl": "https://www.cls.cn/detail/2547123",
+      "source": "财联社电报",
+      "publishedAt": 1795806434000,
+      "firstSeenAt": "2026-11-27T19:33:07.281Z",
+      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    },
+    {
+      "id": "2026-11-28-05",
+      "title": "从国债聊起：普通投资者能学到什么",
+      "reason": "热度 47（温热）；55 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 56,
+      "heat": 47,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "国债",
+      "newsTitle": "纽约汇市：美元随股市走高 AI乐观情绪回归",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7618666.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1795804719000,
+      "firstSeenAt": "2026-11-27T19:33:07.281Z",
+      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    },
+    {
+      "id": "2026-11-28-06",
+      "title": "美元的另一面：那些被忽略的长期变量",
+      "reason": "热度 46（温热）；14 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 55,
+      "heat": 46,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国黑五消费“K型分化”加剧：富人越买越多，穷人勒紧裤腰带",
+      "newsUrl": "https://wallstreetcn.com/articles/3786871",
+      "source": "华尔街见闻新闻",
+      "publishedAt": 1795807190000,
+      "firstSeenAt": "2026-11-27T19:33:07.281Z",
+      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    },
+    {
+      "id": "2026-11-28-07",
+      "title": "深聊丨加息之后，钱会往哪去？",
+      "reason": "热度 54（温热）；1 小时内事件，仍在发酵窗口；属「宏观政策」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 53,
+      "heat": 54,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "加息",
+      "newsTitle": "欧元区通胀率预计出现五个月来首度放缓 但料无碍欧洲央行加息",
+      "newsUrl": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7611498.shtml",
+      "source": "新浪滚动财经",
+      "publishedAt": 1795803803000,
+      "firstSeenAt": "2026-11-27T19:33:07.281Z",
+      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    },
+    {
+      "id": "2026-11-28-08",
+      "title": "黄金之后，哪些资产会被重新定价？",
+      "reason": "热度 50（温热）；1 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "全球",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 50,
+      "angle": "供需格局与价格弹性",
+      "keyword": "黄金",
+      "newsTitle": "上海黄金交易所黄金T+D 11月27日（周五）晚盘收盘上涨0.56%报780.14元/克； 上海黄金交易所白银T+D 11月27日（周五）晚盘收盘上涨1.59%报10303.0元/千克。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795804212000,
+      "firstSeenAt": "2026-11-27T19:33:07.281Z",
+      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    },
+    {
+      "id": "2026-11-28-09",
+      "title": "深聊丨nvidia之后，钱会往哪去？",
+      "reason": "热度 46（温热）；40 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 46,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "These stocks soared the most during a wild week highlighted by Huang&#x2019;s return to Nvidia",
+      "newsUrl": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795805580000,
+      "firstSeenAt": "2026-11-27T19:33:07.281Z",
+      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    }
+  ]
+}
