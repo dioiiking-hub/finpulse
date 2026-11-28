@@ -1,32 +1,33 @@
 {
   "date": "2026-11-28",
-  "generatedAt": "2026-11-27T19:33:07.281Z",
+  "generatedAt": "2026-11-28T09:03:30.723Z",
   "snapshots": [
-    "03:33"
+    "03:33",
+    "17:03"
   ],
   "topics": [
     {
       "id": "2026-11-28-01",
       "title": "ai刷屏：AI 军备竞赛进入新赛点",
-      "reason": "热度 76（热门）；23 分钟内新鲜事件，时效性强；6 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 公众号深度，同步微博快讯。",
+      "reason": "热度 77（热门）；5 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「科技AI」主线，贴合国内盘受众；建议首发 公众号深度，同步微博快讯。",
       "category": "科技AI",
-      "region": "美国",
+      "region": "中国",
       "platforms": [
         "公众号深度",
         "微博快讯",
         "短视频快评"
       ],
       "grade": "A",
-      "score": 76,
-      "heat": 76,
+      "score": 77,
+      "heat": 77,
       "angle": "技术突破 → 产业链受益顺序",
       "keyword": "ai",
-      "newsTitle": "OpenAI countersues Apple for stealing trade secrets",
-      "newsUrl": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
-      "source": "CNBC",
-      "publishedAt": 1795806621000,
+      "newsTitle": "付费让Claude训练AI，结果研究越做越差？Anthropic被曝秘密限制模型能力，开发者怒了",
+      "newsUrl": "https://wallstreetcn.com/articles/3786909",
+      "source": "华尔街见闻",
+      "publishedAt": 1795856343000,
       "firstSeenAt": "2026-11-27T19:33:07.281Z",
-      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+      "lastSeenAt": "2026-11-28T09:03:30.723Z"
     },
     {
       "id": "2026-11-28-02",
@@ -137,7 +138,7 @@
       "source": "华尔街见闻新闻",
       "publishedAt": 1795807190000,
       "firstSeenAt": "2026-11-27T19:33:07.281Z",
-      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+      "lastSeenAt": "2026-11-28T09:03:30.723Z"
     },
     {
       "id": "2026-11-28-07",
@@ -164,24 +165,24 @@
     {
       "id": "2026-11-28-08",
       "title": "黄金之后，哪些资产会被重新定价？",
-      "reason": "热度 50（温热）；1 小时内事件，仍在发酵窗口；属「大宗商品」主线，贴合全球受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "reason": "热度 50（温热）；13 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
       "category": "大宗商品",
-      "region": "全球",
+      "region": "美国",
       "platforms": [
         "短视频快评",
         "播客"
       ],
       "grade": "B",
-      "score": 50,
+      "score": 53,
       "heat": 50,
       "angle": "供需格局与价格弹性",
       "keyword": "黄金",
-      "newsTitle": "上海黄金交易所黄金T+D 11月27日（周五）晚盘收盘上涨0.56%报780.14元/克； 上海黄金交易所白银T+D 11月27日（周五）晚盘收盘上涨1.59%报10303.0元/千克。",
-      "newsUrl": "",
-      "source": "金十数据",
-      "publishedAt": 1795804212000,
+      "newsTitle": "水贝金店人多到挤不进来 金价震荡黄金卖爆了",
+      "newsUrl": "https://www.cls.cn/detail/2547242",
+      "source": "财联社电报",
+      "publishedAt": 1795855873000,
       "firstSeenAt": "2026-11-27T19:33:07.281Z",
-      "lastSeenAt": "2026-11-27T19:33:07.281Z"
+      "lastSeenAt": "2026-11-28T09:03:30.723Z"
     },
     {
       "id": "2026-11-28-09",
@@ -204,6 +205,94 @@
       "publishedAt": 1795805580000,
       "firstSeenAt": "2026-11-27T19:33:07.281Z",
       "lastSeenAt": "2026-11-27T19:33:07.281Z"
+    },
+    {
+      "id": "2026-11-28-10",
+      "title": "深聊丨宏观政策之后，钱会往哪去？",
+      "reason": "热度 37（平静）；7 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 37,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "阿富汗库纳尔省学校爆炸造成至少6名学生死亡。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795856223000,
+      "firstSeenAt": "2026-11-28T09:03:30.723Z",
+      "lastSeenAt": "2026-11-28T09:03:30.723Z"
+    },
+    {
+      "id": "2026-11-28-11",
+      "title": "从机器人聊起：普通投资者能学到什么",
+      "reason": "热度 33（平静）；2 小时内事件，仍在发酵窗口；属「科技AI」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 38,
+      "heat": 33,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "机器人",
+      "newsTitle": "何小鹏：机器人交付后首年预计实现良好盈利",
+      "newsUrl": "https://wallstreetcn.com/livenews/3207336",
+      "source": "华尔街见闻快讯",
+      "publishedAt": 1795850368000,
+      "firstSeenAt": "2026-11-28T09:03:30.723Z",
+      "lastSeenAt": "2026-11-28T09:03:30.723Z"
+    },
+    {
+      "id": "2026-11-28-12",
+      "title": "深聊丨监管之后，钱会往哪去？",
+      "reason": "热度 29（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合国内盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 38,
+      "heat": 29,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "监管",
+      "newsTitle": "司法部发布监督安全生产领域严格执法典型案例",
+      "newsUrl": "https://www.cls.cn/detail/2547233",
+      "source": "财联社电报",
+      "publishedAt": 1795851136000,
+      "firstSeenAt": "2026-11-28T09:03:30.723Z",
+      "lastSeenAt": "2026-11-28T09:03:30.723Z"
+    },
+    {
+      "id": "2026-11-28-13",
+      "title": "sec的另一面：那些被忽略的长期变量",
+      "reason": "热度 28（平静）；3 小时内事件，仍在发酵窗口；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 35,
+      "heat": 28,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+      "newsUrl": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+      "source": "CNBC",
+      "publishedAt": 1795845601000,
+      "firstSeenAt": "2026-11-28T09:03:30.723Z",
+      "lastSeenAt": "2026-11-28T09:03:30.723Z"
     }
   ]
 }
