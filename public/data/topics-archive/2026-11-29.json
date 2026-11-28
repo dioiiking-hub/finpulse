@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-29",
+  "generatedAt": "2026-11-28T18:19:05.361Z",
+  "snapshots": [
+    "02:19"
+  ],
+  "topics": [
+    {
+      "id": "2026-11-29-01",
+      "title": "深聊丨通胀之后，钱会往哪去？",
+      "reason": "热度 72（热门）；1 小时内事件，仍在发酵窗口；5 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "A",
+      "score": 73,
+      "heat": 72,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "通胀",
+      "newsTitle": "伊朗里亚尔逼近300万兑1美元 美国制裁与封锁加剧贬值压力",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795885471000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-02",
+      "title": "从美元聊起：普通投资者能学到什么",
+      "reason": "热度 66（热门）；20 分钟内新鲜事件，时效性强；5 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度",
+        "微博快讯"
+      ],
+      "grade": "B",
+      "score": 69,
+      "heat": 66,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美元",
+      "newsTitle": "美国联合忠诚银行被关闭，为两年多来美最大银行倒闭案",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795888755000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-03",
+      "title": "美联储的另一面：那些被忽略的长期变量",
+      "reason": "热度 45（温热）；56 分钟内新鲜事件，时效性强；2 家信源共振报道，确定性高；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 45,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "美联储",
+      "newsTitle": "特朗普能稳住AI市场，美联储托底仍难期待",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795886583000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-04",
+      "title": "ai的另一面：那些被忽略的长期变量",
+      "reason": "热度 42（温热）；4 小时内事件，仍在发酵窗口；3 家信源共振报道，确定性高；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 50,
+      "heat": 42,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "ai",
+      "newsTitle": "Jefferies says this dip is a rare tech buying opportunity. 5 stocks to pick up now",
+      "newsUrl": "https://www.cnbc.com/2026/11/28/jefferies-says-this-dip-is-a-rare-tech-buying-opportunity-5-stocks-to-pick-up-now-.html",
+      "source": "CNBC",
+      "publishedAt": 1795874175000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-05",
+      "title": "从dow聊起：普通投资者能学到什么",
+      "reason": "热度 48（温热）；16 分钟内新鲜事件，时效性强；属「美股」主线，贴合美盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从财报/估值与市场情绪切入。",
+      "category": "美股",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 49,
+      "heat": 48,
+      "angle": "财报/估值与市场情绪",
+      "keyword": "dow",
+      "newsTitle": "A 66-year-old nurse is facing down retirement with just $500 saved. Who&#x2019;s to blame?",
+      "newsUrl": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795888980000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-06",
+      "title": "从欧盟聊起：普通投资者能学到什么",
+      "reason": "热度 43（温热）；36 分钟内新鲜事件，时效性强；属「监管地缘」主线，贴合全球受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "全球",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 45,
+      "heat": 43,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "欧盟",
+      "newsTitle": "欧盟委员会主席冯德莱恩：欧洲是乌克兰迄今为止最大的支持者。自冲突爆发以来，我们已提供了超过2350亿欧元的援助。",
+      "newsUrl": "",
+      "source": "金十数据",
+      "publishedAt": 1795887812000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-07",
+      "title": "gold异动：供需天平正在向哪边倾斜？",
+      "reason": "热度 34（平静）；4 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「大宗商品」主线，贴合美盘受众；建议首发 短视频快评，同步播客；适合 40 分钟对谈展开，嘉宾可从供需格局与价格弹性切入。",
+      "category": "大宗商品",
+      "region": "美国",
+      "platforms": [
+        "短视频快评",
+        "播客"
+      ],
+      "grade": "B",
+      "score": 42,
+      "heat": 34,
+      "angle": "供需格局与价格弹性",
+      "keyword": "gold",
+      "newsTitle": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+      "newsUrl": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+      "source": "CNBC",
+      "publishedAt": 1795876491000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-08",
+      "title": "从sec聊起：普通投资者能学到什么",
+      "reason": "热度 33（平静）；2 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「监管地缘」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从政策博弈的影响矩阵切入。",
+      "category": "监管地缘",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 41,
+      "heat": 33,
+      "angle": "政策博弈的影响矩阵",
+      "keyword": "sec",
+      "newsTitle": "Supreme Court will decide whether assault weapons bans violate the Second Amendment",
+      "newsUrl": "https://www.cnbc.com/2026/11/28/supreme-court-to-decide-if-assault-weapons-bans-violate-2nd-amendment.html",
+      "source": "CNBC",
+      "publishedAt": 1795883140000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-09",
+      "title": "从crypto聊起：普通投资者能学到什么",
+      "reason": "热度 36（平静）；1 小时内事件，仍在发酵窗口；属「加密货币」主线，贴合全球受众；建议首发 播客；适合 40 分钟对谈展开，嘉宾可从机构化进程与链上数据切入。",
+      "category": "加密货币",
+      "region": "全球",
+      "platforms": [
+        "播客"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 36,
+      "angle": "机构化进程与链上数据",
+      "keyword": "crypto",
+      "newsTitle": "The Russian billionaire with a secret stake in Tether",
+      "newsUrl": "https://www.ft.com/content/260cdf2f-f878-4b00-9ea3-5253d7697d13?syn-25a6b1a6=1",
+      "source": "FT Markets",
+      "publishedAt": 1795885205000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-10",
+      "title": "宏观政策的另一面：那些被忽略的长期变量",
+      "reason": "热度 35（平静）；4 分钟内新鲜事件，时效性强；属「宏观政策」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从宏观传导链条（政策 → 利率 → 资产价格）切入。",
+      "category": "宏观政策",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 40,
+      "heat": 35,
+      "angle": "宏观传导链条（政策 → 利率 → 资产价格）",
+      "keyword": "宏观政策",
+      "newsTitle": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who&#x2019;s right?",
+      "newsUrl": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795889700000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-11",
+      "title": "深聊丨a股之后，钱会往哪去？",
+      "reason": "热度 30（平静）；4 小时内事件，仍在发酵窗口；2 家信源共振报道，确定性高；属「A股港股」主线，贴合国内盘受众；建议首发 播客，同步短视频快评；适合 40 分钟对谈展开，嘉宾可从资金面 + 产业主线切入。",
+      "category": "A股港股",
+      "region": "中国",
+      "platforms": [
+        "播客",
+        "短视频快评"
+      ],
+      "grade": "B",
+      "score": 39,
+      "heat": 30,
+      "angle": "资金面 + 产业主线",
+      "keyword": "a股",
+      "newsTitle": "今年以来公募基金、券商自营、各类养老金、保险资金等中长期资金合计净买入A股近8500亿元",
+      "newsUrl": "https://www.cls.cn/detail/2547298",
+      "source": "财联社电报",
+      "publishedAt": 1795876894000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    },
+    {
+      "id": "2026-11-29-12",
+      "title": "nvidia的另一面：那些被忽略的长期变量",
+      "reason": "热度 33（平静）；2 小时内事件，仍在发酵窗口；属「科技AI」主线，贴合美盘受众；建议首发 播客，同步公众号深度；适合 40 分钟对谈展开，嘉宾可从技术突破 → 产业链受益顺序切入。",
+      "category": "科技AI",
+      "region": "美国",
+      "platforms": [
+        "播客",
+        "公众号深度"
+      ],
+      "grade": "B",
+      "score": 38,
+      "heat": 33,
+      "angle": "技术突破 → 产业链受益顺序",
+      "keyword": "nvidia",
+      "newsTitle": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "newsUrl": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "publishedAt": 1795881600000,
+      "firstSeenAt": "2026-11-28T18:19:05.361Z",
+      "lastSeenAt": "2026-11-28T18:19:05.361Z"
+    }
+  ]
+}
